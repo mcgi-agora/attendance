@@ -69,9 +69,9 @@
                         <ol>
                             <li>Pumili ng "<strong>Type of service / meeting</strong>"
                             <li>Piliin ang tamang petsa sa "<strong>Date attended</strong>" input box
-                            <li>Piliin ang tamang oras sa "<strong>Time / batch attended</strong>"
-                            <li>Piliin ang inyong kinabibilangang<strong>Subgroup</strong>
-                            <li>Piliin ang inyong pangalan sa<strong>Members</strong>dropdown list
+                            <li>Piliin ang tamang oras sa "<strong>Time / Batch attended</strong>"
+                            <li>Piliin ang inyong kinabibilangang <strong>Cluster</strong> at <strong>Group</strong>
+                            <li>Piliin ang inyong pangalan sa <strong>Members</strong> dropdown list
                             <li>Pindutin ang "<strong>Submit attendance</strong>" button
                         </ol>
                         <hr>
@@ -85,13 +85,13 @@
     <form name="attendance-form">
         <div class="row text-center">
             <div class="col-12 mt-3">
-                <h2>Agora</h2>
+                <h2>Locale of Agora</h2>
                 <h5>NCR North</h5>
             </div>
         </div>
         <div class="row mt-5">
             <div class="col-12">
-                <h2>Attendance Form</h2>
+                <h2>Attendance</h2>
             </div>
         </div>
         <div class="row form-row">
@@ -118,10 +118,11 @@
                         placeholder="mm/dd/yyyy" type="date" aria-label="Sizing example input" name="date-attended"
                         required></div>
             </div>
-            <div class="form-group col-lg-4 col-md-12 col-sm-12 col-xl-4 col-xxl-4 dropdown"><label>Time / batch
+            <div class="form-group col-lg-4 col-md-12 col-sm-12 col-xl-4 col-xxl-4 dropdown"><label>Time / Batch
                     attended</label><select class="mb-3 form-select form-select-lg" id="time-attended" name="type"
                     value="">
                     <option value="">- Select Time Attended -
+                    <option value="04:00 AM">04:00 AM
                     <option value="04:30 AM">04:30 AM
                     <option value="05:00 AM">05:00 AM
                     <option value="05:30 AM">05:30 AM
@@ -172,39 +173,92 @@
         <div class="row">
             <div class="form-group col-lg-4 col-md-12 col-sm-12 col-xl-4 col-xxl-4 dropdown">
                 <label>Subgroup</label><select class="mb-3 form-select form-select-lg" id="subgroup" name="subgroup">
-                    <option value="">- Select Subgroup -
-                    <option value="1">1
-                    <option value="2">2
-                    <option value="3">3
-                    <option value="4">4
-                    <option value="5">5
-                    <option value="6">6
-                    <option value="7">7
-                    <option value="8">8
-                    <option value="9">9
-                    <option value="10">10
-                    <option value="11">11
-                    <option value="12">12
-                    <option value="13">13
-                    <option value="14">14
-                    <option value="15">15
-                    <option value="16">16
-                    <option value="17">17
-                    <option value="18">18
-                    <option value="19">19
-                    <option value="20">20
-                    <option value="21">21
-                    <option value="22">22
-                    <option value="23">23
-                    <option value="24">24
-                    <option value="25">25
-                    <option value="26">26
-                    <option value="27">27
-                    <option value="28">28
-                    <option value="29">29
-                    <option value="30">30
-                    <option value="Servants">Servants
-                </select></div>
+                    <option value="">- Select Group -
+                    <option value=1>1
+                    <option value=2>2
+                    <option value=3>3
+                    <option value=4>4
+                    <option value=5>5
+                    <option value=6>6
+                    <option value=7>7
+                    <option value=8>8
+                    <option value=9>9
+                    <option value=10>10
+                    <option value=11>11
+                    <option value=12>12
+                    <option value=13>13
+                    <option value=14>14
+                    <option value=15>15
+                    <option value=16>16
+                    <option value=17>17
+                    <option value=18>18
+                    <option value=19>19
+                    <option value=20>20
+                    <option value=21>21
+                    <option value=22>22
+                    <option value=23>23
+                    <option value=24>24
+                    <option value=25>25
+                    <option value=26>26
+                    <option value=27>27
+                    <option value=28>28
+                    <option value=29>29
+                    <option value=30>30
+                    <option value=31>31
+                    <option value=32>32
+                    <option value=33>33
+                    <option value=34>34
+                    <option value=35>35
+                    <option value=36>36
+                    <option value=37>37
+                    <option value=38>38
+                    <option value=39>39
+                    <option value=40>40
+                    <option value=41>41
+                    <option value=42>42
+                    <option value=43>43
+                    <option value=44>44
+                    <option value=45>45
+                    <option value=46>46
+                    <option value=47>47
+                    <option value=48>48
+                    <option value=49>49
+                    <option value=50>50
+                    <option value=51>51
+                    <option value=52>52
+                    <option value=53>53
+                    <option value=54>54
+                    <option value=55>55
+                    <option value=56>56
+                    <option value=57>57
+                    <option value=58>58
+                    <option value=59>59
+                    <option value=60>60
+                    <option value=61>61
+                    <option value=62>62
+                    <option value=63>63
+                    <option value=64>64
+                    <option value=65>65
+                    <option value=66>66
+                    <option value=67>67
+                    <option value=68>68
+                    <option value=69>69
+                    <option value=70>70
+                    <option value=71>71
+                    <option value=72>72
+                    <option value=73>73
+                    <option value=74>74
+                    <option value=75>75
+                    <option value=76>76
+                    <option value=77>77
+                    <option value=78>78
+                    <option value=79>79
+                    <option value=80>80
+                    <option value=Servants>Servants
+                    <option value=Teens>Teens
+                    <option value=NB>Newly Baptized
+                </select>
+            </div>
             <div class="form-group col-lg-4 col-md-12 col-sm-12 col-xl-4 col-xxl-4 dropdown" id="miembros-wrapper">
                 <label>Member</label>
                 <div class="row"><select class="mb-3 form-select form-select-lg" id="miembros"
@@ -215,7 +269,7 @@
                     <option value="">- Select Type of Platform -
                     <option value="Zoom" selected="selected">Zoom
                     <option value="YouTube">YouTube
-                    <option value="Facebook">Facebook                    
+                    <option value="Facebook">Facebook
                     <option value="MCGI TV">MCGI TV
                     <option value="Satelite">Satelite
                     <option value="Instagram">Instagram
