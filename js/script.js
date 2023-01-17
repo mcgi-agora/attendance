@@ -10,7 +10,7 @@ const loadMiembros = function() {
         }
         document.getElementById("miembros").innerHTML = text;
     }
-    xmlhttp.open("GET", "https://mcgi-agora.github.io/attendance/app/data-agora.json");
+    xmlhttp.open("GET", "attendance/app/data-agora.json");
     xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
     xmlhttp.send("x=" + dbParam);
 }
