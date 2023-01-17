@@ -1,0 +1,857 @@
+id,subgroup,fullname,churchid,kktk
+,1,"Badeo, Ivy C.",CON00055,FALSE
+,1,"Dela Cruz, Lauro C.",00903194,FALSE
+,1,"Delfino, Joanna May",NAV00450,FALSE
+,1,"Espiritu, Emmanuel",11584910,FALSE
+,1,"Magno, Alfredo S.",11509317,FALSE
+,1,"Mahilum, Francis",12130049,FALSE
+,1,"Piñero, Noel D.",00702953,FALSE
+,1,"Pordan, Lidia",,FALSE
+,1,"Prudente, Jason S.",00804275,FALSE
+,1,"Vibal, Jhonson",11804367,FALSE
+,2,"Alandria, Santo",,FALSE
+,2,"Bravo, Jeanlyn",,FALSE
+,2,"Ferrer, Jaymar",11703273,FALSE
+,2,"Martin, April",11849055,FALSE
+,2,"Oliveros, Jennifer",NAV00409,FALSE
+,2,"Paspie, Jovita M.",11214305,FALSE
+,2,"Paspie, Nikko",,FALSE
+,2,"Pepito, Jonathan",11914333,FALSE
+,2,"Reyes, Rhodjhet",12111537,FALSE
+,2,"Veluz, Wilfredo E.",11510451,FALSE
+,3,"Alonzo, Ulysses Jr.",TMP00005,FALSE
+,3,"Clavio, Ester",11849016,FALSE
+,3,"Clavio, Manuelito",NAV00342,FALSE
+,3,"Clavio, Marco Linuel N.",12116567,TRUE
+,3,"Clavio, Marilyn",NO100105,FALSE
+,3,"Clavio, Mary Ann N.",12116583,FALSE
+,3,"Clavio, Moises",11849015,FALSE
+,3,"Labrador, Joan",TMP00068,FALSE
+,3,"Labrador, Lorraine",TMP00069,FALSE
+,3,"Mag-usara, Ma. Merlynda",11009155,FALSE
+,4,"Badinas, Jeffrey N.",12129334,FALSE
+,4,"Baltazar, Danielyn",12120579,FALSE
+,4,"Banayad, Noel Jr. M.",12124686,FALSE
+,4,"Bindo, Alexander",12111546,FALSE
+,4,"Cabiles, Neri",11309311,FALSE
+,4,"De Leon, Virgilio Jr.",NAV00142,FALSE
+,4,"Jegger, Despi",,FALSE
+,4,"Luna, Gualberto",11116749,FALSE
+,4,"Silverio, Rusty",,FALSE
+,4,"Tamayo, Edison C.",12109666,FALSE
+,4,"Tumabcao, Dominador Jr.",11904241,FALSE
+,5,"Buenaventura, Cynthia",T0200179,FALSE
+,5,"Buenaventura, Dina",T0200155,FALSE
+,5,"Dawa, Jhun",11501907,FALSE
+,5,"Dela Cruz, Gregorio",12111570,FALSE
+,5,"Dionisio, Benjamin B.",T0200127,FALSE
+,5,"Dionisio, Roviline G.",T0200128,FALSE
+,5,"Lapid, Emir",11602655,FALSE
+,5,"San Pedro, Francisco",11914316,FALSE
+,5,"Socito, Danilo",11851573,FALSE
+,5,"Villanueva, Rolando R.",11407403,FALSE
+,6,"Agustin, Adriano S.",TMP00004,FALSE
+,6,"Barrera, Candelaria",KA200020,FALSE
+,6,"Castro, Jeboy",,FALSE
+,6,"Martizano, Jhonasan",,FALSE
+,6,"Punzalan, Janet",NAV00278,FALSE
+,6,"Suico, Danilo",UHA00004,FALSE
+,6,"Suico, Vitnora",11770256,FALSE
+,6,"Sumayao, Dennis P.",NAV00110,FALSE
+,6,"Sumayao, Maria Carina R.",M0800001,FALSE
+,6,"Velasquez, Jonathan",TMP00134,FALSE
+,7,"Baluyot, Brigida",TMP00011,FALSE
+,7,"Buising, Erwin",11702013,FALSE
+,7,"Dela Cruz, Loida",11709128,FALSE
+,7,"Manalus, Crispina",12130073,FALSE
+,7,"Manalus, Reynaldo N.",11311103,FALSE
+,7,"Oliveros, Glenalyn",NAV00359,FALSE
+,7,"Roderos, Esterlita P.",12123980,FALSE
+,7,"Roderos, Ma. Cassandra",12129333,FALSE
+,7,"Roderos, Mary Ann",11930063,FALSE
+,7,"Severano, Norma",TMP00107,FALSE
+,8,"Bisnar, Salvador",11506645,FALSE
+,8,"Bulos, Marcela B.",T0200062,FALSE
+,8,"Bulos, Roy N.",T0200177,FALSE
+,8,"Cabilogan, Erlyn",11203851,FALSE
+,8,"Candeluna, Cherry-lyn",11803507,FALSE
+,8,"Candeluna, Nelson",11802391,FALSE
+,8,"Celles, Juanita",T0200154,FALSE
+,8,"Delos Angeles, Cristina C.",11215264,FALSE
+,8,"Delos Angeles, Victor",11214478,FALSE
+,8,"Galicia, Ciriaco M.",11706500,FALSE
+,9,"Angeles, Camae",11109111,FALSE
+,9,"Angeles, Carmen",T0200036,FALSE
+,9,"Angeles, Chavy",11812454,FALSE
+,9,"Angeles, Clarice",11214514,FALSE
+,9,"Angeles, Emerson",T0200037,FALSE
+,9,"Angeles, Nelia",,FALSE
+,9,"Co, Danilo",,FALSE
+,9,"De Guzman, Jonathan",11001986,FALSE
+,9,"Guevarra, Juan A.",00808740,FALSE
+,9,"Zabala, Luis R.",00804897,FALSE
+,10,"Fajardo, Remedios",11603659,FALSE
+,10,"Kagalingan, Mary Beth",11801347,FALSE
+,10,"Kagalingan, Sherry C.",11805462,FALSE
+,10,"Kagalingan, Socrates",11805082,FALSE
+,10,"Pingol, Alfredo",T0200138,FALSE
+,10,"Pingol, Mary Grace",MU400010,FALSE
+,10,"Severano, Hilario",12130065,FALSE
+,10,"Severano, Mariza",12130063,FALSE
+,10,"Solayao, Arlyn",11804557,FALSE
+,10,"Solayao, Jerry",11804573,FALSE
+,11,"Barlaan, Arvin M.",00806324,FALSE
+,11,"Boholst, Maria Theresa",MAL00024,FALSE
+,11,"Boholst, Salvador",11711510,FALSE
+,11,"Carpio, Amelia",00910936,FALSE
+,11,"Dela Cruz, Dennis H.",,FALSE
+,11,"Magtuba, Jerfie",11832208,FALSE
+,11,"Magtuba, Jerfie Jr.",11832208,FALSE
+,11,"Magtuba, Jerlyn Ashley",11211410,FALSE
+,11,"Magtuba, Jocelyn",00909027,FALSE
+,11,"Ong, Lina",11204012,FALSE
+,12,"Acaba, Joel",12111544,FALSE
+,12,"Cabillo, Hilario",11214795,FALSE
+,12,"Labro, Gaudencio",NAV00015,FALSE
+,12,"Layong, Charina",11315945,FALSE
+,12,"Manalo, Bernardo",,FALSE
+,12,"Mariano, Armando Sr.",T0200167,FALSE
+,12,"Mariano, Jerry",B3100017,FALSE
+,12,"Mariano, Jimmy",11009621,FALSE
+,12,"Mariano, Melanie",11700765,FALSE
+,12,"Salac, Apolonio",11111256,FALSE
+,13,"Cabusog, Jenickel",11914309,FALSE
+,13,"Gabinete, Arnel Jr. Y.",QUI00165,FALSE
+,13,"Gabinete, Emely L.",QUI00161,FALSE
+,13,"Gabinete, Voltire",,FALSE
+,13,"Guerrero, Shania",,FALSE
+,13,"Martinez, Diana Alpha",00602829,FALSE
+,13,"Moreno, Jimmy",11708846,FALSE
+,13,"Oliva, Dave",,FALSE
+,13,"Ong, Alfredo",11511894,FALSE
+,13,"Saberon, Dionisio M.",11709806,FALSE
+,14,"Agron, Kimkathreene",NAV00425,FALSE
+,14,"Alpe, Cristine",11610579,FALSE
+,14,"Alpe, Larry",11610598,FALSE
+,14,"Bentulan, Argie",11801525,FALSE
+,14,"De Guzman, Elvira C.",NAV00301,FALSE
+,14,"De Guzman, Romeo T.",NAV00295,FALSE
+,14,"Flores, Romeo V.",11904593,FALSE
+,14,"Gilbuena, Claudio",TMP00061,FALSE
+,14,"Navarro, Edmundo Jr.",12111577,FALSE
+,14,"Ropero, Renie",11801624,FALSE
+,15,"Anggo, Arrex L.",11700706,FALSE
+,15,"De Jose, Nestor",11314244,FALSE
+,15,"Ferrer, Alber",,FALSE
+,15,"Ferrer, Gloria S.",CON00171,FALSE
+,15,"Tarectecan, Reynaldo Sr.",11600329,FALSE
+,15,"Tarectecan, Rhea",11602064,FALSE
+,15,"Villanueva, Alvin",11400490,FALSE
+,15,"Villanueva, Anthony E.",11509327,FALSE
+,15,"Villanueva, Felomena",11313526,FALSE
+,15,"Villanueva, Noela Mae M.",11315023,FALSE
+,16,"Andulte, Remedios",11712209,FALSE
+,16,"Apura, Florentina",12130053,FALSE
+,16,"Cuarteros, Bryan A.",12123975,FALSE
+,16,"Landero, Romy",11512382,FALSE
+,16,"Matubis, Jerry",11316371,FALSE
+,16,"Piolino, Arnel",,FALSE
+,16,"Piolino, Reyan",,FALSE
+,16,"Quizol, Nikki A.",,FALSE
+,16,"Rabino, Reymark F.",,FALSE
+,16,"Ysulan, Roberto",,FALSE
+,17,"Banajos, Rolando P.",12102218,FALSE
+,17,"De Vera, Ronald",00605905,FALSE
+,17,"Doria, Carlito",11301453,FALSE
+,17,"Galigo, Carmen O.",,FALSE
+,17,"Quitco, Jeffrey L.",11314343,FALSE
+,17,"Quitco, Mark",11506962,FALSE
+,17,"Santos, Erick A.",NAV00215,FALSE
+,17,"Santos, Ericka N.",11100483,FALSE
+,17,"Santos, Rowena N.",T0200150,FALSE
+,17,"Sarcia, Elvin",NAV00405,FALSE
+,18,"Abrajano, Crispin M.",,FALSE
+,18,"Alejandro, Helen",,FALSE
+,18,"Araneta, Ronald Y.",12108268,FALSE
+,18,"Malapo, Corazon G.",11801269,FALSE
+,18,"Reboldad, Romeo A.",12118855,FALSE
+,18,"Vapor, Oscar",,FALSE
+,18,"Vapor, Susana",,FALSE
+,18,"Velez, Lady Jean",11812441,TRUE
+,18,"Vibal, Jayson",11804367,FALSE
+,18,"Zamora, Rolando",T0200149,FALSE
+,19,"Centeno, Felimon",00610451,FALSE
+,19,"Centeno, Leticia U.",11711418,FALSE
+,19,"David, Christopher",11701453,FALSE
+,19,"Gallaza, Felix",12143442,FALSE
+,19,"Lara, Dennis R.",11301647,FALSE
+,19,"Lim, Alex",11812431,FALSE
+,19,"Mendigorin, Roel",11215176,FALSE
+,19,"Ramos, Eligio E.",BAC00160,TRUE
+,19,"Saberon, Amiel I.",TMP00124,FALSE
+,19,"Torres, Denise L.",11504326,FALSE
+,20,"Barrios, Allan Greg Jr.",12129136,FALSE
+,20,"Buniel, Gwendel R.",12116708,FALSE
+,20,"Comendador, Sanny E.",11002142,FALSE
+,20,"Daniel, Fatima",11506800,FALSE
+,20,"Facundo, Lesyl",11010271,FALSE
+,20,"Facundo, Rafael",11206048,FALSE
+,20,"Luriz, Ronnie G.",12140738,FALSE
+,20,"Malate, Kimberly",,TRUE
+,20,"Nolasco, Anne Christine",TON00015,FALSE
+,20,"Rosell, Allan",TUG00480,FALSE
+,20,"Rosell, Gina",TUG00483,FALSE
+,20,"Sanchez, Genalyn",T0200125,FALSE
+,21,"Batobalunos, Sheena",,FALSE
+,21,"Batobalunos, Shiela",11854735,FALSE
+,21,"Borres, Rommel A.",12108260,FALSE
+,21,"Daut, Atlas G.",00301183,FALSE
+,21,"Jubilo, Danilo",11513036,FALSE
+,21,"Jubilo, Mae",11709155,FALSE
+,21,"Jubilo, Mark Nicol",11709156,FALSE
+,21,"Jubilo, Trinidad",11512267,FALSE
+,21,"Peñaflor, Sydnee B.",12107956,FALSE
+,21,"Quimosing, Anthony",D9900002,FALSE
+,22,"Bayani, Ver A.",,FALSE
+,22,"Bobis, Gloria",11316012,FALSE
+,22,"De Guzman, Michael",00801057,FALSE
+,22,"Gala, Marionito",11105691,FALSE
+,22,"Gallego, Rays",,FALSE
+,22,"Gallego, Rey",T0200246,FALSE
+,22,"Lebante, John M.",11904276,FALSE
+,22,"Lenogon, Manuel",,FALSE
+,22,"Libante, Manuel",11208115,FALSE
+,22,"Nolasco, Noel",TON00005,FALSE
+,23,"Arcega, Freddie",TMP00140,FALSE
+,23,"Aurelio, Norma",11606970,FALSE
+,23,"Bongcawel, Fredie A.",12136837,FALSE
+,23,"Galang, Nestor",11112456,FALSE
+,23,"Garcia, Elpidio Jr.",NAV00166,FALSE
+,23,"Gilbuena, Gerald D.",12103861,FALSE
+,23,"Jimenez, Emma C.",TMP00064,FALSE
+,23,"San Juan, Ronald",00610002,FALSE
+,23,"San Juan, Zenaida",TMP00100,FALSE
+,23,"Torres, Pacita",11812466,FALSE
+,24,"Alvarez, Santiago",NAV00471,FALSE
+,24,"Dela Cruz, Emerson",NAV00078,FALSE
+,24,"Dela Cruz, Erickson",NAV00184,FALSE
+,24,"Dela Cruz, Jennylyn",00804733,FALSE
+,24,"Dela Cruz, Ma. Aletha Gay",11928464,FALSE
+,24,"Estera, Estrella",11904594,FALSE
+,24,"Fortunato, Mercado",00805733,FALSE
+,24,"Robles, Rizaldy",SHA00409,FALSE
+,24,"Solmayor, Vincent",,FALSE
+,24,"Vasquez, Michael",NAV00228,FALSE
+,25,"Candido, Fernando",TEW00187,FALSE
+,25,"Candido, Mary Angela A.",11508580,FALSE
+,25,"Candido, Mary Angeline A.",11805466,FALSE
+,25,"Gadayan, Florence",12107185,FALSE
+,25,"Guieb, William C.",T0200231,FALSE
+,25,"Moral, Elvira",00500055,FALSE
+,25,"Oliva, Teresita",12004222,FALSE
+,25,"Roncal, Glen",,FALSE
+,25,"Tayag, Reynaldo",12004221,FALSE
+,25,"Vivar, Andrea",12110044,FALSE
+,26,"Berdos, Ronald",,FALSE
+,26,"Berdos, Rowelyn",12130047,FALSE
+,26,"Bindo, Ruchel A.",12116629,FALSE
+,26,"Del Rosario, Ricardo",11705154,FALSE
+,26,"Pacrin, Jocelyn",,FALSE
+,26,"Palisoc, Jovet I.",11713563,FALSE
+,26,"Quiamco, Gavino Jr. C.",12123983,FALSE
+,26,"Quiamco, Lorna O.",12125383,FALSE
+,26,"Solis, Archie A.",T0200188,FALSE
+,26,"Solis, Jovy Ann D.",00612168,FALSE
+,27,"Figueroa, Emmanuel Sr.",ARJ00062,FALSE
+,27,"Gerez, Carlito",11316480,FALSE
+,27,"Limbo, Mario",11310828,FALSE
+,27,"Limbo, Normita",11310429,FALSE
+,27,"Macabus, Fe B.",11904239,FALSE
+,27,"Macabus, Gilda M.",TMP00078,FALSE
+,27,"Macabus, Jenifer B.",,FALSE
+,27,"Valente, Jocelyn O.",TON00063,FALSE
+,27,"Valente, Josefa O.",SJM00129,FALSE
+,27,"Valente, Renaldo O.",T0200033,FALSE
+,28,"Gacho, Gabriel",11711711,FALSE
+,28,"Gacho, Josie",ADB00004,FALSE
+,28,"Leoncito, Judith",12111527,FALSE
+,28,"Ortillano, Angela",12111526,FALSE
+,28,"Ortillano, Jiaan L.",12123944,FALSE
+,28,"Ortillano, Jovy",,FALSE
+,28,"Ortillano, Ma. Aleja",12111525,TRUE
+,28,"Polopot, Ryan A.",11302832,TRUE
+,28,"Resurreccion, Jennielle",,FALSE
+,28,"Valleser, Rutchiel",,FALSE
+,29,"Avelino, Jelord A.",12110700,FALSE
+,29,"Calicsihan, Jhonny",CON00229,FALSE
+,29,"Calicsihan, Lagrimas G.",CON00150,FALSE
+,29,"Calicsihan, Robin John",00905638,FALSE
+,29,"Escote, Ryan",11107269,FALSE
+,29,"Lara, Domingo Jr.",11104682,FALSE
+,29,"Lara, Jocelyn",11104574,FALSE
+,29,"Manapat, Arvin",,FALSE
+,29,"Paghubaran, Felix",,FALSE
+,29,"Zabala, Ma. Dolores",11206101,FALSE
+,29,"Zabala, Norman",S4500067,FALSE
+,30,"Aguilar, Jennyrose",11803510,FALSE
+,30,"Aguilar, Roderick",11803854,FALSE
+,30,"Bautista, Flora S.",11402486,FALSE
+,30,"Comendador, Remedios",11606703,FALSE
+,30,"De Guzman, Arnold",VEL00071,FALSE
+,30,"Lazarte, Danilo",00801044,FALSE
+,30,"Lim, Christian",12111530,FALSE
+,30,"Lim, Jamy",11206904,FALSE
+,30,"Mabalay, Richard",VEL00086,FALSE
+,30,"Villagracia, Filomeno O.",TMP00120,FALSE
+,31,"Manzalay, Myr",11102555,FALSE
+,31,"Oliveros, Armando",NAV00204,FALSE
+,31,"Pingol, Edgardo",00801253,FALSE
+,31,"Pingol, Emma",11206042,FALSE
+,31,"Pingol, Luisito",00806736,FALSE
+,31,"Tarroza, Mahalaleel P.",12141669,FALSE
+,31,"Triumfo, Edward",,FALSE
+,31,"Triumfo, Ernesto",NAV00406,FALSE
+,31,"Triumfo, Ernesto Jr. I.",11851563,FALSE
+,31,"Villena, Geraldine",12111543,FALSE
+,32,"Bautista, Bon J.",12134202,FALSE
+,32,"Centino, Lizel M.",PCB00131,FALSE
+,32,"Delbo, Jennivy",00900306,FALSE
+,32,"Delbo, Roberto",00703326,FALSE
+,32,"Fuentes, Ruel N.",,FALSE
+,32,"Gigataras, Harvy G.",,FALSE
+,32,"Malana, Alfonso",NAV00434,FALSE
+,32,"Malana, Angelou B.",12106774,FALSE
+,32,"Malana, Cristina L.",NAV00430,FALSE
+,32,"Malana, Leticia",NAV00213,FALSE
+,33,"Auxilian, Filipinas",UPP00200,FALSE
+,33,"Auxilian, Raymundo D.",UPP00214,FALSE
+,33,"Bautista, Erliza P.",11307931,FALSE
+,33,"Dela Cruz, Leilani M.",CON00216,FALSE
+,33,"Helira, Eduardo S.",11218961,FALSE
+,33,"Lubon, Ricardo M.",,FALSE
+,33,"Ortiaga, Lorena Rose",11849025,FALSE
+,33,"Ortiaga, Sim Jr.",11849024,FALSE
+,33,"Repuno, Ferdinand P.",LAS00372,FALSE
+,33,"Tribunado, Jonathan",,FALSE
+,34,"Absalon, Fermin",T0200196,FALSE
+,34,"Abueg, Victor Richard",TMP00001,FALSE
+,34,"Bautista, Michelle B.",12125379,FALSE
+,34,"Borromeo, Jesus",11509356,FALSE
+,34,"Borromeo, Juliet",12111533,FALSE
+,34,"Chiong, Tyron",11503963,FALSE
+,34,"Enriquez, Rogelio Jr.",11407353,FALSE
+,34,"Lopez, JR D.",00910387,FALSE
+,34,"Pasok, Joan Joyce",TON00040,FALSE
+,34,"Pasok, Rashieka",11805268,FALSE
+,35,"Barredo, Simeona P.",12116762,FALSE
+,35,"Dela Llana, Jose",11217262,FALSE
+,35,"Llanera, Amalia",T0200218,FALSE
+,35,"Llanera, Mark Robert",T0200215,FALSE
+,35,"Lunday, Emerson",11804989,FALSE
+,35,"Lunday, Ferdinand",12111534,FALSE
+,35,"Lunday, Manuela",12111339,FALSE
+,35,"Lunday, Noel",11211273,FALSE
+,35,"Prado, Emeliano S.",00910835,FALSE
+,35,"Rosal, Rogel",11849028,FALSE
+,36,"Gallano, Efraim J.",,FALSE
+,36,"Gallano, Emelita",11701486,FALSE
+,36,"Lerma, Romel P.",11801730,FALSE
+,36,"Ponce, Michelle",11414727,FALSE
+,36,"Sta. Ana, Genesis",12111569,FALSE
+,36,"Sta. Ana, Jiarrha P.",11609872,FALSE
+,36,"Sta. Ana, John Michael",11832196,FALSE
+,36,"Sta. Ana, Michael V.",00605903,FALSE
+,36,"Sta. Ana, Rugina P.",00702175,FALSE
+,37,"Abueg, Jhoy",11930066,FALSE
+,37,"Acedera, Carol",,FALSE
+,37,"Agustin, Mercedita",11490468,FALSE
+,37,"Bulatao, Maria",11812459,FALSE
+,37,"Bulatao, Ricky",SHA00116,FALSE
+,37,"Cabubas, Bianca Camille",12129138,FALSE
+,37,"Gala, Noel",11610998,FALSE
+,37,"Sandico, Albert",,FALSE
+,37,"Trinidad, Evelyn",T0200030,FALSE
+,37,"Trinidad, Federico",T0200028,FALSE
+,38,"Cerdan, Tanyag Jr. D.",00802137,FALSE
+,38,"Dela Cruz, Luciana Antonia O.",11110932,FALSE
+,38,"Dela Cruz, Patrick",11102978,FALSE
+,38,"Dela Cruz, Shiva C.",11104152,FALSE
+,38,"Manalaysay, Ammi Jay S.",12114597,FALSE
+,38,"Manalaysay, Jenifer",T0200032,FALSE
+,38,"Manalaysay, Jmiel S.",12114583,FALSE
+,38,"Manalaysay, Nestor",T0200031,FALSE
+,38,"Pasahol, Nora",11205836,FALSE
+,38,"Tolentino, Ricardo",TON00011,FALSE
+,39,"Ablola, Mary Jane B.",11914339,FALSE
+,39,"Ablola, Michael",11914336,FALSE
+,39,"Macaubos, Andrew F.",12123965,FALSE
+,39,"Macaubos, Laarni",,FALSE
+,39,"Macaubos, Luz Daniella",11410712,FALSE
+,39,"Macaubos, Pedro M.",T0200018,FALSE
+,39,"Mariano, Alejandro",T0200176,FALSE
+,39,"Mariano, Joy M.",T0200166,FALSE
+,39,"Peleno, Antonio Jr. C.",12106746,FALSE
+,39,"Sauro, Robin",,FALSE
+,40,"Arabis, Richelle",12130045,FALSE
+,40,"Balico, Jeffrey",MU100856,FALSE
+,40,"Balico, Jein Aaron",11804389,FALSE
+,40,"Balico, Manette",00807966,FALSE
+,40,"Enoy, Cherry Ann",12111542,FALSE
+,40,"Enoy, Mark Anthony",12111541,FALSE
+,40,"Narciso, Rosalinda P.",12126533,FALSE
+,40,"Rodriguez, Celerina",NO100060,FALSE
+,40,"Rodriguez, Roberto",MUI00671,FALSE
+,40,"Tan, Reynaldo G.",12116753,FALSE
+,41,"Ellustrisimo, Danilo",11709364,FALSE
+,41,"Jundis, Rogelio V.",12124019,FALSE
+,41,"Ramirez, Ariel",12130981,FALSE
+,41,"Semanes, Alfredo Jr.",11206484,FALSE
+,41,"Semanes, Dominador",11116756,FALSE
+,41,"Semanes, Eduardo",11206440,FALSE
+,41,"Semanes, Eivan P.",TMP00106,FALSE
+,41,"Semanes, Marc Alleck D.",11914295,FALSE
+,41,"Semanes, Remedios N.",11406673,FALSE
+,41,"Sipugay, Gina",11111123,FALSE
+,42,"Arcinas, Melanie M.",11505763,FALSE
+,42,"Mina, Lunisa",00801674,FALSE
+,42,"Mina, Ramil",QUI00992,FALSE
+,42,"Salut, Rosapie",11812483,FALSE
+,42,"Santos, Leila Marie",12111338,FALSE
+,42,"Santos, Robert B.",L9500278,FALSE
+,42,"Santos, Rosie Seth G.",00604785,FALSE
+,42,"Santos, Sophia Lorraine",12129331,FALSE
+,42,"Valenzona, Armando",02040195,FALSE
+,43,"Cabrigas, Arieslyn L.",12129058,FALSE
+,43,"Cabrigas, Jonathan C.",12129057,FALSE
+,43,"Fragas, Encarnacion",T0200084,FALSE
+,43,"Leal, Marilyn",,FALSE
+,43,"Leal, Orlando",,FALSE
+,43,"Leal, Roderick",11601495,FALSE
+,43,"Villaluna, Gina J.",12107204,FALSE
+,43,"Zantua, Adiecel P.",11501932,FALSE
+,43,"Zantua, Ashley Aiesha P.",12124678,FALSE
+,44,"Agapay, Manuel",00607942,FALSE
+,44,"Alcaras, Flora",LN100051,FALSE
+,44,"Bandilla, Airene",11107118,FALSE
+,44,"Bandilla, Melchor",STR00063,FALSE
+,44,"Cruzata, Pacita",T0200016,FALSE
+,44,"Gusi, Monaliza O.",11301830,FALSE
+,44,"Luis, Julie",CON00109,FALSE
+,44,"Luis, Renato",CON00209,FALSE
+,44,"Rondon, Roy A.",T0200103,FALSE
+,44,"Rosario, Ronald",11301990,FALSE
+,44,"Tan-awon, Milrose B.",12124023,FALSE
+,45,"Albiso, Rosalinda",11701458,FALSE
+,45,"Collado, Ailyn",11710311,FALSE
+,45,"Collado, Erold F.",11506924,FALSE
+,45,"Dela Cruz, Edmundo",T0200203,FALSE
+,45,"Masangcay, Marlon",TMP00084,FALSE
+,45,"Ong, Babelyn",11423932,FALSE
+,45,"Ong, Lance I.",11805468,FALSE
+,45,"Ong, Lauro",11438678,FALSE
+,45,"Ong, Loven Kyle",11605290,FALSE
+,45,"Ong, Teresita",11805925,FALSE
+,46,"Budoso, Eliseo",TMP00020,FALSE
+,46,"Budoso, Jacobina",11108108,FALSE
+,46,"Budoso, Maria E.",12125363,FALSE
+,46,"Dela Cruz, Ann Jaylaine",11812505,FALSE
+,46,"Dela Cruz, Nelson",11206360,FALSE
+,46,"Jocson, Cirilo N.",00706255,FALSE
+,46,"Mariñas, Mienrada",NAV00150,FALSE
+,46,"Oquias, Gia R.",,FALSE
+,46,"Riveral, Ruben",,FALSE
+,46,"Santos, Carmencita",11106544,FALSE
+,47,"Almozara, Conrado III",11218835,FALSE
+,47,"Almozara, Narcisa",T0200190,FALSE
+,47,"Catiempo, Suzanne T.",NAV00172,FALSE
+,47,"Cedro, Alberto C.",T0200197,FALSE
+,47,"Cedro, Merissa T.",T0200124,FALSE
+,47,"Gade, Rey A.",T0200047,FALSE
+,47,"Lacanaria, Raquel C.",00906828,FALSE
+,47,"Morales, Joel",,FALSE
+,47,"Pable, Celso C.",12125385,FALSE
+,47,"Silva, Evelyn T.",12127606,FALSE
+,48,"Atregenio, John Ralph A.",12103570,FALSE
+,48,"Deogrades, Bernie",12111576,FALSE
+,48,"Margallo, Ike T.",11201040,FALSE
+,48,"Mariano, Luis D.",,FALSE
+,48,"Mendoza, Jessie",11314390,FALSE
+,48,"Mendoza, Mary Joy",11812445,FALSE
+,48,"Mijares, Renato",T0200391,FALSE
+,48,"Pazon, Claridel",11203134,FALSE
+,48,"Pazon, Corrine",11604659,FALSE
+,48,"Pazon, Nelson",11203133,FALSE
+,49,"Cantilang, Daniela",11812507,FALSE
+,49,"Cantilang, Edgar Jr. G.",11608602,FALSE
+,49,"Cantilang, Edgar R.",NO100217,FALSE
+,49,"Cantilang, Edward G.",11704237,FALSE
+,49,"Cantilang, Marilyn G.",00706895,FALSE
+,49,"Cantilang, Mary Joy G.",11429156,FALSE
+,49,"De Vera, Isagani",QUI00300,FALSE
+,49,"De Vera, Isagani Jr.",,FALSE
+,49,"De Vera, Luzviminda",KUB00028,FALSE
+,49,"De Vera, Nerissa",11302072,FALSE
+,49,"Sedurifa, Jerome",11102899,FALSE
+,50,"Acaba, Edgar",12111573,FALSE
+,50,"Amboy, Eden",12111536,FALSE
+,50,"Amboy, Rodrigo M.",12111535,FALSE
+,50,"Baluyot, Brenson",11812444,TRUE
+,50,"Depeña, Jona M.",12105507,FALSE
+,50,"Gallado, Bella",12111545,FALSE
+,50,"Paray, Jefferson",TMP00130,FALSE
+,50,"Sambajon, Rudy M.",12103562,FALSE
+,50,"Tano, Bonifacio",T0200147,FALSE
+,50,"Tano, Zenaida",T0200105,FALSE
+,50,"Villanueva, Rey D.",12103852,FALSE
+,51,"Alvarez, Jonas U.",11218605,FALSE
+,51,"Lubiano, Myrna",TMP00076,FALSE
+,51,"Lubiano, Santiago Jr.",12129332,FALSE
+,51,"Pasahol, Jehan M.",12124028,FALSE
+,51,"Pasahol, Jessie Ann Nicole M.",12108998,FALSE
+,51,"Refamonte, Ernesto",TON00033,FALSE
+,51,"Romeo, George Donald",T0200090,FALSE
+,51,"Romeo, Riza",T0200089,FALSE
+,51,"Sabuga-a, Roel",11116719,FALSE
+,51,"Sejera, Marilyn B.",12108987,FALSE
+,52,"Abe, Rochelle",11712396,FALSE
+,52,"Dela Cruz, Christopher",11510693,FALSE
+,52,"Dela Cruz, Jayson Blue",11700709,FALSE
+,52,"Dela Cruz, Josephine",11512269,FALSE
+,52,"Garnudo, Benjamin",,FALSE
+,52,"Garnudo, Carolina",,FALSE
+,52,"Gebilaguin, Ariana Lynn",11914362,FALSE
+,52,"Gebilaguin, Marites",11212125,FALSE
+,52,"Labro, Mark Angelo",11210679,FALSE
+,52,"Ogalinola, Axcelle Jane L.",12114558,FALSE
+,52,"Quiachon, Democrito Jr.",12111571,FALSE
+,53,"Dela Cruz, Joan",,FALSE
+,53,"Flores, Maria Lourdes",12111574,FALSE
+,53,"Garcia, Angelito M.",12111531,FALSE
+,53,"Golo, Eleuterio",,FALSE
+,53,"Gutierrez, Nelson",,FALSE
+,53,"Indab, Hannah Coleen Z.",12004220,FALSE
+,53,"Mira, Josie",11432500,FALSE
+,53,"Mira, Rodel Sr. D.",11418936,FALSE
+,53,"Saluday, Nida G.",T0200263,FALSE
+,53,"Saluday, Romina G.",11200766,FALSE
+,54,"Bacalando, Marcelino",TON00001,FALSE
+,54,"Bartolata, Jenifer",TMP00012,FALSE
+,54,"Estrella, Nelia S.",11701359,FALSE
+,54,"Gida, Cyril",11313685,FALSE
+,54,"Gozo, Jesus Jr.",00701980,FALSE
+,54,"Prudenciado, Julius",11512168,FALSE
+,54,"Raymundo, Carlo",,FALSE
+,54,"Sarabosing, Efrenel",11511958,FALSE
+,54,"Sarabosing, Elga Micaela M.",12116554,FALSE
+,54,"Tan-awon, Caren Rose",,FALSE
+,55,"Arcinas, Michael",02800256,FALSE
+,55,"Arcinas, Sarah Jane N.",00609700,FALSE
+,55,"Nolasco, Rebecca",TON00014,FALSE
+,55,"Orbuda, Alexander",TON00034,FALSE
+,55,"Orbuda, Pacencia",,FALSE
+,55,"Orbuda, Teodorico",,FALSE
+,55,"Pacala, Gina",NAV00054,FALSE
+,55,"Salas, Irish A.",12111532,FALSE
+,55,"Zamora, Carlos H.",11851569,FALSE
+,55,"Zamora, Manuel",11316311,FALSE
+,56,"Arevalo, Jade S.",,FALSE
+,56,"Cajayon, Radelyn",11704144,FALSE
+,56,"Garino, Eduardo",11506469,FALSE
+,56,"Nuñez, Freddie E.",,FALSE
+,56,"Nuñez, Kearl Anthony S.",12005767,FALSE
+,56,"Nuñez, Ma. Lourdes",11211074,FALSE
+,56,"Nuñez, Narcisa",11110793,FALSE
+,56,"Quintia, Dennis",TMP00129,FALSE
+,56,"Romualdo, Jonel",11307963,FALSE
+,56,"Yurtas, Vitaliano Jr.",TUG0264,FALSE
+,57,"Angeles, Andrew",11831890,FALSE
+,57,"Angeles, Araceli",11907654,FALSE
+,57,"Angeles, Eleonor",,FALSE
+,57,"Caminade, Irene",11501933,FALSE
+,57,"Caminade, Neil Jhune",TON00050,FALSE
+,57,"Quinto, Alex",P0700106,FALSE
+,57,"Salmorin, Sharmaine",11914341,FALSE
+,57,"Tolentino, Edilborga H.",12103568,FALSE
+,57,"Tolentino, Jonathan D.",12103566,FALSE
+,58,"Bartolome, Jossa G.",12116594,FALSE
+,58,"Bulawan, Mary-an",TON00064,FALSE
+,58,"Cortes, Melchor",LI100105,FALSE
+,58,"Cortes, Rena",T0200132,FALSE
+,58,"Cristobal, Rolando",00614360,FALSE
+,58,"Dalmata, Jeson C.",12116602,FALSE
+,58,"Diokno, Gerlaine C.",12108993,FALSE
+,58,"Mijares, Ricardo G.",11102979,FALSE
+,58,"Pineda, Grace",12130066,FALSE
+,58,"Rosario, Reggie M.",12119953,FALSE
+,59,"Cajayon, Tracy D.",11704597,FALSE
+,59,"Gabas, Michael A.",TMP00058,FALSE
+,59,"Gonzales, Antonio",APA00583,FALSE
+,59,"Lacson, Rogelio",,FALSE
+,59,"Llana, Avelina",S1400061,FALSE
+,59,"Llana, Daniela Marie C.",11602116,FALSE
+,59,"Llana, Manolito",00805317,FALSE
+,59,"Llana, Melecio M.",S1400008,FALSE
+,59,"Llana, Melka Jessalyn",11503410,FALSE
+,59,"Pelimiano, Eurica",12134205,FALSE
+,60,"Alcera, Ian James T.",12102215,FALSE
+,60,"Alcera, Jenny",11928462,FALSE
+,60,"Aligarbes, Junalyn G.",12102216,FALSE
+,60,"Fariolen, Margarita",11202642,FALSE
+,60,"Fariolen, Romeo",11202452,FALSE
+,60,"Hernandez, Elcita S.",11712316,FALSE
+,60,"Hernandez, Ricardo",11712429,FALSE
+,60,"Suan, Michael D.",11602747,FALSE
+,60,"Veliganio, Ferdinand",00612521,FALSE
+,61,"Aguilar, Walter C.",11707135,FALSE
+,61,"Calansingin, Allan",11801410,FALSE
+,61,"Cortezano, Corazon",,FALSE
+,61,"Francisco, Luisa",11412213,FALSE
+,61,"Gimoro, Maricar",11914348,FALSE
+,61,"Lumbre, Jhoevelyn",11801947,FALSE
+,61,"Magan, Jusil",11914322,FALSE
+,61,"Rubiso, Virginia B.",11416169,FALSE
+,61,"Tumada, Analiza T.",TON00041,FALSE
+,61,"Tumada, Samuel M.",TON00007,FALSE
+,62,"Abad, Virgilio M.",11805711,FALSE
+,62,"Alarde, Ralp B.",12107174,FALSE
+,62,"Arong, Ian",,FALSE
+,62,"Balbas, Luzviminda",T0200187,FALSE
+,62,"Bernabe, Cherry Ann",KUB00379,FALSE
+,62,"Bernabe, Edgardo",KUB00380,FALSE
+,62,"Bernabe, Edward A.",11804331,FALSE
+,62,"Cabilen, Ronaldo D.",00612602,FALSE
+,62,"Royulada, Jonathan O.",12123925,FALSE
+,62,"Vibal, Jerick",,FALSE
+,63,"Cardeño, Brian Anthony D.",12102739,FALSE
+,63,"Cardeño, Mark Anthony D.",12109007,FALSE
+,63,"Cardeño, Melvin",TMP00126,FALSE
+,63,"Cardeño, Natalie Eden D.",12102773,FALSE
+,63,"Cardeño, Nathaniel Adam D.",12102741,FALSE
+,63,"Macaraig, Norma",12103222,FALSE
+,63,"Macaraig, Roger",12103224,FALSE
+,63,"Mira, Juliet P.",11450417,FALSE
+,63,"Mira, Manuel D.",11450417,FALSE
+,63,"Quintana, Rogelio",TMP00095,FALSE
+,63,"Villaluna, Grace",,FALSE
+,64,"Aterrado, Aries",QU100595,FALSE
+,64,"Corpuz, Jhun Rey",11500952,FALSE
+,64,"Dadua, Mark Andrew A.",12107167,FALSE
+,64,"Dadua, Rachel M.",12107198,FALSE
+,64,"Labitag, Alexander",12111528,FALSE
+,64,"Santos, John A.",11914359,FALSE
+,64,"Vibal, Joan",12111572,FALSE
+,64,"Vibal, Jonathan",,FALSE
+,64,"Vibal, Ma. Jesusa P.",11715214,FALSE
+,64,"Vibal, Yolanda",T0200043,FALSE
+,65,"Balmori, Benjamin M.",T0200185,FALSE
+,65,"Gebilaguin, Napoleon",11212365,FALSE
+,65,"Gelera, Joshua D.",12124026,FALSE
+,65,"Gonzales, Fely",11488051,FALSE
+,65,"Gonzales, Rufino",4TH00100,FALSE
+,65,"Padilla, Jonathan K.",12116741,FALSE
+,65,"Repil, Edgardo",11202649,FALSE
+,65,"Repil, Zenaida",11201996,FALSE
+,65,"Serrano, John S.",12108982,FALSE
+,66,"Bacalalayo, Cindy",,FALSE
+,66,"Bacalalayo, Junior",11302206,FALSE
+,66,"Burlan, Leticia",,FALSE
+,66,"Rosales, Blanca T.",11504270,FALSE
+,66,"Rosales, Earl Benjamin",11705732,FALSE
+,66,"Rosales, Eira Beatrice T.",12119593,FALSE
+,66,"Rosales, Emerson P.",11504271,FALSE
+,66,"Rosales, Enzo Benedict T.",12119591,FALSE
+,66,"Tecquin, Alma",00706450,FALSE
+,66,"Tecquin, Eduardo",,FALSE
+,67,"Azuelo, Rolly",12111575,FALSE
+,67,"Cariaso, Christian",00706059,FALSE
+,67,"Cariaso, Danica",00706780,FALSE
+,67,"Cruz, Rosario",00807095,FALSE
+,67,"Esposa, Gil",,FALSE
+,67,"Esposa, Gil Jr.",11400907,FALSE
+,67,"Etiroza, Marlen",TMP00039,FALSE
+,67,"Lacaba, Wilson",11600328,FALSE
+,67,"Morales, Marissa",T0200217,FALSE
+,67,"Munar, Roberto I.",12140736,FALSE
+,67,"Quitoriano, Jerry C.",QUA00084,FALSE
+,67,"Timagos, Arturo R.",00910421,FALSE
+,68,"Almazon, Wilfredo",,FALSE
+,68,"Bagallon, Gary V.",,FALSE
+,68,"Bentuso, Danilo",12144192,FALSE
+,68,"Fernandez, Bienvenida",12151740,FALSE
+,68,"Ocampo, Gretchin",12146219,FALSE
+,68,"Ocampo, Joy",,FALSE
+,68,"Rusia, Lujell",12143068,FALSE
+,68,"Salmorin, Romy Boy",11607590,FALSE
+,68,"Tubo, Delfin",,FALSE
+,68,"Zabala, Nash",12143078,FALSE
+,69,"Bobis, Noelle",00911544,FALSE
+,69,"Gaspar, Joel",12148910,FALSE
+,69,"Huab, Dennis",12148907,FALSE
+,69,"Orencio, Gonzalo Jr.",12148915,FALSE
+,69,"Palos, Alicia",12148913,FALSE
+,69,"Pazon, Nathaniel K.",12148782,FALSE
+,69,"Rosario, Ronald A.",12148740,FALSE
+,69,"Silvestre, Edwin",12148767,FALSE
+,69,"Villanueva, Rogelio",12148912,FALSE
+,70,"Alcera, Rafael",11928461,FALSE
+,70,"Balico, Angelaine",12151522,FALSE
+,70,"Camanso, Vhea",12148849,FALSE
+,70,"Dayao, Sandra",12149808,FALSE
+,70,"Dela Cruz, Resty",12151535,FALSE
+,70,"Dionisio, Roxanne",12102220,FALSE
+,70,"Gamorot, Anna M.",12151968,FALSE
+,70,"Saldivar, Jethro",12151537,FALSE
+,70,"Velez, Jozant",12151521,FALSE
+,70,"Villalon, Virginia",12151520,FALSE
+,71,"Calixtro, Rodelio",12151524,FALSE
+,71,"Candido, Reynaldo",12151513,FALSE
+,71,"Flores, Adelaida",12148919,FALSE
+,71,"Garnudo, Babelyn",12151533,FALSE
+,71,"Padang, Jay-arr",12151514,FALSE
+,71,"Pesimo, Modesto",12148921,FALSE
+,71,"Reyes, Marlyn",12151534,FALSE
+,71,"Sanchez, Alejandro Jr.",12151835,FALSE
+,71,"Velasco, Bernabe",12152053,FALSE
+,72,"Baruyot, Zanban",12202438,FALSE
+,72,"Dela Cruz, Dennis",12130057,FALSE
+,72,"Delos Reyes, Jonathan",12202432,FALSE
+,72,"Fernandez, Rhex",,FALSE
+,72,"Garnudo, Blackgold",12202433,FALSE
+,72,"Jangit, Elmer",12202429,FALSE
+,72,"Pecayo, Maricel",12202431,FALSE
+,72,"Soledad, Ronilda",12202439,FALSE
+,72,"Tabuna, Elenita",,FALSE
+,72,"Timbas, Miguelito",,FALSE
+,73,"Avelino, Art A.",12202441,FALSE
+,73,"Caballero, Warren O.",12205431,FALSE
+,73,"Candido, Berlita B.",12205433,FALSE
+,73,"Duquez, Shiela D.",12202435,FALSE
+,73,"Ibrahim, Meloujie C.",12205443,FALSE
+,73,"Kagalingan, Sophia",12205437,FALSE
+,73,"Navales, Aira Joy P.",12206110,FALSE
+,73,"Plaza, Filomina",12206166,FALSE
+,73,"San Juan, Penn V.",12205418,FALSE
+,73,"Tulio, Ma. Consuelo",12205436,FALSE
+,74,"Andrino, Jeffrey",,FALSE
+,74,"Bobis, Iluminado",,FALSE
+,74,"Caballero, Bernabe",,FALSE
+,74,"Caguintuan, Paul John",,FALSE
+,74,"Licup, Romeo B.",12205430,FALSE
+,74,"Luriz, Princess P.",12205439,FALSE
+,74,"Padura, Jeric",,FALSE
+,74,"Pagasita, Danilo Jr. C.",12205432,FALSE
+,74,"Ponge, Danilo S.",12206551,FALSE
+,74,"Salas, Eugene",,FALSE
+,74,"Sarabosing, Eitan Miguel",,FALSE
+,75,"Bitoin, John Christian V.",,FALSE
+,75,"Dona, Jayson",,FALSE
+,75,"Entera, Rosilyn M.",,FALSE
+,75,"Gil, Rosemarie C.",,FALSE
+,75,"Lunday, Keith Matthew T.",,FALSE
+,75,"Magon, Syrell",,FALSE
+,75,"Mariano, Jhentricia A.",,FALSE
+,75,"Pedronia, Leticia",,FALSE
+,75,"Pingol, Ageo",,FALSE
+,75,"Rodil, Annika S.",,FALSE
+,76,"Acaba, Agnes",,FALSE
+,76,"Albarico, Christian",,FALSE
+,76,"Catalasan, Oliver",,FALSE
+,76,"Dionisio, Billy Joe",,FALSE
+,76,"Estonilo, Arnel G.",,FALSE
+,76,"Macaubos, Carl Andrae",,FALSE
+,77,"Babagay, Jobell",,FALSE
+,77,"Buenaventura, Leonila",,FALSE
+,77,"Bulacan, Ligaya",,FALSE
+,77,"Hernandez, Teodoro",,FALSE
+,77,"Labrador, Jose Jr.",,FALSE
+,77,"Orsaga, Jorge",,FALSE
+,77,"Ponpon, Nicole",,FALSE
+,77,"Sabado, Gloria",,FALSE
+,77,"Sabado, Jackielyn",,FALSE
+,78,"Auguis, Jomar",,FALSE
+,78,"Bangayan, Joana",,FALSE
+,78,"Borja, Khrisna",,FALSE
+,78,"Golosinda, Dodie",,FALSE
+,78,"Mayrina, Marelyn",,FALSE
+,78,"Mira, Rodel Jr.",,FALSE
+,78,"Ordiz, Joselito",,FALSE
+,78,"Puroc, Bernardo",,FALSE
+,78,"Salamat, Trinidad",,FALSE
+,78,"Talana, Leonardo",,FALSE
+,78,"Talana, Rosalyn",,FALSE
+,78,"Tolentino, Roland",,FALSE
+,78,"Torres, Barry",,FALSE
+,78,"Zaide, Armando",,FALSE
+,79,"Balasbas, Arnel",,FALSE
+,79,"Balbas, Mariella",,FALSE
+,79,"Ballesteros, Ronnie",,FALSE
+,79,"Cabrigas, Ashly",,FALSE
+,79,"Legaspi, Enrico",,FALSE
+,79,"Naval, Leoncia",,FALSE
+,79,"Perucho, Joey",,FALSE
+,79,"Pingol, Marife",,FALSE
+,79,"Reyes, Ernesto",,FALSE
+,79,"Rico, Antonieta",,FALSE
+,79,"Rico, Sammy",,FALSE
+,79,"Rubio, Rizaldy",,FALSE
+,79,"Sari, Roel",,FALSE
+,79,"Tubato, Vida",,FALSE
+,79,"Villanueva, Joan",,FALSE
+,79,"Villanueva, Joemarie",,FALSE
+,,"Abdul, Joshue",,FALSE
+,,"Abiertas, Francis",,FALSE
+,,"Alpar, Mylene",11115744,FALSE
+,,"Aquinde, Enrico",,FALSE
+,,"Batuhan, Michael",,FALSE
+,,"Bocal, Anacleto Jr.",,FALSE
+,,"Budoso, Analyn S.",T0200104,FALSE
+,,"Budoso, Patricio Jr.",NOV00320,FALSE
+,,"Buenaventura, Daniel",T0200057,FALSE
+,,"Bustamante, Porferia",NO100229,FALSE
+,,"Capistrano, Genie",,FALSE
+,,"Cardente, Richard",11215757,FALSE
+,,"Constantino, Aida",,FALSE
+,,"Cruz, Rogelio",11115709,FALSE
+,,"Dantes, Geraldine",,FALSE
+,,"Defeo, Ronald C.",MU100445,FALSE
+,,"Dela Cruz, Jose",11506801,FALSE
+,,"Dela Cruz, Ryan",00308018,FALSE
+,,"Episcope, Daniel",,FALSE
+,,"Estavillo, Jen",,FALSE
+,,"Fariolen, Devenciana",11316430,FALSE
+,,"Gabas, Erick",,FALSE
+,,"Golez, Rose",,FALSE
+,,"Hermida, Myrna",CON00119,FALSE
+,,"Lazarte, Teresita",,FALSE
+,,"Lumabas, Mary Jean",11710291,FALSE
+,,"Luyang, Ronie",,FALSE
+,,"Mabalay, Laidel",11116969,FALSE
+,,"Macabus, Virgilio",,FALSE
+,,"Manapat, Arvin",,FALSE
+,,"Miral, Lorna",,FALSE
+,,"Montesino, Benjie",,FALSE
+,,"Montesino, Richarlie",,FALSE
+,,"Nolasco, Neil Victor",11005944,FALSE
+,,"Nuñez, Loreto",11506651,FALSE
+,,"Olita, Hazel",,FALSE
+,,"Olita, Sonny",,FALSE
+,,"Oliveros, Cristina M.",NAV00182,FALSE
+,,"Oliveros, Nestor R.",NAV00194,FALSE
+,,"Padul, Marlon",11300797,FALSE
+,,"Pelagio, Marciano Jr.",,FALSE
+,,"Pepito, Josephine C.",11914363,FALSE
+,,"Perez, Rhandy",LOS00101,FALSE
+,,"Ponce, Dennis",,FALSE
+,,"Posa, Jeniel",,FALSE
+,,"Salmorin, Jads Dannielyn",11606729,FALSE
+,,"Santos, Ronnie",,FALSE
+,,"Sarmiento, Lou",11803682,FALSE
+,,"Sejera, Ariel B.",11711634,FALSE
+,,"Tan, Glecie",,FALSE
+,,"Torion, Rey Genaldo",12111540,FALSE
+,,"Traballo, Romulo",,FALSE
+,,"Tubig, Nestor",,FALSE
+,,"Viaña, Niño",NAV00262,FALSE
+,,"Vidal, Van",11801739,FALSE
+,,"Warriner, Angielyn",,FALSE
+,,"Zabala, Pablito",00902048,FALSE
