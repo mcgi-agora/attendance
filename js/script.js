@@ -64,7 +64,7 @@ function validate() {
     var has_member = ($('#miembros').val().length > 0);
     if (has_service_type && has_date && has_time && has_subgroup && has_member) {
         var d = new Date($('#date-attended').val());
-        var current_year = 2021;
+        var current_year = 2023;
         if (d.getFullYear() < current_year) {
             alert('Please enter the correct date');
             return false;
@@ -271,20 +271,19 @@ $("#formRememberMe").on("click", function(event){
 				var data = $("#formpassword");
 				var res = h(data.val());
 				if(res === x){
-					window.localStorage.setItem("g8aform", data.val());
-					window.localStorage.setItem("g8aformValid", true);
+					window.localStorage.setItem("attendanceform", data.val());
+					window.localStorage.setItem("attendanceformValid", true);
 				}			
 			}else {
 				$(this).prop('checked', false);
 				$("#formpassword").val("");
-				window.localStorage.setItem("g8aform", "");
-				window.localStorage.setItem("g8aformValid", false);
+				window.localStorage.setItem("attendanceform", "");
+				window.localStorage.setItem("attendanceformValid", false);
 			}
 });	
-var sessStore=window.localStorage.getItem("g8aform");
-var sessStoreValid=window.localStorage.getItem("g8aformValid");
+var sessStore=window.localStorage.getItem("attendanceform");
+var sessStoreValid=window.localStorage.getItem("attendanceformValid");
 if(sessStore && h(sessStore) === x && sessStoreValid){
 	$("#formRememberMe").prop('checked', true);
 	$("#formpassword").val(sessStore);
-}			
-
+}
