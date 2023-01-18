@@ -187,19 +187,37 @@ function autoSelectTime(service_type) {
     // Set
     switch (service_type) {
         case "Prayer Meeting": {
-            $('#time-attended option:contains("4:30 AM")').attr('selected', true);
+            $('#time-attended option:contains("4:00 AM")').attr('selected', true);
             $('#platform option:selected').attr('selected', false);
             $('#platform option:contains("Zoom")').attr('selected', true);
             break;
         }
         case "Worship Service": {
-            $('#time-attended option:contains("4:30 AM")').attr('selected', true);
+            $('#time-attended option:contains("4:00 AM")').attr('selected', true);
             $('#platform option:selected').attr('selected', false);
             $('#platform option:contains("Zoom")').attr('selected', true);
             break;
         }
         case "Thanksgiving": {
-            $('#time-attended option:contains("5:00 PM")').attr('selected', true);
+            $('#time-attended option:contains("4:30 PM")').attr('selected', true);
+            $('#platform option:selected').attr('selected', false);
+            $('#platform option:contains("Zoom")').attr('selected', true);
+            break;
+        }
+        case "SPBB Day 1": {
+            $('#time-attended option:contains("4:30 PM")').attr('selected', true);
+            $('#platform option:selected').attr('selected', false);
+            $('#platform option:contains("Zoom")').attr('selected', true);
+            break;
+        }
+        case "SPBB Day 2": {
+            $('#time-attended option:contains("4:30 PM")').attr('selected', true);
+            $('#platform option:selected').attr('selected', false);
+            $('#platform option:contains("Zoom")').attr('selected', true);
+            break;
+        }
+        case "SPBB Day 3": {
+            $('#time-attended option:contains("4:30 PM")').attr('selected', true);
             $('#platform option:selected').attr('selected', false);
             $('#platform option:contains("Zoom")').attr('selected', true);
             break;
@@ -225,13 +243,19 @@ function autoSelectTime(service_type) {
         case "Serbisyong Kapatiran": {
             $('#time-attended option:contains("9:30 PM")').attr('selected', true);
             $('#platform option:selected').attr('selected', false);
-            $('#platform option:contains("Instagram")').attr('selected', true);
+            $('#platform option:contains("MCGI TV")').attr('selected', true);
             break;
         }
         case "Global Prayer": {
             $('#time-attended option:contains("9:30 PM")').attr('selected', true);
             $('#platform option:selected').attr('selected', false);
             $('#platform option:contains("YouTube")').attr('selected', true);
+            break;
+        }
+        case "SK Locale Edition": {
+            $('#time-attended option:contains("7:30 PM")').attr('selected', true);
+            $('#platform option:selected').attr('selected', false);
+            $('#platform option:contains("Zoom")').attr('selected', true);
             break;
         }
         default: $('#time-attended option:contains("- Select Time Attended -")').attr('selected', true); break;
