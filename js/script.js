@@ -33,7 +33,8 @@ function login() {
     checkPassword(password);
 }
 
-var x = 3249;
+// var x = 3249;
+var x = mcg1cares;
 function checkPassword(p) {
     if (!p) history.go(-1);
     if (h(p) == x) {
