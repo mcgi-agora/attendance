@@ -81,8 +81,8 @@ const saveAttendanceRecords = function() {
         return;
     }
     disableForm();
-    //const MACRO_SCRIPT_ID = 'AKfycbyJ9Ek72GDid-b1JUvCf-jGSqdJwQ_ZQnyQFcRcNWTUBDG8gmJzsHTBQc44PQ8yJFIv';
-    //const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec'
+    const MACRO_SCRIPT_ID = '1gwqwVwN80BZniZltdby3aCzaExRO-w9faEj6CxpMMMI';
+    const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec'
     const form = $('form[name=attendance-form]')
 
     var member_id = $('#miembros').val();
