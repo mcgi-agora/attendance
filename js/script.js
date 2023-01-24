@@ -82,8 +82,8 @@ const saveAttendanceRecords = function() {
     }
     disableForm();
     const MACRO_SCRIPT_ID = '1gwqwVwN80BZniZltdby3aCzaExRO-w9faEj6CxpMMMI';
-    const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec'
-    const form = $('form[name=attendance-form]')
+    const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec';
+    const form = $('form[name=attendance-form]');
 
     var member_id = $('#miembros').val();
     var church_id = $('#miembros option:selected').data('churchid');
