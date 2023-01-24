@@ -41,10 +41,8 @@ function checkPassword(p) {
         $('#attendance-form-password-container').hide();
         return true;
     }
-    //document.write('<h1>ACCESS DENIED</h1>');
-    //return false;
-    $('#attendance-form-container').show();
-    return true;
+    document.write('<h1>ACCESS DENIED</h1>');
+    return false;
     
 }
 
