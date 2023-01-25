@@ -105,6 +105,7 @@ const saveAttendanceRecords = function() {
     data.append('time_attended', time_attended);
     data.append('platform', platform);
     data.append('youth', youth);
+    console.log(formData(data));
 
     fetch(googleMacroURL, {
         method: 'POST',
