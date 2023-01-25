@@ -81,9 +81,11 @@ const saveAttendanceRecords = function() {
         return;
     }
     disableForm();
-    const MACRO_SCRIPT_ID = '1gwqwVwN80BZniZltdby3aCzaExRO-w9faEj6CxpMMMI';    
-    const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec';
+    //const MACRO_SCRIPT_ID = '1gwqwVwN80BZniZltdby3aCzaExRO-w9faEj6CxpMMMI';    
+    //const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec';
+    const sheetdb = 'https://sheetdb.io/api/v1/ywcdl0dl8fhb8';
     const form = $('form[name=attendance-form]');
+    
 
     var member_id = $('#miembros').val();
     var church_id = $('#miembros option:selected').data('churchid');
@@ -106,7 +108,7 @@ const saveAttendanceRecords = function() {
     data.append('platform', platform);
     data.append('youth', youth);
 
-    fetch(googleMacroURL, {
+    fetch(sheetdb, {
         method: 'POST',        
         mode: "no-cors",
         cache: "no-cache",
