@@ -60,7 +60,7 @@ function h(string) {
 function validate() {
     const moment = require('moment');
     var has_service_type = ($('#service-type').val().length > 0);
-    var dateTime = moment($('#datetime-attended').val().length > 0), 'YYYY-MM-DD HH:mm:ss');            
+    var dateTime = moment($('#datetime-attended').val().length > 0);
     //var has_date = ($('#date-attended').val().length > 0);
     //var has_time = ($('#time-attended').val().length > 0);
     var has_group = ($('#group').val().length > 0);
