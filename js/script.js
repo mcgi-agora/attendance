@@ -85,7 +85,6 @@ const saveAttendanceRecords = function() {
     //const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec';
     const sheetdb = 'https://sheetdb.io/api/v1/ywcdl0dl8fhb8';
     const form = $('form[name=attendance-form]');
-    
 
     var member_id = $('#miembros').val();
     var church_id = $('#miembros option:selected').data('churchid');
