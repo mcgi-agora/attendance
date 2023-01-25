@@ -60,19 +60,18 @@ function h(string) {
 function validate() {
     const moment = require('moment');
     var has_service_type = ($('#service-type').val().length > 0);
-    var dateTime = moment($('#datetime-attended').val().length > 0);
+    var has_datetime = moment($('#datetime-attended').val().length > 0);
     //var has_date = ($('#date-attended').val().length > 0);
     //var has_time = ($('#time-attended').val().length > 0);
     var has_group = ($('#group').val().length > 0);
     var has_member = ($('#miembros').val().length > 0);
-    if (has_service_type && dateTime && has_group && has_member) {
+    if (has_service_type && has_datetime && has_group && has_member) {
         var d = new Date($('#datetime-attended').val());
         var current_year = 2023;
         if (d.getFullYear() < current_year) {
             alert('Please enter the correct date');
             return false;
         }
-        dateTime.isValid();
         return true;
     }
     alert('Please complete the information in the form.');
@@ -144,8 +143,9 @@ function unsuccessfulAttendanceRecord() {
 
 function haveInputs() {
     var has_service_type = ($('#service-type option:selected').val().length > 0);
-    var has_date = ($('#date-attended').val().length > 0);
-    var has_time = ($('#time-attended option:selected').val().length > 0);
+    var has_datetime = moment($('#datetime-attended').val().length > 0);
+    //var has_date = ($('#date-attended').val().length > 0);
+    //var has_time = ($('#time-attended option:selected').val().length > 0);
     var has_group = ($('#group option:selected').val().length > 0);
     var has_member = ($('#miembros option:selected').val().length > 0);
     if (has_group) {
@@ -153,7 +153,7 @@ function haveInputs() {
     } else {
         $('#miembros').attr('disabled', true);
     }
-    if (has_service_type && has_date && has_time && has_group && has_member) {
+    if (has_service_type && has_datetime && has_group && has_member) {
         $('#submit-attendance-button').attr('disabled', false);
     } else {
         $('#submit-attendance-button').attr('disabled', true);
