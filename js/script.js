@@ -109,14 +109,14 @@ const saveAttendanceRecords = function() {
     data.append('youth', youth);
 
     fetch(sheetdb, {
-        method: 'POST',        
-        mode: "no-cors",
-        cache: "no-cache",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify(data)
-
+        method: 'POST',
+        body: data    
+        //mode: "no-cors",
+        //cache: "no-cache",
+        //headers: {
+        //    "Content-Type": "application/json"
+        //},
+        //body: JSON.stringify(data)
     })
     .then(response => response.json())
     .then(data => {
