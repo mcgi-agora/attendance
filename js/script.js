@@ -6,7 +6,7 @@ const loadMiembros = function() {
         window.miembros = myObj;
         let text = "<option id='select-a-member' value=''>- Select Name -</option>";
         for (let x in myObj) {
-            text += "<option value='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-group='" + myObj[x].group + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
+            text += "<option value='" + "' data-id='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-group='" + myObj[x].group + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
         }
         document.getElementById("miembros").innerHTML = text;
     }
@@ -22,7 +22,7 @@ function loadSubgroupMembers(id) {
     var myObj = window.miembros;
     for (let x in myObj) {
         if (myObj[x].group == id) {
-            text += "<option value='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-group='" + myObj[x].group + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
+            text += "<option value='" + "' data-id='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-group='" + myObj[x].group + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
         }
     }
     document.getElementById("miembros").innerHTML = text;
