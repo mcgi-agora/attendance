@@ -2,7 +2,7 @@
  {
    "id": "D0",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Macaubos, Pedro M.",
    "name": "Pedro M. Macaubos",
    "friendlyname": "Bro. Pedro Macaubos",
@@ -52,7 +52,7 @@
  {
    "id": "D1",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Llana, Melecio M.",
    "name": "Melecio M. Llana",
    "friendlyname": "Bro. Melo Llana",
@@ -102,7 +102,7 @@
  {
    "id": "D2",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Sumayao, Maria Carina R.",
    "name": "Maria Carina R. Sumayao",
    "friendlyname": "Sis. Carina Sumayao",
@@ -152,7 +152,7 @@
  {
    "id": "G1",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Prudente, Jason S.",
    "name": "Jason S. Prudente",
    "friendlyname": "Bro. Jason Prudente",
@@ -202,7 +202,7 @@
  {
    "id": "G10",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Pingol, Alfredo",
    "name": "Alfredo Pingol",
    "friendlyname": "Bro. Alfredo Pingol",
@@ -252,7 +252,7 @@
  {
    "id": "G11",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Magtuba, Jerfie",
    "name": "Jerfie Magtuba",
    "friendlyname": "Bro. Jerfie Magtuba",
@@ -302,7 +302,7 @@
  {
    "id": "G12",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Mariano, Jimmy",
    "name": "Jimmy Mariano",
    "friendlyname": "Bro. Jimmy Mariano",
@@ -352,7 +352,7 @@
  {
    "id": "G13",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Gabinete, Arnel Jr. Y.",
    "name": "Arnel Y. Gabinete Jr.",
    "friendlyname": "Bro. Arnel Gabinete Jr.",
@@ -402,7 +402,7 @@
  {
    "id": "G14",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Ropero, Renie",
    "name": "Renie Ropero",
    "friendlyname": "Bro. Renie Ropero",
@@ -452,7 +452,7 @@
  {
    "id": "G15",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Anggo, Arrex L.",
    "name": "Arrex L. Anggo",
    "friendlyname": "Bro. Arrex Anggo",
@@ -502,7 +502,7 @@
  {
    "id": "G16",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Rabino, Reymark F.",
    "name": "Reymark F. Rabino",
    "friendlyname": "Bro. Reymark Rabino",
@@ -552,7 +552,7 @@
  {
    "id": "G17",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Santos, Erick A.",
    "name": "Erick A. Santos",
    "friendlyname": "Bro. Erick Santos",
@@ -602,7 +602,7 @@
  {
    "id": "G18",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Vibal, Jayson",
    "name": "Jayson Vibal",
    "friendlyname": "Bro. Jayson Vibal",
@@ -652,7 +652,7 @@
  {
    "id": "G19",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Saberon, Amiel I.",
    "name": "Amiel I. Saberon",
    "friendlyname": "Bro. Amiel Saberon",
@@ -702,7 +702,7 @@
  {
    "id": "G2",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Pepito, Jonathan",
    "name": "Jonathan Pepito",
    "friendlyname": "Bro. Jonathan Pepito",
@@ -752,7 +752,7 @@
  {
    "id": "G20",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Comendador, Sanny E.",
    "name": "Sanny E. Comendador",
    "friendlyname": "Bro. Sanny Comendador",
@@ -802,7 +802,7 @@
  {
    "id": "G21",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Quimosing, Anthony",
    "name": "Anthony Quimosing",
    "friendlyname": "Bro. Anthony Quimosing",
@@ -852,7 +852,7 @@
  {
    "id": "G22",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Nolasco, Noel",
    "name": "Noel Nolasco",
    "friendlyname": "Bro. Noel Nolasco",
@@ -902,7 +902,7 @@
  {
    "id": "G23",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Garcia, Elpidio Jr.",
    "name": "Elpidio Garcia Jr.",
    "friendlyname": "Bro. Elpidio Garcia Jr.",
@@ -952,7 +952,7 @@
  {
    "id": "G24",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Dela Cruz, Emerson",
    "name": "Emerson Dela Cruz",
    "friendlyname": "Bro. Emerson Dela Cruz",
@@ -1002,7 +1002,7 @@
  {
    "id": "G25",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Candido, Fernando",
    "name": "Fernando Candido",
    "friendlyname": "Bro. Fernando Candido",
@@ -1052,7 +1052,7 @@
  {
    "id": "G26",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Palisoc, Jovet I.",
    "name": "Jovet I. Palisoc",
    "friendlyname": "Bro. Jovet Palisoc",
@@ -1102,7 +1102,7 @@
  {
    "id": "G27",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Valente, Renaldo O.",
    "name": "Renaldo O. Valente",
    "friendlyname": "Bro. Ren Valente",
@@ -1152,7 +1152,7 @@
  {
    "id": "G28",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Polopot, Ryan A.",
    "name": "Ryan A. Polopot",
    "friendlyname": "Bro. Ryan Polopot",
@@ -1202,7 +1202,7 @@
  {
    "id": "G29",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Zabala, Norman",
    "name": "Norman Zabala",
    "friendlyname": "Bro. Norman Zabala",
@@ -1252,7 +1252,7 @@
  {
    "id": "G3",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Clavio, Manuelito",
    "name": "Manuelito Clavio",
    "friendlyname": "Bro. Manuel Clavio",
@@ -1302,7 +1302,7 @@
  {
    "id": "G30",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Mabalay, Richard",
    "name": "Richard Mabalay",
    "friendlyname": "Bro. Richard Mabalay",
@@ -1352,7 +1352,7 @@
  {
    "id": "G31",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Oliveros, Armando",
    "name": "Armando Oliveros",
    "friendlyname": "Bro. Mandy Oliveros",
@@ -1402,7 +1402,7 @@
  {
    "id": "G32",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Malana, Alfonso",
    "name": "Alfonso Malana",
    "friendlyname": "Bro. Alfonso Malana",
@@ -1452,7 +1452,7 @@
  {
    "id": "G33",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Ortiaga, Sim Jr.",
    "name": "Sim Ortiaga Jr.",
    "friendlyname": "Bro. Sim Ortiaga Jr.",
@@ -1502,7 +1502,7 @@
  {
    "id": "G34",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Borromeo, Jesus",
    "name": "Jesus Borromeo",
    "friendlyname": "Bro. Jesus Borromeo",
@@ -1552,7 +1552,7 @@
  {
    "id": "G35",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Lunday, Noel",
    "name": "Noel Lunday",
    "friendlyname": "Bro. Noel Lunday",
@@ -1602,7 +1602,7 @@
  {
    "id": "G36",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Sta. Ana, Michael V.",
    "name": "Michael V. Sta. Ana",
    "friendlyname": "Bro. Michael Sta. Ana",
@@ -1652,7 +1652,7 @@
  {
    "id": "G37",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Bulatao, Ricky",
    "name": "Ricky Bulatao",
    "friendlyname": "Bro. Ricky Bulatao",
@@ -1702,7 +1702,7 @@
  {
    "id": "G38",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Cerdan, Tanyag Jr. D.",
    "name": "Tanyag D. Cerdan Jr.",
    "friendlyname": "Bro. Tanyag Cerdan Jr.",
@@ -1752,7 +1752,7 @@
  {
    "id": "G38",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Dela Cruz, Patrick",
    "name": "Patrick Dela Cruz",
    "friendlyname": "Bro. Patrick Dela Cruz",
@@ -1802,7 +1802,7 @@
  {
    "id": "G39",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Mariano, Alejandro",
    "name": "Alejandro Mariano",
    "friendlyname": "Bro. Ali Mariano",
@@ -1852,7 +1852,7 @@
  {
    "id": "G4",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "De Leon, Virgilio Jr.",
    "name": "Virgilio De Leon Jr.",
    "friendlyname": "Bro. Jon De Leon Jr.",
@@ -1902,7 +1902,7 @@
  {
    "id": "G40",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Balico, Jeffrey",
    "name": "Jeffrey Balico",
    "friendlyname": "Bro. Jeff Balico",
@@ -1952,7 +1952,7 @@
  {
    "id": "G40",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Enoy, Mark Anthony",
    "name": "Mark Anthony Enoy",
    "friendlyname": "Bro. Mark Anthony Enoy",
@@ -2002,7 +2002,7 @@
  {
    "id": "G40",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Rodriguez, Roberto",
    "name": "Roberto Rodriguez",
    "friendlyname": "Bro. Roberto Rodriguez",
@@ -2052,7 +2052,7 @@
  {
    "id": "G41",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Semanes, Eduardo",
    "name": "Eduardo Semanes",
    "friendlyname": "Bro. Eduardo Semanes",
@@ -2102,7 +2102,7 @@
  {
    "id": "G42",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Mina, Ramil",
    "name": "Ramil Mina",
    "friendlyname": "Bro. Ramil Mina",
@@ -2152,7 +2152,7 @@
  {
    "id": "G43",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Leal, Roderick",
    "name": "Roderick Leal",
    "friendlyname": "Bro. Roderick Leal",
@@ -2202,7 +2202,7 @@
  {
    "id": "G44",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Rosario, Ronald",
    "name": "Ronald Rosario",
    "friendlyname": "Bro. Ronald Rosario",
@@ -2252,7 +2252,7 @@
  {
    "id": "G45",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Dela Cruz, Edmundo",
    "name": "Edmundo Dela Cruz",
    "friendlyname": "Bro. Edmon Dela Cruz",
@@ -2302,7 +2302,7 @@
  {
    "id": "G46",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Dela Cruz, Nelson",
    "name": "Nelson Dela Cruz",
    "friendlyname": "Bro. Nelson Dela Cruz",
@@ -2352,7 +2352,7 @@
  {
    "id": "G48",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Mendoza, Jessie",
    "name": "Jessie Mendoza",
    "friendlyname": "Bro. Jess Mendoza",
@@ -2402,7 +2402,7 @@
  {
    "id": "G48",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Pazon, Nelson",
    "name": "Nelson Pazon",
    "friendlyname": "Bro. Nelson Pazon",
@@ -2452,7 +2452,7 @@
  {
    "id": "G49",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "Cantilang, Edgar R.",
    "name": "Edgar R. Cantilang",
    "friendlyname": "Bro. Edgar Cantilang",
@@ -2502,7 +2502,7 @@
  {
    "id": "G5",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Dionisio, Benjamin B.",
    "name": "Benjamin B. Dionisio",
    "friendlyname": "Bro. Benjamin Dionisio",
@@ -2552,7 +2552,7 @@
  {
    "id": "G50",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Baluyot, Brenson",
    "name": "Brenson Baluyot",
    "friendlyname": "Bro. Brenson Baluyot",
@@ -2602,7 +2602,7 @@
  {
    "id": "G51",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Alvarez, Jonas U.",
    "name": "Jonas U. Alvarez",
    "friendlyname": "Bro. Jonas Alvarez",
@@ -2652,7 +2652,7 @@
  {
    "id": "G53",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Mira, Rodel Sr. D.",
    "name": "Rodel D. Mira Sr.",
    "friendlyname": "Bro. Rodel Mira Sr.",
@@ -2702,7 +2702,7 @@
  {
    "id": "G54",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Gida, Cyril",
    "name": "Cyril Gida",
    "friendlyname": "Bro. Cyril Gida",
@@ -2752,7 +2752,7 @@
  {
    "id": "G55",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Zamora, Manuel",
    "name": "Manuel Zamora",
    "friendlyname": "Bro. Manuel Zamora",
@@ -2802,7 +2802,7 @@
  {
    "id": "G56",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Romualdo, Jonel",
    "name": "Jonel Romualdo",
    "friendlyname": "Bro. Jonel Romualdo",
@@ -2852,7 +2852,7 @@
  {
    "id": "G57",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Caminade, Neil Jhune",
    "name": "Neil Jhune Caminade",
    "friendlyname": "Bro. Neil Caminade",
@@ -2902,7 +2902,7 @@
  {
    "id": "G59",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Llana, Manolito",
    "name": "Manolito Llana",
    "friendlyname": "Bro. Manz Llana",
@@ -2952,7 +2952,7 @@
  {
    "id": "G6",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Sumayao, Dennis P.",
    "name": "Dennis P. Sumayao",
    "friendlyname": "Bro. Dennis Sumayao",
@@ -3002,7 +3002,7 @@
  {
    "id": "G60",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Fariolen, Romeo",
    "name": "Romeo Fariolen",
    "friendlyname": "Bro. Ram Fariolen",
@@ -3052,7 +3052,7 @@
  {
    "id": "G61",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Tumada, Samuel M.",
    "name": "Samuel M. Tumada",
    "friendlyname": "Bro. Samuel Tumada",
@@ -3102,7 +3102,7 @@
  {
    "id": "G62",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Cabilen, Ronaldo D.",
    "name": "Ronaldo D. Cabilen",
    "friendlyname": "Bro. Ronald Cabilen",
@@ -3152,7 +3152,7 @@
  {
    "id": "G63",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Mira, Manuel D.",
    "name": "Manuel D. Mira",
    "friendlyname": "Bro. Manuel Mira",
@@ -3202,7 +3202,7 @@
  {
    "id": "G64",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Corpuz, Jhun Rey",
    "name": "Jhun Rey Corpuz",
    "friendlyname": "Bro. Jhun Rey Corpuz",
@@ -3252,7 +3252,7 @@
  {
    "id": "G65",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Balmori, Benjamin M.",
    "name": "Benjamin M. Balmori",
    "friendlyname": "Bro. Benjamin Balmori",
@@ -3302,7 +3302,7 @@
  {
    "id": "G66",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Bacalalayo, Junior",
    "name": "Junior Bacalalayo",
    "friendlyname": "Bro. Junior Bacalalayo",
@@ -3352,7 +3352,7 @@
  {
    "id": "G67",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Esposa, Gil",
    "name": "Gil Esposa",
    "friendlyname": "Bro. Gil Esposa",
@@ -3402,7 +3402,7 @@
  {
    "id": "G67",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Esposa, Gil Jr.",
    "name": "Gil Esposa Jr.",
    "friendlyname": "Bro. Gil Esposa Jr.",
@@ -3452,7 +3452,7 @@
  {
    "id": "G69",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Bobis, Noelle",
    "name": "Noelle Bobis",
    "friendlyname": "Bro. Noelle Bobis",
@@ -3502,7 +3502,7 @@
  {
    "id": "G7",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Manalus, Reynaldo N.",
    "name": "Reynaldo N. Manalus",
    "friendlyname": "Bro. Reynaldo Manalus",
@@ -3552,7 +3552,7 @@
  {
    "id": "G70",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Alcera, Rafael",
    "name": "Rafael Alcera",
    "friendlyname": "Bro. Rafael Alcera",
@@ -3602,7 +3602,7 @@
  {
    "id": "G8",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Delos Angeles, Victor",
    "name": "Victor Delos Angeles",
    "friendlyname": "Bro. Vic Delos Angeles",
@@ -3652,7 +3652,7 @@
  {
    "id": "G9",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Angeles, Emerson",
    "name": "Emerson Angeles",
    "friendlyname": "Bro. Emer Angeles",
@@ -3702,7 +3702,7 @@
  {
    "id": "S1",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Cortes, Rena",
    "name": "Rena Cortes",
    "friendlyname": "Sis. Nora Cortes",
@@ -3752,7 +3752,7 @@
  {
    "id": "S2",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Tumada, Analiza T.",
    "name": "Analiza T. Tumada",
    "friendlyname": "Sis. Ana Tumada",
@@ -3802,7 +3802,7 @@
  {
    "id": "S3",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Luis, Julie",
    "name": "Julie Luis",
    "friendlyname": "Sis. Julie Luis",
@@ -3852,7 +3852,7 @@
  {
    "id": "S4",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Dela Cruz, Shiva C.",
    "name": "Shiva C. Dela Cruz",
    "friendlyname": "Sis. Shiva Dela Cruz",
@@ -3902,7 +3902,7 @@
  {
    "id": "S5",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Candido, Mary Angela A.",
    "name": "Mary Angela A. Candido",
    "friendlyname": "Sis. Angela Candido",
@@ -3952,7 +3952,7 @@
  {
    "id": "S6",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Dela Cruz, Loida",
    "name": "Loida Dela Cruz",
    "friendlyname": "Sis. Loida Dela Cruz",
@@ -4002,7 +4002,7 @@
  {
    "id": "S7",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Nolasco, Anne Christine",
    "name": "Anne Christine Nolasco",
    "friendlyname": "Sis. Anne Nolasco",
@@ -4052,7 +4052,7 @@
  {
    "id": "S8",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Llana, Melka Jessalyn",
    "name": "Melka Jessalyn Llana",
    "friendlyname": "Sis. Melka Llana",
@@ -4102,7 +4102,7 @@
  {
    "id": "T1",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Budoso, Analyn S.",
    "name": "Analyn S. Budoso",
    "friendlyname": "Sis. Ana Budoso",
@@ -4152,7 +4152,7 @@
  {
    "id": "T2",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Dela Cruz, Jennylyn",
    "name": "Jennylyn Dela Cruz",
    "friendlyname": "Sis. Jhen Dela Cruz",
@@ -4202,7 +4202,7 @@
  {
    "id": "W0",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Budoso, Patricio Jr.",
    "name": "Patricio Budoso Jr.",
    "friendlyname": "Bro. Patrick Budoso Jr.",
@@ -4252,7 +4252,7 @@
  {
    "id": "W1",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Abdul, Joshue",
    "name": "Joshue Abdul",
    "friendlyname": "Bro. Joshue Abdul",
@@ -4302,7 +4302,7 @@
  {
    "id": "W2",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Tan, Glecie",
    "name": "Glecie Tan",
    "friendlyname": "Sis. Glecie Tan",
@@ -4352,7 +4352,7 @@
  {
    "id": "W3",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Estavillo, Jen",
    "name": "Jen Estavillo",
    "friendlyname": "Sis. Jen Estavillo",
@@ -4402,7 +4402,7 @@
  {
    "id": "W4",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Oliveros, Nestor R.",
    "name": "Nestor R. Oliveros",
    "friendlyname": "Bro. Nestor Oliveros",
@@ -4452,7 +4452,7 @@
  {
    "id": "W5",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Oliveros, Cristina M.",
    "name": "Cristina M. Oliveros",
    "friendlyname": "Sis. Cristy Oliveros",
@@ -4502,7 +4502,7 @@
  {
    "id": "W6",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Pepito, Josephine C.",
    "name": "Josephine C. Pepito",
    "friendlyname": "Sis. Jho Pepito",
@@ -4552,7 +4552,7 @@
  {
    "id": "W7",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Salmorin, Jads Dannielyn",
    "name": "Jads Dannielyn Salmorin",
    "friendlyname": "Sis. Jai Salmorin",
@@ -4602,7 +4602,7 @@
  {
    "id": "W8",
    "cluster": null,
-   "subgroup": "Servant",
+   "group": "Servant",
    "fullname": "Sejera, Ariel B.",
    "name": "Ariel B. Sejera",
    "friendlyname": "Bro. Ariel Sejera",
@@ -4652,7 +4652,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Badeo, Ivy C.",
    "name": "Ivy C. Badeo",
    "friendlyname": "Sis. Ivy Badeo",
@@ -4702,7 +4702,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Dela Cruz, Lauro C.",
    "name": "Lauro C. Dela Cruz",
    "friendlyname": "Bro. Lauro Dela Cruz",
@@ -4752,7 +4752,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Delfino, Joanna May",
    "name": "Joanna May Delfino",
    "friendlyname": "Sis. Joanna May Delfino",
@@ -4802,7 +4802,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Espiritu, Emmanuel",
    "name": "Emmanuel Espiritu",
    "friendlyname": "Bro. Emmanuel Espiritu",
@@ -4852,7 +4852,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Magno, Alfredo S.",
    "name": "Alfredo S. Magno",
    "friendlyname": "Bro. Alfredo Magno",
@@ -4902,7 +4902,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Mahilum, Francis",
    "name": "Francis Mahilum",
    "friendlyname": "Bro. Francis Mahilum",
@@ -4952,7 +4952,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Piñero, Noel D.",
    "name": "Noel D. Piñero",
    "friendlyname": "Bro. Noel Piñero",
@@ -5002,7 +5002,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Pordan, Lidia",
    "name": "Lidia Pordan",
    "friendlyname": "Sis. Lidia Pordan",
@@ -5052,7 +5052,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "1",
+   "group": "1",
    "fullname": "Vibal, Jhonson",
    "name": "Jhonson Vibal",
    "friendlyname": "Bro. Jhonson Vibal",
@@ -5102,7 +5102,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Alandria, Santo",
    "name": "Santo Alandria",
    "friendlyname": "Bro. Santo Alandria",
@@ -5152,7 +5152,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Bravo, Jeanlyn",
    "name": "Jeanlyn Bravo",
    "friendlyname": "Sis. Jeanlyn Bravo",
@@ -5202,7 +5202,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Ferrer, Jaymar",
    "name": "Jaymar Ferrer",
    "friendlyname": "Bro. Jaymar Ferrer",
@@ -5252,7 +5252,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Martin, April",
    "name": "April Martin",
    "friendlyname": "Sis. April Martin",
@@ -5302,7 +5302,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Oliveros, Jennifer",
    "name": "Jennifer Oliveros",
    "friendlyname": "Sis. Jennifer Oliveros",
@@ -5352,7 +5352,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Paspie, Jovita M.",
    "name": "Jovita M. Paspie",
    "friendlyname": "Sis. Jovita Paspie",
@@ -5402,7 +5402,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Paspie, Nikko",
    "name": "Nikko Paspie",
    "friendlyname": "Bro. Nikko Paspie",
@@ -5452,7 +5452,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Reyes, Rhodjhet",
    "name": "Rhodjhet Reyes",
    "friendlyname": "Bro. Rhodjhet Reyes",
@@ -5502,7 +5502,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "2",
+   "group": "2",
    "fullname": "Veluz, Wilfredo E.",
    "name": "Wilfredo E. Veluz",
    "friendlyname": "Bro. Wilfredo Veluz",
@@ -5552,7 +5552,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Alonzo, Ulysses Jr.",
    "name": "Ulysses Alonzo Jr.",
    "friendlyname": "Bro. Ulysses Alonzo Jr.",
@@ -5602,7 +5602,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Clavio, Ester",
    "name": "Ester Clavio",
    "friendlyname": "Sis. Ester Clavio",
@@ -5652,7 +5652,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Clavio, Marco Linuel N.",
    "name": "Marco Linuel N. Clavio",
    "friendlyname": "Bro. Marco Clavio",
@@ -5702,7 +5702,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Clavio, Marilyn",
    "name": "Marilyn Clavio",
    "friendlyname": "Sis. Marilyn Clavio",
@@ -5752,7 +5752,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Clavio, Mary Ann N.",
    "name": "Mary Ann N. Clavio",
    "friendlyname": "Sis. Mary Ann Clavio",
@@ -5802,7 +5802,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Clavio, Moises",
    "name": "Moises Clavio",
    "friendlyname": "Bro. Moises Clavio",
@@ -5852,7 +5852,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Labrador, Joan",
    "name": "Joan Labrador",
    "friendlyname": "Sis. Joan Labrador",
@@ -5902,7 +5902,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Labrador, Lorraine",
    "name": "Lorraine Labrador",
    "friendlyname": "Sis. Lorraine Labrador",
@@ -5952,7 +5952,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "3",
+   "group": "3",
    "fullname": "Mag-usara, Ma. Merlynda",
    "name": "Ma. Merlynda Mag-usara",
    "friendlyname": "Sis. Merlynda Mag-usara",
@@ -6002,7 +6002,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Badinas, Jeffrey N.",
    "name": "Jeffrey N. Badinas",
    "friendlyname": "Bro. Jeffrey Badinas",
@@ -6052,7 +6052,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Baltazar, Danielyn",
    "name": "Danielyn Baltazar",
    "friendlyname": "Sis. Danielyn Baltazar",
@@ -6102,7 +6102,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Banayad, Noel Jr. M.",
    "name": "Noel M. Banayad Jr.",
    "friendlyname": "Bro. Noel Banayad Jr.",
@@ -6152,7 +6152,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Bindo, Alexander",
    "name": "Alexander Bindo",
    "friendlyname": "Bro. Alexander Bindo",
@@ -6202,7 +6202,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Cabiles, Neri",
    "name": "Neri Cabiles",
    "friendlyname": "Sis. Neri Cabiles",
@@ -6252,7 +6252,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Jegger, Despi",
    "name": "Despi Jegger",
    "friendlyname": "Bro. Despi Jegger",
@@ -6302,7 +6302,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Luna, Gualberto",
    "name": "Gualberto Luna",
    "friendlyname": "Bro. Gualberto Luna",
@@ -6352,7 +6352,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Silverio, Rusty",
    "name": "Rusty Silverio",
    "friendlyname": "Bro. Rusty Silverio",
@@ -6402,7 +6402,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Tamayo, Edison C.",
    "name": "Edison C. Tamayo",
    "friendlyname": "Bro. Edison Tamayo",
@@ -6452,7 +6452,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "4",
+   "group": "4",
    "fullname": "Tumabcao, Dominador Jr.",
    "name": "Dominador Tumabcao Jr.",
    "friendlyname": "Bro. Dominador Tumabcao Jr.",
@@ -6502,7 +6502,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Buenaventura, Cynthia",
    "name": "Cynthia Buenaventura",
    "friendlyname": "Sis. Cynthia Buenaventura",
@@ -6552,7 +6552,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Buenaventura, Dina",
    "name": "Dina Buenaventura",
    "friendlyname": "Sis. Dina Buenaventura",
@@ -6602,7 +6602,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Dawa, Jhun",
    "name": "Jhun Dawa",
    "friendlyname": "Bro. Jhun Dawa",
@@ -6652,7 +6652,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Dela Cruz, Gregorio",
    "name": "Gregorio Dela Cruz",
    "friendlyname": "Bro. Gregorio Dela Cruz",
@@ -6702,7 +6702,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Dionisio, Roviline G.",
    "name": "Roviline G. Dionisio",
    "friendlyname": "Sis. Roviline Dionisio",
@@ -6752,7 +6752,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Lapid, Emir",
    "name": "Emir Lapid",
    "friendlyname": "Bro. Emir Lapid",
@@ -6802,7 +6802,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "San Pedro, Francisco",
    "name": "Francisco San Pedro",
    "friendlyname": "Bro. Francisco San Pedro",
@@ -6852,7 +6852,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Socito, Danilo",
    "name": "Danilo Socito",
    "friendlyname": "Bro. Danilo Socito",
@@ -6902,7 +6902,7 @@
  {
    "id": "",
    "cluster": 1,
-   "subgroup": "5",
+   "group": "5",
    "fullname": "Villanueva, Rolando R.",
    "name": "Rolando R. Villanueva",
    "friendlyname": "Bro. Rolando Villanueva",
@@ -6952,7 +6952,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Agustin, Adriano S.",
    "name": "Adriano S. Agustin",
    "friendlyname": "Bro. Adriano Agustin",
@@ -7002,7 +7002,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Barrera, Candelaria",
    "name": "Candelaria Barrera",
    "friendlyname": "Sis. Candelaria Barrera",
@@ -7052,7 +7052,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Castro, Jeboy",
    "name": "Jeboy Castro",
    "friendlyname": "Bro. Jeboy Castro",
@@ -7102,7 +7102,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Martizano, Jhonasan",
    "name": "Jhonasan Martizano",
    "friendlyname": "Bro. Jhonasan Martizano",
@@ -7152,7 +7152,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Punzalan, Janet",
    "name": "Janet Punzalan",
    "friendlyname": "Sis. Janet Punzalan",
@@ -7202,7 +7202,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Suico, Danilo",
    "name": "Danilo Suico",
    "friendlyname": "Bro. Danilo Suico",
@@ -7252,7 +7252,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Suico, Vitnora",
    "name": "Vitnora Suico",
    "friendlyname": "Sis. Vitnora Suico",
@@ -7302,7 +7302,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "6",
+   "group": "6",
    "fullname": "Velasquez, Jonathan",
    "name": "Jonathan Velasquez",
    "friendlyname": "Bro. Jonathan Velasquez",
@@ -7352,7 +7352,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Baluyot, Brigida",
    "name": "Brigida Baluyot",
    "friendlyname": "Sis. Beda Baluyot",
@@ -7402,7 +7402,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Buising, Erwin",
    "name": "Erwin Buising",
    "friendlyname": "Bro. Erwin Buising",
@@ -7452,7 +7452,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Manalus, Crispina",
    "name": "Crispina Manalus",
    "friendlyname": "Sis. Crispina Manalus",
@@ -7502,7 +7502,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Oliveros, Glenalyn",
    "name": "Glenalyn Oliveros",
    "friendlyname": "Sis. Glenalyn Oliveros",
@@ -7552,7 +7552,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Roderos, Esterlita P.",
    "name": "Esterlita P. Roderos",
    "friendlyname": "Sis. Esterlita Roderos",
@@ -7602,7 +7602,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Roderos, Ma. Cassandra",
    "name": "Ma. Cassandra Roderos",
    "friendlyname": "Sis. Cassandra Roderos",
@@ -7652,7 +7652,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Roderos, Mary Ann",
    "name": "Mary Ann Roderos",
    "friendlyname": "Sis. Mary Ann Roderos",
@@ -7702,7 +7702,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "7",
+   "group": "7",
    "fullname": "Severano, Norma",
    "name": "Norma Severano",
    "friendlyname": "Sis. Norma Severano",
@@ -7752,7 +7752,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Bisnar, Salvador",
    "name": "Salvador Bisnar",
    "friendlyname": "Bro. Salvador Bisnar",
@@ -7802,7 +7802,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Bulos, Marcela B.",
    "name": "Marcela B. Bulos",
    "friendlyname": "Sis. Marcela Bulos",
@@ -7852,7 +7852,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Bulos, Roy N.",
    "name": "Roy N. Bulos",
    "friendlyname": "Bro. Roy Bulos",
@@ -7902,7 +7902,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Cabilogan, Erlyn",
    "name": "Erlyn Cabilogan",
    "friendlyname": "Sis. Erlyn Cabilogan",
@@ -7952,7 +7952,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Candeluna, Cherry-lyn",
    "name": "Cherry-lyn Candeluna",
    "friendlyname": "Sis. Cherry-lyn Candeluna",
@@ -8002,7 +8002,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Candeluna, Nelson",
    "name": "Nelson Candeluna",
    "friendlyname": "Bro. Nelson Candeluna",
@@ -8052,7 +8052,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Celles, Juanita",
    "name": "Juanita Celles",
    "friendlyname": "Sis. Juanita Celles",
@@ -8102,7 +8102,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Delos Angeles, Cristina C.",
    "name": "Cristina C. Delos Angeles",
    "friendlyname": "Sis. Thina Delos Angeles",
@@ -8152,7 +8152,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "8",
+   "group": "8",
    "fullname": "Galicia, Ciriaco M.",
    "name": "Ciriaco M. Galicia",
    "friendlyname": "Bro. Cirio Galicia",
@@ -8202,7 +8202,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Angeles, Camae",
    "name": "Camae Angeles",
    "friendlyname": "Sis. Camae Angeles",
@@ -8252,7 +8252,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Angeles, Carmen",
    "name": "Carmen Angeles",
    "friendlyname": "Sis. Carmen Angeles",
@@ -8302,7 +8302,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Angeles, Chavy",
    "name": "Chavy Angeles",
    "friendlyname": "Bro. Chavy Angeles",
@@ -8352,7 +8352,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Angeles, Clarice",
    "name": "Clarice Angeles",
    "friendlyname": "Sis. Clarice Angeles",
@@ -8402,7 +8402,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Angeles, Nelia",
    "name": "Nelia Angeles",
    "friendlyname": "Sis. Nelia Angeles",
@@ -8452,7 +8452,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Co, Danilo",
    "name": "Danilo Co",
    "friendlyname": "Bro. Danilo Co",
@@ -8502,7 +8502,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "De Guzman, Jonathan",
    "name": "Jonathan De Guzman",
    "friendlyname": "Bro. Jonathan De Guzman",
@@ -8552,7 +8552,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Guevarra, Juan A.",
    "name": "Juan A. Guevarra",
    "friendlyname": "Bro. Juan Guevarra",
@@ -8602,7 +8602,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "9",
+   "group": "9",
    "fullname": "Zabala, Luis R.",
    "name": "Luis R. Zabala",
    "friendlyname": "Bro. Luis Zabala",
@@ -8652,7 +8652,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Fajardo, Remedios",
    "name": "Remedios Fajardo",
    "friendlyname": "Sis. Remedios Fajardo",
@@ -8702,7 +8702,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Kagalingan, Mary Beth",
    "name": "Mary Beth Kagalingan",
    "friendlyname": "Sis. Mary Beth Kagalingan",
@@ -8752,7 +8752,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Kagalingan, Sherry C.",
    "name": "Sherry C. Kagalingan",
    "friendlyname": "Sis. Sherry Kagalingan",
@@ -8802,7 +8802,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Kagalingan, Socrates",
    "name": "Socrates Kagalingan",
    "friendlyname": "Bro. Socrates Kagalingan",
@@ -8852,7 +8852,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Pingol, Mary Grace",
    "name": "Mary Grace Pingol",
    "friendlyname": "Sis. Mary Grace Pingol",
@@ -8902,7 +8902,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Severano, Hilario",
    "name": "Hilario Severano",
    "friendlyname": "Bro. Hilario Severano",
@@ -8952,7 +8952,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Severano, Mariza",
    "name": "Mariza Severano",
    "friendlyname": "Sis. Mariza Severano",
@@ -9002,7 +9002,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Solayao, Arlyn",
    "name": "Arlyn Solayao",
    "friendlyname": "Sis. Arlyn Solayao",
@@ -9052,7 +9052,7 @@
  {
    "id": "",
    "cluster": 2,
-   "subgroup": "10",
+   "group": "10",
    "fullname": "Solayao, Jerry",
    "name": "Jerry Solayao",
    "friendlyname": "Bro. Jerry Solayao",
@@ -9102,7 +9102,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Barlaan, Arvin M.",
    "name": "Arvin M. Barlaan",
    "friendlyname": "Bro. Arvin Barlaan",
@@ -9152,7 +9152,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Boholst, Maria Theresa",
    "name": "Maria Theresa Boholst",
    "friendlyname": "Sis. Theresa Boholst",
@@ -9202,7 +9202,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Boholst, Salvador",
    "name": "Salvador Boholst",
    "friendlyname": "Bro. Salvador Boholst",
@@ -9252,7 +9252,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Carpio, Amelia",
    "name": "Amelia Carpio",
    "friendlyname": "Sis. Amelia Carpio",
@@ -9302,7 +9302,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Dela Cruz, Dennis H.",
    "name": "Dennis H. Dela Cruz",
    "friendlyname": "Bro. Dennis Dela Cruz",
@@ -9352,7 +9352,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Magtuba, Jerfie Jr.",
    "name": "Jerfie Magtuba Jr.",
    "friendlyname": "Bro. Jerfie Magtuba Jr.",
@@ -9402,7 +9402,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Magtuba, Jerlyn Ashley",
    "name": "Jerlyn Ashley Magtuba",
    "friendlyname": "Sis. Jerlyn Ashley Magtuba",
@@ -9452,7 +9452,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Magtuba, Jocelyn",
    "name": "Jocelyn Magtuba",
    "friendlyname": "Sis. Jocelyn Magtuba",
@@ -9502,7 +9502,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "11",
+   "group": "11",
    "fullname": "Ong, Lina",
    "name": "Lina Ong",
    "friendlyname": "Sis. Lina Ong",
@@ -9552,7 +9552,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Acaba, Joel",
    "name": "Joel Acaba",
    "friendlyname": "Bro. Joel Acaba",
@@ -9602,7 +9602,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Cabillo, Hilario",
    "name": "Hilario Cabillo",
    "friendlyname": "Bro. Hilario Cabillo",
@@ -9652,7 +9652,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Labro, Gaudencio",
    "name": "Gaudencio Labro",
    "friendlyname": "Bro. Gaudencio Labro",
@@ -9702,7 +9702,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Layong, Charina",
    "name": "Charina Layong",
    "friendlyname": "Sis. Charina Layong",
@@ -9752,7 +9752,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Manalo, Bernardo",
    "name": "Bernardo Manalo",
    "friendlyname": "Bro. Bernardo Manalo",
@@ -9802,7 +9802,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Mariano, Armando Sr.",
    "name": "Armando Mariano Sr.",
    "friendlyname": "Bro. Armando Mariano Sr.",
@@ -9852,7 +9852,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Mariano, Jerry",
    "name": "Jerry Mariano",
    "friendlyname": "Bro. Jerry Mariano",
@@ -9902,7 +9902,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Mariano, Melanie",
    "name": "Melanie Mariano",
    "friendlyname": "Sis. Melanie Mariano",
@@ -9952,7 +9952,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "12",
+   "group": "12",
    "fullname": "Salac, Apolonio",
    "name": "Apolonio Salac",
    "friendlyname": "Bro. Apolonio Salac",
@@ -10002,7 +10002,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Cabusog, Jenickel",
    "name": "Jenickel Cabusog",
    "friendlyname": "Sis. Jenickel Cabusog",
@@ -10052,7 +10052,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Gabinete, Emely L.",
    "name": "Emely L. Gabinete",
    "friendlyname": "Sis. Emely Gabinete",
@@ -10102,7 +10102,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Gabinete, Voltire",
    "name": "Voltire Gabinete",
    "friendlyname": "Bro. Voltire Gabinete",
@@ -10152,7 +10152,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Guerrero, Shania",
    "name": "Shania Guerrero",
    "friendlyname": "Sis. Shania Guerrero",
@@ -10202,7 +10202,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Martinez, Diana Alpha",
    "name": "Diana Alpha Martinez",
    "friendlyname": "Sis. Diana Alpha Martinez",
@@ -10252,7 +10252,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Moreno, Jimmy",
    "name": "Jimmy Moreno",
    "friendlyname": "Bro. Jimmy Moreno",
@@ -10302,7 +10302,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Oliva, Dave",
    "name": "Dave Oliva",
    "friendlyname": "Bro. Dave Oliva",
@@ -10352,7 +10352,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Ong, Alfredo",
    "name": "Alfredo Ong",
    "friendlyname": "Bro. Alfredo Ong",
@@ -10402,7 +10402,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "13",
+   "group": "13",
    "fullname": "Saberon, Dionisio M.",
    "name": "Dionisio M. Saberon",
    "friendlyname": "Bro. Dionisio Saberon",
@@ -10452,7 +10452,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Agron, Kimkathreene",
    "name": "Kimkathreene Agron",
    "friendlyname": "Sis. Kimkathreene Agron",
@@ -10502,7 +10502,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Alpe, Cristine",
    "name": "Cristine Alpe",
    "friendlyname": "Sis. Cristine Alpe",
@@ -10552,7 +10552,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Alpe, Larry",
    "name": "Larry Alpe",
    "friendlyname": "Bro. Larry Alpe",
@@ -10602,7 +10602,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Bentulan, Argie",
    "name": "Argie Bentulan",
    "friendlyname": "Bro. Argie Bentulan",
@@ -10652,7 +10652,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "De Guzman, Elvira C.",
    "name": "Elvira C. De Guzman",
    "friendlyname": "Sis. Elvira De Guzman",
@@ -10702,7 +10702,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "De Guzman, Romeo T.",
    "name": "Romeo T. De Guzman",
    "friendlyname": "Bro. Romeo De Guzman",
@@ -10752,7 +10752,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Flores, Romeo V.",
    "name": "Romeo V. Flores",
    "friendlyname": "Bro. Romeo Flores",
@@ -10802,7 +10802,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Gilbuena, Claudio",
    "name": "Claudio Gilbuena",
    "friendlyname": "Bro. Claudio Gilbuena",
@@ -10852,7 +10852,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "14",
+   "group": "14",
    "fullname": "Navarro, Edmundo Jr.",
    "name": "Edmundo Navarro Jr.",
    "friendlyname": "Bro. Edmundo Navarro Jr.",
@@ -10902,7 +10902,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "De Jose, Nestor",
    "name": "Nestor De Jose",
    "friendlyname": "Bro. Nestor De Jose",
@@ -10952,7 +10952,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Ferrer, Alber",
    "name": "Alber Ferrer",
    "friendlyname": "Bro. Alber Ferrer",
@@ -11002,7 +11002,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Ferrer, Gloria S.",
    "name": "Gloria S. Ferrer",
    "friendlyname": "Sis. Gloria Ferrer",
@@ -11052,7 +11052,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Tarectecan, Reynaldo Sr.",
    "name": "Reynaldo Tarectecan Sr.",
    "friendlyname": "Bro. Reynaldo Tarectecan Sr.",
@@ -11102,7 +11102,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Tarectecan, Rhea",
    "name": "Rhea Tarectecan",
    "friendlyname": "Sis. Rhea Tarectecan",
@@ -11152,7 +11152,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Villanueva, Alvin",
    "name": "Alvin Villanueva",
    "friendlyname": "Bro. Alvin Villanueva",
@@ -11202,7 +11202,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Villanueva, Anthony E.",
    "name": "Anthony E. Villanueva",
    "friendlyname": "Bro. Anthony Villanueva",
@@ -11252,7 +11252,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Villanueva, Felomena",
    "name": "Felomena Villanueva",
    "friendlyname": "Sis. Felomena Villanueva",
@@ -11302,7 +11302,7 @@
  {
    "id": "",
    "cluster": 3,
-   "subgroup": "15",
+   "group": "15",
    "fullname": "Villanueva, Noela Mae M.",
    "name": "Noela Mae M. Villanueva",
    "friendlyname": "Sis. Noela Mae Villanueva",
@@ -11352,7 +11352,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Andulte, Remedios",
    "name": "Remedios Andulte",
    "friendlyname": "Sis. Remedios Andulte",
@@ -11402,7 +11402,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Apura, Florentina",
    "name": "Florentina Apura",
    "friendlyname": "Sis. Florentina Apura",
@@ -11452,7 +11452,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Cuarteros, Bryan A.",
    "name": "Bryan A. Cuarteros",
    "friendlyname": "Bro. Bryan Cuarteros",
@@ -11502,7 +11502,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Landero, Romy",
    "name": "Romy Landero",
    "friendlyname": "Bro. Romy Landero",
@@ -11552,7 +11552,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Matubis, Jerry",
    "name": "Jerry Matubis",
    "friendlyname": "Bro. Jerry Matubis",
@@ -11602,7 +11602,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Piolino, Arnel",
    "name": "Arnel Piolino",
    "friendlyname": "Bro. Arnel Piolino",
@@ -11652,7 +11652,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Piolino, Reyan",
    "name": "Reyan Piolino",
    "friendlyname": "Sis. Reyan Piolino",
@@ -11702,7 +11702,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Quizol, Nikki A.",
    "name": "Nikki A. Quizol",
    "friendlyname": "Sis. Nikki Quizol",
@@ -11752,7 +11752,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "16",
+   "group": "16",
    "fullname": "Ysulan, Roberto",
    "name": "Roberto Ysulan",
    "friendlyname": "Bro. Roberto Ysulan",
@@ -11802,7 +11802,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Banajos, Rolando P.",
    "name": "Rolando P. Banajos",
    "friendlyname": "Bro. Rolando Banajos",
@@ -11852,7 +11852,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "De Vera, Ronald",
    "name": "Ronald De Vera",
    "friendlyname": "Bro. Ronald De Vera",
@@ -11902,7 +11902,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Doria, Carlito",
    "name": "Carlito Doria",
    "friendlyname": "Bro. Carlito Doria",
@@ -11952,7 +11952,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Galigo, Carmen O.",
    "name": "Carmen O. Galigo",
    "friendlyname": "Sis. Carmen Galigo",
@@ -12002,7 +12002,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Quitco, Jeffrey L.",
    "name": "Jeffrey L. Quitco",
    "friendlyname": "Bro. Jeffrey Quitco",
@@ -12052,7 +12052,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Quitco, Mark",
    "name": "Mark Quitco",
    "friendlyname": "Bro. Mark Quitco",
@@ -12102,7 +12102,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Santos, Ericka N.",
    "name": "Ericka N. Santos",
    "friendlyname": "Sis. Ericka Santos",
@@ -12152,7 +12152,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Santos, Rowena N.",
    "name": "Rowena N. Santos",
    "friendlyname": "Sis. Rowena Santos",
@@ -12202,7 +12202,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "17",
+   "group": "17",
    "fullname": "Sarcia, Elvin",
    "name": "Elvin Sarcia",
    "friendlyname": "Bro. Elvin Sarcia",
@@ -12252,7 +12252,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Abrajano, Crispin M.",
    "name": "Crispin M. Abrajano",
    "friendlyname": "Bro. Crispin Abrajano",
@@ -12302,7 +12302,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Alejandro, Helen",
    "name": "Helen Alejandro",
    "friendlyname": "Sis. Helen Alejandro",
@@ -12352,7 +12352,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Araneta, Ronald Y.",
    "name": "Ronald Y. Araneta",
    "friendlyname": "Bro. Ronald Araneta",
@@ -12402,7 +12402,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Malapo, Corazon G.",
    "name": "Corazon G. Malapo",
    "friendlyname": "Sis. Corazon Malapo",
@@ -12452,7 +12452,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Reboldad, Romeo A.",
    "name": "Romeo A. Reboldad",
    "friendlyname": "Bro. Romeo Reboldad",
@@ -12502,7 +12502,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Vapor, Oscar",
    "name": "Oscar Vapor",
    "friendlyname": "Bro. Oscar Vapor",
@@ -12552,7 +12552,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Vapor, Susana",
    "name": "Susana Vapor",
    "friendlyname": "Sis. Susana Vapor",
@@ -12602,7 +12602,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Velez, Lady Jean",
    "name": "Lady Jean Velez",
    "friendlyname": "Sis. Lady Jean Velez",
@@ -12652,7 +12652,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "18",
+   "group": "18",
    "fullname": "Zamora, Rolando",
    "name": "Rolando Zamora",
    "friendlyname": "Bro. Rolando Zamora",
@@ -12702,7 +12702,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Centeno, Felimon",
    "name": "Felimon Centeno",
    "friendlyname": "Bro. Felimon Centeno",
@@ -12752,7 +12752,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Centeno, Leticia U.",
    "name": "Leticia U. Centeno",
    "friendlyname": "Sis. Leticia Centeno",
@@ -12802,7 +12802,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "David, Christopher",
    "name": "Christopher David",
    "friendlyname": "Bro. Christopher David",
@@ -12852,7 +12852,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Gallaza, Felix",
    "name": "Felix Gallaza",
    "friendlyname": "Bro. Felix Gallaza",
@@ -12902,7 +12902,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Lara, Dennis R.",
    "name": "Dennis R. Lara",
    "friendlyname": "Bro. Dennis Lara",
@@ -12952,7 +12952,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Lim, Alex",
    "name": "Alex Lim",
    "friendlyname": "Bro. Alex Lim",
@@ -13002,7 +13002,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Mendigorin, Roel",
    "name": "Roel Mendigorin",
    "friendlyname": "Bro. Roel Mendigorin",
@@ -13052,7 +13052,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Ramos, Eligio E.",
    "name": "Eligio E. Ramos",
    "friendlyname": "Bro. Eligio Ramos",
@@ -13102,7 +13102,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "19",
+   "group": "19",
    "fullname": "Torres, Denise L.",
    "name": "Denise L. Torres",
    "friendlyname": "Sis. Denise Torres",
@@ -13152,7 +13152,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Barrios, Allan Greg Jr.",
    "name": "Allan Greg Barrios Jr.",
    "friendlyname": "Bro. Allan Greg Barrios Jr.",
@@ -13202,7 +13202,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Buniel, Gwendel R.",
    "name": "Gwendel R. Buniel",
    "friendlyname": "Sis. Gwendel Buniel",
@@ -13252,7 +13252,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Daniel, Fatima",
    "name": "Fatima Daniel",
    "friendlyname": "Sis. Fatima Daniel",
@@ -13302,7 +13302,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Facundo, Lesyl",
    "name": "Lesyl Facundo",
    "friendlyname": "Sis. Lesyl Facundo",
@@ -13352,7 +13352,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Facundo, Rafael",
    "name": "Rafael Facundo",
    "friendlyname": "Bro. Rafael Facundo",
@@ -13402,7 +13402,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Luriz, Ronnie G.",
    "name": "Ronnie G. Luriz",
    "friendlyname": "Bro. Ronnie Luriz",
@@ -13452,7 +13452,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Malate, Kimberly",
    "name": "Kimberly Malate",
    "friendlyname": "Sis. Kim Malate",
@@ -13502,7 +13502,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Rosell, Allan",
    "name": "Allan Rosell",
    "friendlyname": "Bro. Allan Rosell",
@@ -13552,7 +13552,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Rosell, Gina",
    "name": "Gina Rosell",
    "friendlyname": "Sis. Gina Rosell",
@@ -13602,7 +13602,7 @@
  {
    "id": "",
    "cluster": 4,
-   "subgroup": "20",
+   "group": "20",
    "fullname": "Sanchez, Genalyn",
    "name": "Genalyn Sanchez",
    "friendlyname": "Sis. Genalyn Sanchez",
@@ -13652,7 +13652,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Batobalunos, Sheena",
    "name": "Sheena Batobalunos",
    "friendlyname": "Sis. Sheena Batobalunos",
@@ -13702,7 +13702,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Batobalunos, Shiela",
    "name": "Shiela Batobalunos",
    "friendlyname": "Sis. Shiela Batobalunos",
@@ -13752,7 +13752,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Borres, Rommel A.",
    "name": "Rommel A. Borres",
    "friendlyname": "Bro. Rommel Borres",
@@ -13802,7 +13802,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Daut, Atlas G.",
    "name": "Atlas G. Daut",
    "friendlyname": "Bro. Atlas Daut",
@@ -13852,7 +13852,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Jubilo, Danilo",
    "name": "Danilo Jubilo",
    "friendlyname": "Bro. Danilo Jubilo",
@@ -13902,7 +13902,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Jubilo, Mae",
    "name": "Mae Jubilo",
    "friendlyname": "Sis. Mae Jubilo",
@@ -13952,7 +13952,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Jubilo, Mark Nicol",
    "name": "Mark Nicol Jubilo",
    "friendlyname": "Bro. Mark Nicol Jubilo",
@@ -14002,7 +14002,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Jubilo, Trinidad",
    "name": "Trinidad Jubilo",
    "friendlyname": "Sis. Trinidad Jubilo",
@@ -14052,7 +14052,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "21",
+   "group": "21",
    "fullname": "Peñaflor, Sydnee B.",
    "name": "Sydnee B. Peñaflor",
    "friendlyname": "Sis. Sydnee Peñaflor",
@@ -14102,7 +14102,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Bayani, Ver A.",
    "name": "Ver A. Bayani",
    "friendlyname": "Bro. Ver Bayani",
@@ -14152,7 +14152,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Bobis, Gloria",
    "name": "Gloria Bobis",
    "friendlyname": "Sis. Gloria Bobis",
@@ -14202,7 +14202,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "De Guzman, Michael",
    "name": "Michael De Guzman",
    "friendlyname": "Bro. Michael De Guzman",
@@ -14252,7 +14252,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Gala, Marionito",
    "name": "Marionito Gala",
    "friendlyname": "Bro. Marionito Gala",
@@ -14302,7 +14302,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Gallego, Rays",
    "name": "Rays Gallego",
    "friendlyname": "Bro. Rays Gallego",
@@ -14352,7 +14352,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Gallego, Rey",
    "name": "Rey Gallego",
    "friendlyname": "Bro. Rey Gallego",
@@ -14402,7 +14402,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Lebante, John M.",
    "name": "John M. Lebante",
    "friendlyname": "Bro. John Lebante",
@@ -14452,7 +14452,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Lenogon, Manuel",
    "name": "Manuel Lenogon",
    "friendlyname": "Bro. Manuel Lenogon",
@@ -14502,7 +14502,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "22",
+   "group": "22",
    "fullname": "Libante, Manuel",
    "name": "Manuel Libante",
    "friendlyname": "Bro. Manuel Libante",
@@ -14552,7 +14552,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Arcega, Freddie",
    "name": "Freddie Arcega",
    "friendlyname": "Bro. Freddie Arcega",
@@ -14602,7 +14602,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Aurelio, Norma",
    "name": "Norma Aurelio",
    "friendlyname": "Sis. Norma Aurelio",
@@ -14652,7 +14652,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Bongcawel, Fredie A.",
    "name": "Fredie A. Bongcawel",
    "friendlyname": "Bro. Fredie Bongcawel",
@@ -14702,7 +14702,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Galang, Nestor",
    "name": "Nestor Galang",
    "friendlyname": "Bro. Nestor Galang",
@@ -14752,7 +14752,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Gilbuena, Gerald D.",
    "name": "Gerald D. Gilbuena",
    "friendlyname": "Bro. Gerald Gilbuena",
@@ -14802,7 +14802,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Jimenez, Emma C.",
    "name": "Emma C. Jimenez",
    "friendlyname": "Sis. Emma Jimenez",
@@ -14852,7 +14852,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "San Juan, Ronald",
    "name": "Ronald San Juan",
    "friendlyname": "Bro. Ronald San Juan",
@@ -14902,7 +14902,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "San Juan, Zenaida",
    "name": "Zenaida San Juan",
    "friendlyname": "Sis. Zenaida San Juan",
@@ -14952,7 +14952,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "23",
+   "group": "23",
    "fullname": "Torres, Pacita",
    "name": "Pacita Torres",
    "friendlyname": "Sis. Pacita Torres",
@@ -15002,7 +15002,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Alvarez, Santiago",
    "name": "Santiago Alvarez",
    "friendlyname": "Bro. Santiago Alvarez",
@@ -15052,7 +15052,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Dela Cruz, Erickson",
    "name": "Erickson Dela Cruz",
    "friendlyname": "Bro. Erickson Dela Cruz",
@@ -15102,7 +15102,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Dela Cruz, Ma. Aletha Gay",
    "name": "Ma. Aletha Gay Dela Cruz",
    "friendlyname": "Sis. Aletha Dela Cruz",
@@ -15152,7 +15152,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Estera, Estrella",
    "name": "Estrella Estera",
    "friendlyname": "Sis. Estrella Estera",
@@ -15202,7 +15202,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Fortunato, Mercado",
    "name": "Mercado Fortunato",
    "friendlyname": "Bro. Mercado Fortunato",
@@ -15252,7 +15252,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Robles, Rizaldy",
    "name": "Rizaldy Robles",
    "friendlyname": "Bro. Rizaldy Robles",
@@ -15302,7 +15302,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Solmayor, Vincent",
    "name": "Vincent Solmayor",
    "friendlyname": "Bro. Vincent Solmayor",
@@ -15352,7 +15352,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "24",
+   "group": "24",
    "fullname": "Vasquez, Michael",
    "name": "Michael Vasquez",
    "friendlyname": "Bro. Michael Vasquez",
@@ -15402,7 +15402,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Candido, Mary Angeline A.",
    "name": "Mary Angeline A. Candido",
    "friendlyname": "Sis. Mary Angeline Candido",
@@ -15452,7 +15452,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Gadayan, Florence",
    "name": "Florence Gadayan",
    "friendlyname": "Sis. Florence Gadayan",
@@ -15502,7 +15502,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Guieb, William C.",
    "name": "William C. Guieb",
    "friendlyname": "Bro. William Guieb",
@@ -15552,7 +15552,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Moral, Elvira",
    "name": "Elvira Moral",
    "friendlyname": "Sis. Elvira Moral",
@@ -15602,7 +15602,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Oliva, Teresita",
    "name": "Teresita Oliva",
    "friendlyname": "Sis. Teresita Oliva",
@@ -15652,7 +15652,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Roncal, Glen",
    "name": "Glen Roncal",
    "friendlyname": "Bro. Glen Roncal",
@@ -15702,7 +15702,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Tayag, Reynaldo",
    "name": "Reynaldo Tayag",
    "friendlyname": "Bro. Reynaldo Tayag",
@@ -15752,7 +15752,7 @@
  {
    "id": "",
    "cluster": 5,
-   "subgroup": "25",
+   "group": "25",
    "fullname": "Vivar, Andrea",
    "name": "Andrea Vivar",
    "friendlyname": "Sis. Andrea Vivar",
@@ -15802,7 +15802,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Berdos, Ronald",
    "name": "Ronald Berdos",
    "friendlyname": "Bro. Ronald Berdos",
@@ -15852,7 +15852,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Berdos, Rowelyn",
    "name": "Rowelyn Berdos",
    "friendlyname": "Sis. Rowelyn Berdos",
@@ -15902,7 +15902,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Bindo, Ruchel A.",
    "name": "Ruchel A. Bindo",
    "friendlyname": "Sis. Ruchel Bindo",
@@ -15952,7 +15952,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Del Rosario, Ricardo",
    "name": "Ricardo Del Rosario",
    "friendlyname": "Bro. Ricardo Del Rosario",
@@ -16002,7 +16002,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Pacrin, Jocelyn",
    "name": "Jocelyn Pacrin",
    "friendlyname": "Sis. Jocelyn Pacrin",
@@ -16052,7 +16052,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Quiamco, Gavino Jr. C.",
    "name": "Gavino C. Quiamco Jr.",
    "friendlyname": "Bro. Gavino Quiamco Jr.",
@@ -16102,7 +16102,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Quiamco, Lorna O.",
    "name": "Lorna O. Quiamco",
    "friendlyname": "Sis. Lorna Quiamco",
@@ -16152,7 +16152,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Solis, Archie A.",
    "name": "Archie A. Solis",
    "friendlyname": "Bro. Archie Solis",
@@ -16202,7 +16202,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "26",
+   "group": "26",
    "fullname": "Solis, Jovy Ann D.",
    "name": "Jovy Ann D. Solis",
    "friendlyname": "Sis. Jovy Ann Solis",
@@ -16252,7 +16252,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Figueroa, Emmanuel Sr.",
    "name": "Emmanuel Figueroa Sr.",
    "friendlyname": "Bro. Manny Figueroa Sr.",
@@ -16302,7 +16302,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Gerez, Carlito",
    "name": "Carlito Gerez",
    "friendlyname": "Bro. Carlito Gerez",
@@ -16352,7 +16352,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Limbo, Mario",
    "name": "Mario Limbo",
    "friendlyname": "Bro. Mario Limbo",
@@ -16402,7 +16402,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Limbo, Normita",
    "name": "Normita Limbo",
    "friendlyname": "Sis. Normita Limbo",
@@ -16452,7 +16452,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Macabus, Fe B.",
    "name": "Fe B. Macabus",
    "friendlyname": "Sis. Fe Macabus",
@@ -16502,7 +16502,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Macabus, Gilda M.",
    "name": "Gilda M. Macabus",
    "friendlyname": "Sis. Gilda Macabus",
@@ -16552,7 +16552,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Macabus, Jenifer B.",
    "name": "Jenifer B. Macabus",
    "friendlyname": "Sis. Jenifer Macabus",
@@ -16602,7 +16602,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Valente, Jocelyn O.",
    "name": "Jocelyn O. Valente",
    "friendlyname": "Sis. Jc Valente",
@@ -16652,7 +16652,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "27",
+   "group": "27",
    "fullname": "Valente, Josefa O.",
    "name": "Josefa O. Valente",
    "friendlyname": "Sis. Josie Valente",
@@ -16702,7 +16702,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Gacho, Gabriel",
    "name": "Gabriel Gacho",
    "friendlyname": "Bro. Gabriel Gacho",
@@ -16752,7 +16752,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Gacho, Josie",
    "name": "Josie Gacho",
    "friendlyname": "Sis. Josie Gacho",
@@ -16802,7 +16802,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Leoncito, Judith",
    "name": "Judith Leoncito",
    "friendlyname": "Sis. Judith Leoncito",
@@ -16852,7 +16852,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Ortillano, Angela",
    "name": "Angela Ortillano",
    "friendlyname": "Sis. Angela Ortillano",
@@ -16902,7 +16902,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Ortillano, Jiaan L.",
    "name": "Jiaan L. Ortillano",
    "friendlyname": "Bro. Jiaan Ortillano",
@@ -16952,7 +16952,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Ortillano, Jovy",
    "name": "Jovy Ortillano",
    "friendlyname": "Sis. Jovy Ortillano",
@@ -17002,7 +17002,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Ortillano, Ma. Aleja",
    "name": "Ma. Aleja Ortillano",
    "friendlyname": "Sis. Aleja Ortillano",
@@ -17052,7 +17052,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Resurreccion, Jennielle",
    "name": "Jennielle Resurreccion",
    "friendlyname": "Sis. Jennielle Resurreccion",
@@ -17102,7 +17102,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "28",
+   "group": "28",
    "fullname": "Valleser, Rutchiel",
    "name": "Rutchiel Valleser",
    "friendlyname": "Sis. Rutchiel Valleser",
@@ -17152,7 +17152,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Avelino, Jelord A.",
    "name": "Jelord A. Avelino",
    "friendlyname": "Bro. Jelord Avelino",
@@ -17202,7 +17202,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Calicsihan, Jhonny",
    "name": "Jhonny Calicsihan",
    "friendlyname": "Bro. Jhonny Calicsihan",
@@ -17252,7 +17252,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Calicsihan, Lagrimas G.",
    "name": "Lagrimas G. Calicsihan",
    "friendlyname": "Sis. Lagrimas Calicsihan",
@@ -17302,7 +17302,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Calicsihan, Robin John",
    "name": "Robin John Calicsihan",
    "friendlyname": "Bro. Robin John Calicsihan",
@@ -17352,7 +17352,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Escote, Ryan",
    "name": "Ryan Escote",
    "friendlyname": "Bro. Ryan Escote",
@@ -17402,7 +17402,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Lara, Domingo Jr.",
    "name": "Domingo Lara Jr.",
    "friendlyname": "Bro. Domingo Lara Jr.",
@@ -17452,7 +17452,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Lara, Jocelyn",
    "name": "Jocelyn Lara",
    "friendlyname": "Sis. Jocelyn Lara",
@@ -17502,7 +17502,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Manapat, Arvin",
    "name": "Arvin Manapat",
    "friendlyname": "Bro. Arvin Manapat",
@@ -17552,7 +17552,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Paghubaran, Felix",
    "name": "Felix Paghubaran",
    "friendlyname": "Bro. Felix Paghubaran",
@@ -17602,7 +17602,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "29",
+   "group": "29",
    "fullname": "Zabala, Ma. Dolores",
    "name": "Ma. Dolores Zabala",
    "friendlyname": "Sis. Dolores Zabala",
@@ -17652,7 +17652,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Aguilar, Jennyrose",
    "name": "Jennyrose Aguilar",
    "friendlyname": "Sis. Jennyrose Aguilar",
@@ -17702,7 +17702,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Aguilar, Roderick",
    "name": "Roderick Aguilar",
    "friendlyname": "Bro. Roderick Aguilar",
@@ -17752,7 +17752,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Bautista, Flora S.",
    "name": "Flora S. Bautista",
    "friendlyname": "Sis. Flora Bautista",
@@ -17802,7 +17802,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Comendador, Remedios",
    "name": "Remedios Comendador",
    "friendlyname": "Sis. Remedios Comendador",
@@ -17852,7 +17852,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "De Guzman, Arnold",
    "name": "Arnold De Guzman",
    "friendlyname": "Bro. Arnold De Guzman",
@@ -17902,7 +17902,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Lazarte, Danilo",
    "name": "Danilo Lazarte",
    "friendlyname": "Bro. Danilo Lazarte",
@@ -17952,7 +17952,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Lim, Christian",
    "name": "Christian Lim",
    "friendlyname": "Bro. Christian Lim",
@@ -18002,7 +18002,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Lim, Jamy",
    "name": "Jamy Lim",
    "friendlyname": "Bro. Jamy Lim",
@@ -18052,7 +18052,7 @@
  {
    "id": "",
    "cluster": 6,
-   "subgroup": "30",
+   "group": "30",
    "fullname": "Villagracia, Filomeno O.",
    "name": "Filomeno O. Villagracia",
    "friendlyname": "Bro. Filomeno Villagracia",
@@ -18102,7 +18102,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Manzalay, Myr",
    "name": "Myr Manzalay",
    "friendlyname": "Bro. Myr Manzalay",
@@ -18152,7 +18152,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Pingol, Edgardo",
    "name": "Edgardo Pingol",
    "friendlyname": "Bro. Edgardo Pingol",
@@ -18202,7 +18202,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Pingol, Emma",
    "name": "Emma Pingol",
    "friendlyname": "Sis. Emma Pingol",
@@ -18252,7 +18252,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Pingol, Luisito",
    "name": "Luisito Pingol",
    "friendlyname": "Bro. Luisito Pingol",
@@ -18302,7 +18302,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Tarroza, Mahalaleel P.",
    "name": "Mahalaleel P. Tarroza",
    "friendlyname": "Bro. Mahalaleel Tarroza",
@@ -18352,7 +18352,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Triumfo, Edward",
    "name": "Edward Triumfo",
    "friendlyname": "Bro. Edward Triumfo",
@@ -18402,7 +18402,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Triumfo, Ernesto",
    "name": "Ernesto Triumfo",
    "friendlyname": "Bro. Ernesto Triumfo",
@@ -18452,7 +18452,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Triumfo, Ernesto Jr. I.",
    "name": "Ernesto I. Triumfo Jr.",
    "friendlyname": "Bro. Ernesto Triumfo Jr.",
@@ -18502,7 +18502,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "31",
+   "group": "31",
    "fullname": "Villena, Geraldine",
    "name": "Geraldine Villena",
    "friendlyname": "Sis. Geraldine Villena",
@@ -18552,7 +18552,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Bautista, Bon J.",
    "name": "Bon J. Bautista",
    "friendlyname": "Bro. Bon Bautista",
@@ -18602,7 +18602,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Centino, Lizel M.",
    "name": "Lizel M. Centino",
    "friendlyname": "Sis. Lizel Centino",
@@ -18652,7 +18652,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Delbo, Jennivy",
    "name": "Jennivy Delbo",
    "friendlyname": "Sis. Jennivy Delbo",
@@ -18702,7 +18702,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Delbo, Roberto",
    "name": "Roberto Delbo",
    "friendlyname": "Bro. Roberto Delbo",
@@ -18752,7 +18752,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Fuentes, Ruel N.",
    "name": "Ruel N. Fuentes",
    "friendlyname": "Bro. Ruel Fuentes",
@@ -18802,7 +18802,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Gigataras, Harvy G.",
    "name": "Harvy G. Gigataras",
    "friendlyname": "Bro. Harvy Gigataras",
@@ -18852,7 +18852,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Malana, Angelou B.",
    "name": "Angelou B. Malana",
    "friendlyname": "Sis. Angelou Malana",
@@ -18902,7 +18902,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Malana, Cristina L.",
    "name": "Cristina L. Malana",
    "friendlyname": "Sis. Cristina Malana",
@@ -18952,7 +18952,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "32",
+   "group": "32",
    "fullname": "Malana, Leticia",
    "name": "Leticia Malana",
    "friendlyname": "Sis. Leticia Malana",
@@ -19002,7 +19002,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Auxilian, Filipinas",
    "name": "Filipinas Auxilian",
    "friendlyname": "Sis. Filipinas Auxilian",
@@ -19052,7 +19052,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Auxilian, Raymundo D.",
    "name": "Raymundo D. Auxilian",
    "friendlyname": "Bro. Raymundo Auxilian",
@@ -19102,7 +19102,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Bautista, Erliza P.",
    "name": "Erliza P. Bautista",
    "friendlyname": "Sis. Erliza Bautista",
@@ -19152,7 +19152,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Dela Cruz, Leilani M.",
    "name": "Leilani M. Dela Cruz",
    "friendlyname": "Sis. Leilani Dela Cruz",
@@ -19202,7 +19202,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Helira, Eduardo S.",
    "name": "Eduardo S. Helira",
    "friendlyname": "Bro. Eduardo Helira",
@@ -19252,7 +19252,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Lubon, Ricardo M.",
    "name": "Ricardo M. Lubon",
    "friendlyname": "Bro. Ricardo Lubon",
@@ -19302,7 +19302,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Ortiaga, Lorena Rose",
    "name": "Lorena Rose Ortiaga",
    "friendlyname": "Sis. Lorena Rose Ortiaga",
@@ -19352,7 +19352,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Repuno, Ferdinand P.",
    "name": "Ferdinand P. Repuno",
    "friendlyname": "Bro. Ferdinand Repuno",
@@ -19402,7 +19402,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "33",
+   "group": "33",
    "fullname": "Tribunado, Jonathan",
    "name": "Jonathan Tribunado",
    "friendlyname": "Bro. Jonathan Tribunado",
@@ -19452,7 +19452,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Absalon, Fermin",
    "name": "Fermin Absalon",
    "friendlyname": "Bro. Fermin Absalon",
@@ -19502,7 +19502,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Abueg, Victor Richard",
    "name": "Victor Richard Abueg",
    "friendlyname": "Bro. Victor Richard Abueg",
@@ -19552,7 +19552,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Bautista, Michelle B.",
    "name": "Michelle B. Bautista",
    "friendlyname": "Sis. Michelle Bautista",
@@ -19602,7 +19602,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Borromeo, Juliet",
    "name": "Juliet Borromeo",
    "friendlyname": "Sis. Juliet Borromeo",
@@ -19652,7 +19652,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Chiong, Tyron",
    "name": "Tyron Chiong",
    "friendlyname": "Bro. Tyron Chiong",
@@ -19702,7 +19702,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Enriquez, Rogelio Jr.",
    "name": "Rogelio Enriquez Jr.",
    "friendlyname": "Bro. Rogelio Enriquez Jr.",
@@ -19752,7 +19752,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Lopez, JR D.",
    "name": "JR D. Lopez",
    "friendlyname": "Bro. JR Lopez",
@@ -19802,7 +19802,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Pasok, Joan Joyce",
    "name": "Joan Joyce Pasok",
    "friendlyname": "Sis. Joan Joyce Pasok",
@@ -19852,7 +19852,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "34",
+   "group": "34",
    "fullname": "Pasok, Rashieka",
    "name": "Rashieka Pasok",
    "friendlyname": "Sis. Rashieka Pasok",
@@ -19902,7 +19902,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Barredo, Simeona P.",
    "name": "Simeona P. Barredo",
    "friendlyname": "Sis. Simeona Barredo",
@@ -19952,7 +19952,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Dela Llana, Jose",
    "name": "Jose Dela Llana",
    "friendlyname": "Bro. Jose Dela Llana",
@@ -20002,7 +20002,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Llanera, Amalia",
    "name": "Amalia Llanera",
    "friendlyname": "Sis. Amalia Llanera",
@@ -20052,7 +20052,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Llanera, Mark Robert",
    "name": "Mark Robert Llanera",
    "friendlyname": "Bro. Mark Llanera",
@@ -20102,7 +20102,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Lunday, Emerson",
    "name": "Emerson Lunday",
    "friendlyname": "Bro. Emerson Lunday",
@@ -20152,7 +20152,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Lunday, Ferdinand",
    "name": "Ferdinand Lunday",
    "friendlyname": "Bro. Ferdinand Lunday",
@@ -20202,7 +20202,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Lunday, Manuela",
    "name": "Manuela Lunday",
    "friendlyname": "Sis. Manuela Lunday",
@@ -20252,7 +20252,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Prado, Emeliano S.",
    "name": "Emeliano S. Prado",
    "friendlyname": "Bro. Emeliano Prado",
@@ -20302,7 +20302,7 @@
  {
    "id": "",
    "cluster": 7,
-   "subgroup": "35",
+   "group": "35",
    "fullname": "Rosal, Rogel",
    "name": "Rogel Rosal",
    "friendlyname": "Bro. Rogel Rosal",
@@ -20352,7 +20352,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Gallano, Efraim J.",
    "name": "Efraim J. Gallano",
    "friendlyname": "Bro. Efraim Gallano",
@@ -20402,7 +20402,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Gallano, Emelita",
    "name": "Emelita Gallano",
    "friendlyname": "Sis. Emelita Gallano",
@@ -20452,7 +20452,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Lerma, Romel P.",
    "name": "Romel P. Lerma",
    "friendlyname": "Bro. Romel Lerma",
@@ -20502,7 +20502,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Ponce, Michelle",
    "name": "Michelle Ponce",
    "friendlyname": "Sis. Michelle Ponce",
@@ -20552,7 +20552,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Sta. Ana, Genesis",
    "name": "Genesis Sta. Ana",
    "friendlyname": "Bro. Genesis Sta. Ana",
@@ -20602,7 +20602,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Sta. Ana, Jiarrha P.",
    "name": "Jiarrha P. Sta. Ana",
    "friendlyname": "Sis. Jiarrha Sta. Ana",
@@ -20652,7 +20652,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Sta. Ana, John Michael",
    "name": "John Michael Sta. Ana",
    "friendlyname": "Bro. John Michael Sta. Ana",
@@ -20702,7 +20702,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "36",
+   "group": "36",
    "fullname": "Sta. Ana, Rugina P.",
    "name": "Rugina P. Sta. Ana",
    "friendlyname": "Sis. Rugina Sta. Ana",
@@ -20752,7 +20752,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Abueg, Jhoy",
    "name": "Jhoy Abueg",
    "friendlyname": "Sis. Jhoy Abueg",
@@ -20802,7 +20802,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Acedera, Carol",
    "name": "Carol Acedera",
    "friendlyname": "Sis. Carol Acedera",
@@ -20852,7 +20852,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Agustin, Mercedita",
    "name": "Mercedita Agustin",
    "friendlyname": "Sis. Mercedita Agustin",
@@ -20902,7 +20902,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Bulatao, Maria",
    "name": "Maria Bulatao",
    "friendlyname": "Sis. Maria Bulatao",
@@ -20952,7 +20952,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Cabubas, Bianca Camille",
    "name": "Bianca Camille Cabubas",
    "friendlyname": "Sis. Bianca Camille Cabubas",
@@ -21002,7 +21002,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Gala, Noel",
    "name": "Noel Gala",
    "friendlyname": "Bro. Noel Gala",
@@ -21052,7 +21052,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Sandico, Albert",
    "name": "Albert Sandico",
    "friendlyname": "Bro. Albert Sandico",
@@ -21102,7 +21102,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Trinidad, Evelyn",
    "name": "Evelyn Trinidad",
    "friendlyname": "Sis. Evelyn Trinidad",
@@ -21152,7 +21152,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "37",
+   "group": "37",
    "fullname": "Trinidad, Federico",
    "name": "Federico Trinidad",
    "friendlyname": "Bro. Boy Trinidad",
@@ -21202,7 +21202,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Dela Cruz, Luciana Antonia O.",
    "name": "Luciana Antonia O. Dela Cruz",
    "friendlyname": "Sis. Luciana Antonia Dela Cruz",
@@ -21252,7 +21252,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Manalaysay, Ammi Jay S.",
    "name": "Ammi Jay S. Manalaysay",
    "friendlyname": "Bro. Ammi Jay Manalaysay",
@@ -21302,7 +21302,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Manalaysay, Jenifer",
    "name": "Jenifer Manalaysay",
    "friendlyname": "Sis. Jenifer Manalaysay",
@@ -21352,7 +21352,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Manalaysay, Jmiel S.",
    "name": "Jmiel S. Manalaysay",
    "friendlyname": "Bro. Jmiel Manalaysay",
@@ -21402,7 +21402,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Manalaysay, Nestor",
    "name": "Nestor Manalaysay",
    "friendlyname": "Bro. Nestor Manalaysay",
@@ -21452,7 +21452,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Pasahol, Nora",
    "name": "Nora Pasahol",
    "friendlyname": "Sis. Nora Pasahol",
@@ -21502,7 +21502,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "38",
+   "group": "38",
    "fullname": "Tolentino, Ricardo",
    "name": "Ricardo Tolentino",
    "friendlyname": "Bro. Ricardo Tolentino",
@@ -21552,7 +21552,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Ablola, Mary Jane B.",
    "name": "Mary Jane B. Ablola",
    "friendlyname": "Sis. Mary Jane Ablola",
@@ -21602,7 +21602,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Ablola, Michael",
    "name": "Michael Ablola",
    "friendlyname": "Bro. Michael Ablola",
@@ -21652,7 +21652,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Macaubos, Andrew F.",
    "name": "Andrew F. Macaubos",
    "friendlyname": "Bro. Andrew Macaubos",
@@ -21702,7 +21702,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Macaubos, Laarni",
    "name": "Laarni Macaubos",
    "friendlyname": "Sis. Laarni Macaubos",
@@ -21752,7 +21752,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Macaubos, Luz Daniella",
    "name": "Luz Daniella Macaubos",
    "friendlyname": "Sis. Daniella Macaubos",
@@ -21802,7 +21802,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Mariano, Joy M.",
    "name": "Joy M. Mariano",
    "friendlyname": "Sis. Joy Mariano",
@@ -21852,7 +21852,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Peleno, Antonio Jr. C.",
    "name": "Antonio C. Peleno Jr.",
    "friendlyname": "Bro. Antonio Peleno Jr.",
@@ -21902,7 +21902,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "39",
+   "group": "39",
    "fullname": "Sauro, Robin",
    "name": "Robin Sauro",
    "friendlyname": "Bro. Robin Sauro",
@@ -21952,7 +21952,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Arabis, Richelle",
    "name": "Richelle Arabis",
    "friendlyname": "Sis. Richelle Arabis",
@@ -22002,7 +22002,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Balico, Jein Aaron",
    "name": "Jein Aaron Balico",
    "friendlyname": "Sis. Jein Aaron Balico",
@@ -22052,7 +22052,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Balico, Manette",
    "name": "Manette Balico",
    "friendlyname": "Sis. Manette Balico",
@@ -22102,7 +22102,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Enoy, Cherry Ann",
    "name": "Cherry Ann Enoy",
    "friendlyname": "Sis. Cherry Ann Enoy",
@@ -22152,7 +22152,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Narciso, Rosalinda P.",
    "name": "Rosalinda P. Narciso",
    "friendlyname": "Sis. Rosalinda Narciso",
@@ -22202,7 +22202,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Rodriguez, Celerina",
    "name": "Celerina Rodriguez",
    "friendlyname": "Sis. Celerina Rodriguez",
@@ -22252,7 +22252,7 @@
  {
    "id": "",
    "cluster": 8,
-   "subgroup": "40",
+   "group": "40",
    "fullname": "Tan, Reynaldo G.",
    "name": "Reynaldo G. Tan",
    "friendlyname": "Bro. Reynaldo Tan",
@@ -22302,7 +22302,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Ellustrisimo, Danilo",
    "name": "Danilo Ellustrisimo",
    "friendlyname": "Bro. Danilo Ellustrisimo",
@@ -22352,7 +22352,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Jundis, Rogelio V.",
    "name": "Rogelio V. Jundis",
    "friendlyname": "Bro. Rogelio Jundis",
@@ -22402,7 +22402,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Ramirez, Ariel",
    "name": "Ariel Ramirez",
    "friendlyname": "Bro. Ariel Ramirez",
@@ -22452,7 +22452,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Semanes, Alfredo Jr.",
    "name": "Alfredo Semanes Jr.",
    "friendlyname": "Bro. Alfredo Semanes Jr.",
@@ -22502,7 +22502,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Semanes, Dominador",
    "name": "Dominador Semanes",
    "friendlyname": "Bro. Dominador Semanes",
@@ -22552,7 +22552,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Semanes, Eivan P.",
    "name": "Eivan P. Semanes",
    "friendlyname": "Bro. Eivan Semanes",
@@ -22602,7 +22602,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Semanes, Marc Alleck D.",
    "name": "Marc Alleck D. Semanes",
    "friendlyname": "Bro. Marc Alleck Semanes",
@@ -22652,7 +22652,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Semanes, Remedios N.",
    "name": "Remedios N. Semanes",
    "friendlyname": "Bro. Remedios Semanes",
@@ -22702,7 +22702,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "41",
+   "group": "41",
    "fullname": "Sipugay, Gina",
    "name": "Gina Sipugay",
    "friendlyname": "Sis. Gina Sipugay",
@@ -22752,7 +22752,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Arcinas, Melanie M.",
    "name": "Melanie M. Arcinas",
    "friendlyname": "Sis. Melanie Arcinas",
@@ -22802,7 +22802,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Mina, Lunisa",
    "name": "Lunisa Mina",
    "friendlyname": "Sis. Lunisa Mina",
@@ -22852,7 +22852,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Salut, Rosapie",
    "name": "Rosapie Salut",
    "friendlyname": "Sis. Rosapie Salut",
@@ -22902,7 +22902,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Santos, Leila Marie",
    "name": "Leila Marie Santos",
    "friendlyname": "Sis. Leila Marie Santos",
@@ -22952,7 +22952,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Santos, Robert B.",
    "name": "Robert B. Santos",
    "friendlyname": "Bro. Robert Santos",
@@ -23002,7 +23002,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Santos, Rosie Seth G.",
    "name": "Rosie Seth G. Santos",
    "friendlyname": "Sis. Rosie Seth Santos",
@@ -23052,7 +23052,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Santos, Sophia Lorraine",
    "name": "Sophia Lorraine Santos",
    "friendlyname": "Sis. Sophia Lorraine Santos",
@@ -23102,7 +23102,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "42",
+   "group": "42",
    "fullname": "Valenzona, Armando",
    "name": "Armando Valenzona",
    "friendlyname": "Bro. Armando Valenzona",
@@ -23152,7 +23152,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Cabrigas, Arieslyn L.",
    "name": "Arieslyn L. Cabrigas",
    "friendlyname": "Sis. Arieslyn Cabrigas",
@@ -23202,7 +23202,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Cabrigas, Jonathan C.",
    "name": "Jonathan C. Cabrigas",
    "friendlyname": "Bro. Jonathan Cabrigas",
@@ -23252,7 +23252,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Fragas, Encarnacion",
    "name": "Encarnacion Fragas",
    "friendlyname": "Sis. Encarnacion Fragas",
@@ -23302,7 +23302,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Leal, Marilyn",
    "name": "Marilyn Leal",
    "friendlyname": "Sis. Marilyn Leal",
@@ -23352,7 +23352,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Leal, Orlando",
    "name": "Orlando Leal",
    "friendlyname": "Bro. Orlando Leal",
@@ -23402,7 +23402,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Villaluna, Gina J.",
    "name": "Gina J. Villaluna",
    "friendlyname": "Sis. Gina Villaluna",
@@ -23452,7 +23452,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Zantua, Adiecel P.",
    "name": "Adiecel P. Zantua",
    "friendlyname": "Bro. Adiecel Zantua",
@@ -23502,7 +23502,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "43",
+   "group": "43",
    "fullname": "Zantua, Ashley Aiesha P.",
    "name": "Ashley Aiesha P. Zantua",
    "friendlyname": "Sis. Ashley Aiesha Zantua",
@@ -23552,7 +23552,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Agapay, Manuel",
    "name": "Manuel Agapay",
    "friendlyname": "Bro. Manuel Agapay",
@@ -23602,7 +23602,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Alcaras, Flora",
    "name": "Flora Alcaras",
    "friendlyname": "Sis. Flora Alcaras",
@@ -23652,7 +23652,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Bandilla, Airene",
    "name": "Airene Bandilla",
    "friendlyname": "Sis. Airene Bandilla",
@@ -23702,7 +23702,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Bandilla, Melchor",
    "name": "Melchor Bandilla",
    "friendlyname": "Bro. Melchor Bandilla",
@@ -23752,7 +23752,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Cruzata, Pacita",
    "name": "Pacita Cruzata",
    "friendlyname": "Sis. Pacita Cruzata",
@@ -23802,7 +23802,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Gusi, Monaliza O.",
    "name": "Monaliza O. Gusi",
    "friendlyname": "Sis. Monaliza Gusi",
@@ -23852,7 +23852,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Luis, Renato",
    "name": "Renato Luis",
    "friendlyname": "Bro. Renato Luis",
@@ -23902,7 +23902,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Rondon, Roy A.",
    "name": "Roy A. Rondon",
    "friendlyname": "Bro. Roy Rondon",
@@ -23952,7 +23952,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "44",
+   "group": "44",
    "fullname": "Tan-awon, Milrose B.",
    "name": "Milrose B. Tan-awon",
    "friendlyname": "Sis. Milrose Tan-awon",
@@ -24002,7 +24002,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Albiso, Rosalinda",
    "name": "Rosalinda Albiso",
    "friendlyname": "Sis. Rosalinda Albiso",
@@ -24052,7 +24052,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Collado, Ailyn",
    "name": "Ailyn Collado",
    "friendlyname": "Sis. Ailyn Collado",
@@ -24102,7 +24102,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Collado, Erold F.",
    "name": "Erold F. Collado",
    "friendlyname": "Bro. Erold Collado",
@@ -24152,7 +24152,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Masangcay, Marlon",
    "name": "Marlon Masangcay",
    "friendlyname": "Bro. Marlon Masangcay",
@@ -24202,7 +24202,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Ong, Babelyn",
    "name": "Babelyn Ong",
    "friendlyname": "Sis. Babelyn Ong",
@@ -24252,7 +24252,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Ong, Lance I.",
    "name": "Lance I. Ong",
    "friendlyname": "Bro. Lance Ong",
@@ -24302,7 +24302,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Ong, Lauro",
    "name": "Lauro Ong",
    "friendlyname": "Bro. Lauro Ong",
@@ -24352,7 +24352,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Ong, Loven Kyle",
    "name": "Loven Kyle Ong",
    "friendlyname": "Bro. Loven Kyle Ong",
@@ -24402,7 +24402,7 @@
  {
    "id": "",
    "cluster": 9,
-   "subgroup": "45",
+   "group": "45",
    "fullname": "Ong, Teresita",
    "name": "Teresita Ong",
    "friendlyname": "Sis. Teresita Ong",
@@ -24452,7 +24452,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Budoso, Eliseo",
    "name": "Eliseo Budoso",
    "friendlyname": "Bro. Eliseo Budoso",
@@ -24502,7 +24502,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Budoso, Jacobina",
    "name": "Jacobina Budoso",
    "friendlyname": "Sis. Inah Budoso",
@@ -24552,7 +24552,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Budoso, Maria E.",
    "name": "Maria E. Budoso",
    "friendlyname": "Sis. Maria Budoso",
@@ -24602,7 +24602,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Dela Cruz, Ann Jaylaine",
    "name": "Ann Jaylaine Dela Cruz",
    "friendlyname": "Sis. Ann Jaylaine Dela Cruz",
@@ -24652,7 +24652,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Jocson, Cirilo N.",
    "name": "Cirilo N. Jocson",
    "friendlyname": "Bro. Cirilo Jocson",
@@ -24702,7 +24702,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Mariñas, Mienrada",
    "name": "Mienrada Mariñas",
    "friendlyname": "Sis. Mienrada Mariñas",
@@ -24752,7 +24752,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Oquias, Gia R.",
    "name": "Gia R. Oquias",
    "friendlyname": "Sis. Gia Oquias",
@@ -24802,7 +24802,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Riveral, Ruben",
    "name": "Ruben Riveral",
    "friendlyname": "Bro. Ruben Riveral",
@@ -24852,7 +24852,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "46",
+   "group": "46",
    "fullname": "Santos, Carmencita",
    "name": "Carmencita Santos",
    "friendlyname": "Sis. Carmencita Santos",
@@ -24902,7 +24902,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Almozara, Conrado III",
    "name": "Conrado Almozara III",
    "friendlyname": "Bro. Conrado Almozara III",
@@ -24952,7 +24952,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Almozara, Narcisa",
    "name": "Narcisa Almozara",
    "friendlyname": "Sis. Narcisa Almozara",
@@ -25002,7 +25002,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Catiempo, Suzanne T.",
    "name": "Suzanne T. Catiempo",
    "friendlyname": "Sis. Suzanne Catiempo",
@@ -25052,7 +25052,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Cedro, Alberto C.",
    "name": "Alberto C. Cedro",
    "friendlyname": "Bro. Alberto Cedro",
@@ -25102,7 +25102,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Cedro, Merissa T.",
    "name": "Merissa T. Cedro",
    "friendlyname": "Sis. Merissa Cedro",
@@ -25152,7 +25152,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Gade, Rey A.",
    "name": "Rey A. Gade",
    "friendlyname": "Bro. Rey Gade",
@@ -25202,7 +25202,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Lacanaria, Raquel C.",
    "name": "Raquel C. Lacanaria",
    "friendlyname": "Sis. Raquel Lacanaria",
@@ -25252,7 +25252,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Morales, Joel",
    "name": "Joel Morales",
    "friendlyname": "Bro. Joel Morales",
@@ -25302,7 +25302,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Pable, Celso C.",
    "name": "Celso C. Pable",
    "friendlyname": "Bro. Celso Pable",
@@ -25352,7 +25352,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "47",
+   "group": "47",
    "fullname": "Silva, Evelyn T.",
    "name": "Evelyn T. Silva",
    "friendlyname": "Sis. Evelyn Silva",
@@ -25402,7 +25402,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Atregenio, John Ralph A.",
    "name": "John Ralph A. Atregenio",
    "friendlyname": "Bro. John Ralph Atregenio",
@@ -25452,7 +25452,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Deogrades, Bernie",
    "name": "Bernie Deogrades",
    "friendlyname": "Bro. Bernie Deogrades",
@@ -25502,7 +25502,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Margallo, Ike T.",
    "name": "Ike T. Margallo",
    "friendlyname": "Bro. Ike Margallo",
@@ -25552,7 +25552,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Mariano, Luis D.",
    "name": "Luis D. Mariano",
    "friendlyname": "Bro. Luis Mariano",
@@ -25602,7 +25602,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Mendoza, Mary Joy",
    "name": "Mary Joy Mendoza",
    "friendlyname": "Sis. Mary Joy Mendoza",
@@ -25652,7 +25652,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Mijares, Renato",
    "name": "Renato Mijares",
    "friendlyname": "Bro. Nato Mijares",
@@ -25702,7 +25702,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Pazon, Claridel",
    "name": "Claridel Pazon",
    "friendlyname": "Sis. Claridel Pazon",
@@ -25752,7 +25752,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "48",
+   "group": "48",
    "fullname": "Pazon, Corrine",
    "name": "Corrine Pazon",
    "friendlyname": "Sis. Corrine Pazon",
@@ -25802,7 +25802,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "Cantilang, Daniela",
    "name": "Daniela Cantilang",
    "friendlyname": "Sis. Daniela Cantilang",
@@ -25852,7 +25852,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "Cantilang, Edgar Jr. G.",
    "name": "Edgar G. Cantilang Jr.",
    "friendlyname": "Bro. Edgar Cantilang Jr.",
@@ -25902,7 +25902,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "Cantilang, Edward G.",
    "name": "Edward G. Cantilang",
    "friendlyname": "Bro. Edward Cantilang",
@@ -25952,7 +25952,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "Cantilang, Marilyn G.",
    "name": "Marilyn G. Cantilang",
    "friendlyname": "Sis. Marilyn Cantilang",
@@ -26002,7 +26002,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "Cantilang, Mary Joy G.",
    "name": "Mary Joy G. Cantilang",
    "friendlyname": "Sis. Mary Joy Cantilang",
@@ -26052,7 +26052,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "De Vera, Isagani",
    "name": "Isagani De Vera",
    "friendlyname": "Bro. Isagani De Vera",
@@ -26102,7 +26102,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "De Vera, Isagani Jr.",
    "name": "Isagani De Vera Jr.",
    "friendlyname": "Bro. Isagani De Vera Jr.",
@@ -26152,7 +26152,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "De Vera, Luzviminda",
    "name": "Luzviminda De Vera",
    "friendlyname": "Sis. Luzviminda De Vera",
@@ -26202,7 +26202,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "De Vera, Nerissa",
    "name": "Nerissa De Vera",
    "friendlyname": "Sis. Nerissa De Vera",
@@ -26252,7 +26252,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "49",
+   "group": "49",
    "fullname": "Sedurifa, Jerome",
    "name": "Jerome Sedurifa",
    "friendlyname": "Bro. Jerome Sedurifa",
@@ -26302,7 +26302,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Acaba, Edgar",
    "name": "Edgar Acaba",
    "friendlyname": "Bro. Edgar Acaba",
@@ -26352,7 +26352,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Amboy, Eden",
    "name": "Eden Amboy",
    "friendlyname": "Sis. Eden Amboy",
@@ -26402,7 +26402,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Amboy, Rodrigo M.",
    "name": "Rodrigo M. Amboy",
    "friendlyname": "Bro. Rodrigo Amboy",
@@ -26452,7 +26452,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Depeña, Jona M.",
    "name": "Jona M. Depeña",
    "friendlyname": "Bro. Jona Depeña",
@@ -26502,7 +26502,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Gallado, Bella",
    "name": "Bella Gallado",
    "friendlyname": "Sis. Bella Gallado",
@@ -26552,7 +26552,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Paray, Jefferson",
    "name": "Jefferson Paray",
    "friendlyname": "Bro. Jefferson Paray",
@@ -26602,7 +26602,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Sambajon, Rudy M.",
    "name": "Rudy M. Sambajon",
    "friendlyname": "Bro. Rudy Sambajon",
@@ -26652,7 +26652,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Tano, Bonifacio",
    "name": "Bonifacio Tano",
    "friendlyname": "Bro. Bonifacio Tano",
@@ -26702,7 +26702,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Tano, Zenaida",
    "name": "Zenaida Tano",
    "friendlyname": "Sis. Zenaida Tano",
@@ -26752,7 +26752,7 @@
  {
    "id": "",
    "cluster": 10,
-   "subgroup": "50",
+   "group": "50",
    "fullname": "Villanueva, Rey D.",
    "name": "Rey D. Villanueva",
    "friendlyname": "Bro. Rey Villanueva",
@@ -26802,7 +26802,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Lubiano, Myrna",
    "name": "Myrna Lubiano",
    "friendlyname": "Sis. Myrna Lubiano",
@@ -26852,7 +26852,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Lubiano, Santiago Jr.",
    "name": "Santiago Lubiano Jr.",
    "friendlyname": "Bro. Santiago Lubiano Jr.",
@@ -26902,7 +26902,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Pasahol, Jehan M.",
    "name": "Jehan M. Pasahol",
    "friendlyname": "Sis. Jehan Pasahol",
@@ -26952,7 +26952,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Pasahol, Jessie Ann Nicole M.",
    "name": "Jessie Ann Nicole M. Pasahol",
    "friendlyname": "Sis. Jessie Ann Nicole Pasahol",
@@ -27002,7 +27002,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Refamonte, Ernesto",
    "name": "Ernesto Refamonte",
    "friendlyname": "Bro. Ernesto Refamonte",
@@ -27052,7 +27052,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Romeo, George Donald",
    "name": "George Donald Romeo",
    "friendlyname": "Bro. George Donald Romeo",
@@ -27102,7 +27102,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Romeo, Riza",
    "name": "Riza Romeo",
    "friendlyname": "Sis. Riza Romeo",
@@ -27152,7 +27152,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Sabuga-a, Roel",
    "name": "Roel Sabuga-a",
    "friendlyname": "Bro. Roel Sabuga-a",
@@ -27202,7 +27202,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "51",
+   "group": "51",
    "fullname": "Sejera, Marilyn B.",
    "name": "Marilyn B. Sejera",
    "friendlyname": "Sis. Marilyn Sejera",
@@ -27252,7 +27252,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Abe, Rochelle",
    "name": "Rochelle Abe",
    "friendlyname": "Sis. Rochelle Abe",
@@ -27302,7 +27302,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Dela Cruz, Christopher",
    "name": "Christopher Dela Cruz",
    "friendlyname": "Bro. Christopher Dela Cruz",
@@ -27352,7 +27352,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Dela Cruz, Jayson Blue",
    "name": "Jayson Blue Dela Cruz",
    "friendlyname": "Bro. Jayson Blue Dela Cruz",
@@ -27402,7 +27402,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Dela Cruz, Josephine",
    "name": "Josephine Dela Cruz",
    "friendlyname": "Sis. Josephine Dela Cruz",
@@ -27452,7 +27452,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Garnudo, Benjamin",
    "name": "Benjamin Garnudo",
    "friendlyname": "Bro. Benjamin Garnudo",
@@ -27502,7 +27502,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Garnudo, Carolina",
    "name": "Carolina Garnudo",
    "friendlyname": "Bro. Carolina Garnudo",
@@ -27552,7 +27552,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Gebilaguin, Ariana Lynn",
    "name": "Ariana Lynn Gebilaguin",
    "friendlyname": "Sis. Ariana Lynn Gebilaguin",
@@ -27602,7 +27602,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Gebilaguin, Marites",
    "name": "Marites Gebilaguin",
    "friendlyname": "Sis. Marites Gebilaguin",
@@ -27652,7 +27652,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Labro, Mark Angelo",
    "name": "Mark Angelo Labro",
    "friendlyname": "Bro. Mark Angelo Labro",
@@ -27702,7 +27702,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Ogalinola, Axcelle Jane L.",
    "name": "Axcelle Jane L. Ogalinola",
    "friendlyname": "Sis. Axcelle Jane Ogalinola",
@@ -27752,7 +27752,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "52",
+   "group": "52",
    "fullname": "Quiachon, Democrito Jr.",
    "name": "Democrito Quiachon Jr.",
    "friendlyname": "Bro. Democrito Quiachon Jr.",
@@ -27802,7 +27802,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Dela Cruz, Joan",
    "name": "Joan Dela Cruz",
    "friendlyname": "Sis. Joan Dela Cruz",
@@ -27852,7 +27852,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Flores, Maria Lourdes",
    "name": "Maria Lourdes Flores",
    "friendlyname": "Sis. Maria Lourdes Flores",
@@ -27902,7 +27902,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Garcia, Angelito M.",
    "name": "Angelito M. Garcia",
    "friendlyname": "Bro. Angelito Garcia",
@@ -27952,7 +27952,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Golo, Eleuterio",
    "name": "Eleuterio Golo",
    "friendlyname": "Bro. Eleuterio Golo",
@@ -28002,7 +28002,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Gutierrez, Nelson",
    "name": "Nelson Gutierrez",
    "friendlyname": "Bro. Nelson Gutierrez",
@@ -28052,7 +28052,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Indab, Hannah Coleen Z.",
    "name": "Hannah Coleen Z. Indab",
    "friendlyname": "Sis. Hannah Coleen Indab",
@@ -28102,7 +28102,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Mira, Josie",
    "name": "Josie Mira",
    "friendlyname": "Sis. Josie Mira",
@@ -28152,7 +28152,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Saluday, Nida G.",
    "name": "Nida G. Saluday",
    "friendlyname": "Sis. Nida Saluday",
@@ -28202,7 +28202,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "53",
+   "group": "53",
    "fullname": "Saluday, Romina G.",
    "name": "Romina G. Saluday",
    "friendlyname": "Sis. Romina Saluday",
@@ -28252,7 +28252,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Bacalando, Marcelino",
    "name": "Marcelino Bacalando",
    "friendlyname": "Bro. Marcelino Bacalando",
@@ -28302,7 +28302,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Bartolata, Jenifer",
    "name": "Jenifer Bartolata",
    "friendlyname": "Sis. Jenifer Bartolata",
@@ -28352,7 +28352,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Estrella, Nelia S.",
    "name": "Nelia S. Estrella",
    "friendlyname": "Sis. Nelia Estrella",
@@ -28402,7 +28402,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Gozo, Jesus Jr.",
    "name": "Jesus Gozo Jr.",
    "friendlyname": "Bro. Jesus Gozo Jr.",
@@ -28452,7 +28452,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Prudenciado, Julius",
    "name": "Julius Prudenciado",
    "friendlyname": "Bro. Julius Prudenciado",
@@ -28502,7 +28502,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Raymundo, Carlo",
    "name": "Carlo Raymundo",
    "friendlyname": "Bro. Carlo Raymundo",
@@ -28552,7 +28552,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Sarabosing, Efrenel",
    "name": "Efrenel Sarabosing",
    "friendlyname": "Bro. Efrenel Sarabosing",
@@ -28602,7 +28602,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Sarabosing, Elga Micaela M.",
    "name": "Elga Micaela M. Sarabosing",
    "friendlyname": "Sis. Elga Micaela Sarabosing",
@@ -28652,7 +28652,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "54",
+   "group": "54",
    "fullname": "Tan-awon, Caren Rose",
    "name": "Caren Rose Tan-awon",
    "friendlyname": "Sis. Caren Rose Tan-awon",
@@ -28702,7 +28702,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Arcinas, Michael",
    "name": "Michael Arcinas",
    "friendlyname": "Bro. Michael Arcinas",
@@ -28752,7 +28752,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Arcinas, Sarah Jane N.",
    "name": "Sarah Jane N. Arcinas",
    "friendlyname": "Sis. Sarah Arcinas",
@@ -28802,7 +28802,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Nolasco, Rebecca",
    "name": "Rebecca Nolasco",
    "friendlyname": "Bro. Rebecca Nolasco",
@@ -28852,7 +28852,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Orbuda, Alexander",
    "name": "Alexander Orbuda",
    "friendlyname": "Bro. Alexander Orbuda",
@@ -28902,7 +28902,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Orbuda, Pacencia",
    "name": "Pacencia Orbuda",
    "friendlyname": "Sis. Pacencia Orbuda",
@@ -28952,7 +28952,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Orbuda, Teodorico",
    "name": "Teodorico Orbuda",
    "friendlyname": "Bro. Teodorico Orbuda",
@@ -29002,7 +29002,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Pacala, Gina",
    "name": "Gina Pacala",
    "friendlyname": "Sis. Gina Pacala",
@@ -29052,7 +29052,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Salas, Irish A.",
    "name": "Irish A. Salas",
    "friendlyname": "Sis. Irish Salas",
@@ -29102,7 +29102,7 @@
  {
    "id": "",
    "cluster": 11,
-   "subgroup": "55",
+   "group": "55",
    "fullname": "Zamora, Carlos H.",
    "name": "Carlos H. Zamora",
    "friendlyname": "Bro. Carlos Zamora",
@@ -29152,7 +29152,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Arevalo, Jade S.",
    "name": "Jade S. Arevalo",
    "friendlyname": "Sis. Jade Arevalo",
@@ -29202,7 +29202,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Cajayon, Radelyn",
    "name": "Radelyn Cajayon",
    "friendlyname": "Sis. Radelyn Cajayon",
@@ -29252,7 +29252,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Garino, Eduardo",
    "name": "Eduardo Garino",
    "friendlyname": "Bro. Eduardo Garino",
@@ -29302,7 +29302,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Nuñez, Freddie E.",
    "name": "Freddie E. Nuñez",
    "friendlyname": "Bro. Freddie Nuñez",
@@ -29352,7 +29352,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Nuñez, Kearl Anthony S.",
    "name": "Kearl Anthony S. Nuñez",
    "friendlyname": "Bro. Kearl Anthony Nuñez",
@@ -29402,7 +29402,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Nuñez, Ma. Lourdes",
    "name": "Ma. Lourdes Nuñez",
    "friendlyname": "Sis. Lourdes Nuñez",
@@ -29452,7 +29452,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Nuñez, Narcisa",
    "name": "Narcisa Nuñez",
    "friendlyname": "Sis. Narcisa Nuñez",
@@ -29502,7 +29502,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Quintia, Dennis",
    "name": "Dennis Quintia",
    "friendlyname": "Bro. Dennis Quintia",
@@ -29552,7 +29552,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "56",
+   "group": "56",
    "fullname": "Yurtas, Vitaliano Jr.",
    "name": "Vitaliano Yurtas Jr.",
    "friendlyname": "Bro. Vitaliano Yurtas Jr.",
@@ -29602,7 +29602,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Angeles, Andrew",
    "name": "Andrew Angeles",
    "friendlyname": "Bro. Andrew Angeles",
@@ -29652,7 +29652,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Angeles, Araceli",
    "name": "Araceli Angeles",
    "friendlyname": "Sis. Araceli Angeles",
@@ -29702,7 +29702,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Angeles, Eleonor",
    "name": "Eleonor Angeles",
    "friendlyname": "Sis. Eleonor Angeles",
@@ -29752,7 +29752,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Caminade, Irene",
    "name": "Irene Caminade",
    "friendlyname": "Sis. Irene Caminade",
@@ -29802,7 +29802,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Quinto, Alex",
    "name": "Alex Quinto",
    "friendlyname": "Bro. Alex Quinto",
@@ -29852,7 +29852,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Salmorin, Sharmaine",
    "name": "Sharmaine Salmorin",
    "friendlyname": "Sis. Sharmaine Salmorin",
@@ -29902,7 +29902,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Tolentino, Edilborga H.",
    "name": "Edilborga H. Tolentino",
    "friendlyname": "Bro. Edilborga Tolentino",
@@ -29952,7 +29952,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "57",
+   "group": "57",
    "fullname": "Tolentino, Jonathan D.",
    "name": "Jonathan D. Tolentino",
    "friendlyname": "Bro. Jonathan Tolentino",
@@ -30002,7 +30002,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Bartolome, Jossa G.",
    "name": "Jossa G. Bartolome",
    "friendlyname": "Sis. Jossa Bartolome",
@@ -30052,7 +30052,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Bulawan, Mary-an",
    "name": "Mary-an Bulawan",
    "friendlyname": "Sis. Mary-an Bulawan",
@@ -30102,7 +30102,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Cortes, Melchor",
    "name": "Melchor Cortes",
    "friendlyname": "Bro. Melchor Cortes",
@@ -30152,7 +30152,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Cristobal, Rolando",
    "name": "Rolando Cristobal",
    "friendlyname": "Bro. Rolando Cristobal",
@@ -30202,7 +30202,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Dalmata, Jeson C.",
    "name": "Jeson C. Dalmata",
    "friendlyname": "Bro. Jeson Dalmata",
@@ -30252,7 +30252,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Diokno, Gerlaine C.",
    "name": "Gerlaine C. Diokno",
    "friendlyname": "Sis. Gerlaine Diokno",
@@ -30302,7 +30302,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Mijares, Ricardo G.",
    "name": "Ricardo G. Mijares",
    "friendlyname": "Bro. Ricardo Mijares",
@@ -30352,7 +30352,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Pineda, Grace",
    "name": "Grace Pineda",
    "friendlyname": "Sis. Grace Pineda",
@@ -30402,7 +30402,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "58",
+   "group": "58",
    "fullname": "Rosario, Reggie M.",
    "name": "Reggie M. Rosario",
    "friendlyname": "Bro. Reggie Rosario",
@@ -30452,7 +30452,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Cajayon, Tracy D.",
    "name": "Tracy D. Cajayon",
    "friendlyname": "Sis. Tracy Cajayon",
@@ -30502,7 +30502,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Gabas, Michael A.",
    "name": "Michael A. Gabas",
    "friendlyname": "Bro. Michael Gabas",
@@ -30552,7 +30552,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Gonzales, Antonio",
    "name": "Antonio Gonzales",
    "friendlyname": "Bro. Antonio Gonzales",
@@ -30602,7 +30602,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Lacson, Rogelio",
    "name": "Rogelio Lacson",
    "friendlyname": "Bro. Rogelio Lacson",
@@ -30652,7 +30652,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Llana, Avelina",
    "name": "Avelina Llana",
    "friendlyname": "Sis. Avelina Llana",
@@ -30702,7 +30702,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Llana, Daniela Marie C.",
    "name": "Daniela Marie C. Llana",
    "friendlyname": "Sis. Daniela Marie Llana",
@@ -30752,7 +30752,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "59",
+   "group": "59",
    "fullname": "Pelimiano, Eurica",
    "name": "Eurica Pelimiano",
    "friendlyname": "Sis. Eurica Pelimiano",
@@ -30802,7 +30802,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Alcera, Ian James T.",
    "name": "Ian James T. Alcera",
    "friendlyname": "Bro. Ian James Alcera",
@@ -30852,7 +30852,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Alcera, Jenny",
    "name": "Jenny Alcera",
    "friendlyname": "Sis. Jenny Alcera",
@@ -30902,7 +30902,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Aligarbes, Junalyn G.",
    "name": "Junalyn G. Aligarbes",
    "friendlyname": "Sis. Junalyn Aligarbes",
@@ -30952,7 +30952,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Fariolen, Margarita",
    "name": "Margarita Fariolen",
    "friendlyname": "Sis. Margarita Fariolen",
@@ -31002,7 +31002,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Hernandez, Elcita S.",
    "name": "Elcita S. Hernandez",
    "friendlyname": "Sis. Elcita Hernandez",
@@ -31052,7 +31052,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Hernandez, Ricardo",
    "name": "Ricardo Hernandez",
    "friendlyname": "Bro. Ricardo Hernandez",
@@ -31102,7 +31102,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Suan, Michael D.",
    "name": "Michael D. Suan",
    "friendlyname": "Bro. Michael Suan",
@@ -31152,7 +31152,7 @@
  {
    "id": "",
    "cluster": 12,
-   "subgroup": "60",
+   "group": "60",
    "fullname": "Veliganio, Ferdinand",
    "name": "Ferdinand Veliganio",
    "friendlyname": "Bro. Ferdinand Veliganio",
@@ -31202,7 +31202,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Aguilar, Walter C.",
    "name": "Walter C. Aguilar",
    "friendlyname": "Bro. Walter Aguilar",
@@ -31252,7 +31252,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Calansingin, Allan",
    "name": "Allan Calansingin",
    "friendlyname": "Bro. Allan Calansingin",
@@ -31302,7 +31302,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Cortezano, Corazon",
    "name": "Corazon Cortezano",
    "friendlyname": "Sis. Corazon Cortezano",
@@ -31352,7 +31352,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Francisco, Luisa",
    "name": "Luisa Francisco",
    "friendlyname": "Sis. Luisa Francisco",
@@ -31402,7 +31402,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Gimoro, Maricar",
    "name": "Maricar Gimoro",
    "friendlyname": "Sis. Maricar Gimoro",
@@ -31452,7 +31452,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Lumbre, Jhoevelyn",
    "name": "Jhoevelyn Lumbre",
    "friendlyname": "Sis. Jhoevelyn Lumbre",
@@ -31502,7 +31502,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Magan, Jusil",
    "name": "Jusil Magan",
    "friendlyname": "Bro. Jusil Magan",
@@ -31552,7 +31552,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "61",
+   "group": "61",
    "fullname": "Rubiso, Virginia B.",
    "name": "Virginia B. Rubiso",
    "friendlyname": "Sis. Virginia Rubiso",
@@ -31602,7 +31602,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Abad, Virgilio M.",
    "name": "Virgilio M. Abad",
    "friendlyname": "Bro. Virgilio Abad",
@@ -31652,7 +31652,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Alarde, Ralp B.",
    "name": "Ralp B. Alarde",
    "friendlyname": "Bro. Ralp Alarde",
@@ -31702,7 +31702,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Arong, Ian",
    "name": "Ian Arong",
    "friendlyname": "Bro. Ian Arong",
@@ -31752,7 +31752,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Balbas, Luzviminda",
    "name": "Luzviminda Balbas",
    "friendlyname": "Sis. Luz Balbas",
@@ -31802,7 +31802,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Bernabe, Cherry Ann",
    "name": "Cherry Ann Bernabe",
    "friendlyname": "Sis. Cherry Ann Bernabe",
@@ -31852,7 +31852,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Bernabe, Edgardo",
    "name": "Edgardo Bernabe",
    "friendlyname": "Bro. Edgardo Bernabe",
@@ -31902,7 +31902,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Bernabe, Edward A.",
    "name": "Edward A. Bernabe",
    "friendlyname": "Bro. Edward Bernabe",
@@ -31952,7 +31952,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Royulada, Jonathan O.",
    "name": "Jonathan O. Royulada",
    "friendlyname": "Bro. Jonathan Royulada",
@@ -32002,7 +32002,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "62",
+   "group": "62",
    "fullname": "Vibal, Jerick",
    "name": "Jerick Vibal",
    "friendlyname": "Bro. Jerick Vibal",
@@ -32052,7 +32052,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Cardeño, Brian Anthony D.",
    "name": "Brian Anthony D. Cardeño",
    "friendlyname": "Bro. Brian Anthony Cardeño",
@@ -32102,7 +32102,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Cardeño, Mark Anthony D.",
    "name": "Mark Anthony D. Cardeño",
    "friendlyname": "Bro. Mark Anthony Cardeño",
@@ -32152,7 +32152,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Cardeño, Melvin",
    "name": "Melvin Cardeño",
    "friendlyname": "Bro. Melvin Cardeño",
@@ -32202,7 +32202,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Cardeño, Natalie Eden D.",
    "name": "Natalie Eden D. Cardeño",
    "friendlyname": "Sis. Natalie Eden Cardeño",
@@ -32252,7 +32252,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Cardeño, Nathaniel Adam D.",
    "name": "Nathaniel Adam D. Cardeño",
    "friendlyname": "Bro. Nathaniel Adam Cardeño",
@@ -32302,7 +32302,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Macaraig, Norma",
    "name": "Norma Macaraig",
    "friendlyname": "Sis. Norma Macaraig",
@@ -32352,7 +32352,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Macaraig, Roger",
    "name": "Roger Macaraig",
    "friendlyname": "Bro. Roger Macaraig",
@@ -32402,7 +32402,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Mira, Juliet P.",
    "name": "Juliet P. Mira",
    "friendlyname": "Sis. Juliet Mira",
@@ -32452,7 +32452,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Quintana, Rogelio",
    "name": "Rogelio Quintana",
    "friendlyname": "Bro. Rogelio Quintana",
@@ -32502,7 +32502,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "63",
+   "group": "63",
    "fullname": "Villaluna, Grace",
    "name": "Grace Villaluna",
    "friendlyname": "Sis. Grace Villaluna",
@@ -32552,7 +32552,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Aterrado, Aries",
    "name": "Aries Aterrado",
    "friendlyname": "Bro. Aries Aterrado",
@@ -32602,7 +32602,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Dadua, Mark Andrew A.",
    "name": "Mark Andrew A. Dadua",
    "friendlyname": "Bro. Mark Andrew Dadua",
@@ -32652,7 +32652,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Dadua, Rachel M.",
    "name": "Rachel M. Dadua",
    "friendlyname": "Sis. Rachel Dadua",
@@ -32702,7 +32702,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Labitag, Alexander",
    "name": "Alexander Labitag",
    "friendlyname": "Bro. Alexander Labitag",
@@ -32752,7 +32752,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Santos, John A.",
    "name": "John A. Santos",
    "friendlyname": "Bro. John Santos",
@@ -32802,7 +32802,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Vibal, Joan",
    "name": "Joan Vibal",
    "friendlyname": "Sis. Joan Vibal",
@@ -32852,7 +32852,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Vibal, Jonathan",
    "name": "Jonathan Vibal",
    "friendlyname": "Bro. Jonathan Vibal",
@@ -32902,7 +32902,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Vibal, Ma. Jesusa P.",
    "name": "Ma. Jesusa P. Vibal",
    "friendlyname": "Sis. Jesusa Vibal",
@@ -32952,7 +32952,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "64",
+   "group": "64",
    "fullname": "Vibal, Yolanda",
    "name": "Yolanda Vibal",
    "friendlyname": "Sis. Yolanda Vibal",
@@ -33002,7 +33002,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Gebilaguin, Napoleon",
    "name": "Napoleon Gebilaguin",
    "friendlyname": "Bro. Napoleon Gebilaguin",
@@ -33052,7 +33052,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Gelera, Joshua D.",
    "name": "Joshua D. Gelera",
    "friendlyname": "Bro. Joshua Gelera",
@@ -33102,7 +33102,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Gonzales, Fely",
    "name": "Fely Gonzales",
    "friendlyname": "Sis. Fely Gonzales",
@@ -33152,7 +33152,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Gonzales, Rufino",
    "name": "Rufino Gonzales",
    "friendlyname": "Bro. Rufino Gonzales",
@@ -33202,7 +33202,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Padilla, Jonathan K.",
    "name": "Jonathan K. Padilla",
    "friendlyname": "Bro. Jonathan Padilla",
@@ -33252,7 +33252,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Repil, Edgardo",
    "name": "Edgardo Repil",
    "friendlyname": "Bro. Edgardo Repil",
@@ -33302,7 +33302,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Repil, Zenaida",
    "name": "Zenaida Repil",
    "friendlyname": "Sis. Zenaida Repil",
@@ -33352,7 +33352,7 @@
  {
    "id": "",
    "cluster": 13,
-   "subgroup": "65",
+   "group": "65",
    "fullname": "Serrano, John S.",
    "name": "John S. Serrano",
    "friendlyname": "Bro. John Serrano",
@@ -33402,7 +33402,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Bacalalayo, Cindy",
    "name": "Cindy Bacalalayo",
    "friendlyname": "Sis. Cindy Bacalalayo",
@@ -33452,7 +33452,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Burlan, Leticia",
    "name": "Leticia Burlan",
    "friendlyname": "Sis. Leticia Burlan",
@@ -33502,7 +33502,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Rosales, Blanca T.",
    "name": "Blanca T. Rosales",
    "friendlyname": "Sis. Blanca Rosales",
@@ -33552,7 +33552,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Rosales, Earl Benjamin",
    "name": "Earl Benjamin Rosales",
    "friendlyname": "Bro. Earl Benjamin Rosales",
@@ -33602,7 +33602,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Rosales, Eira Beatrice T.",
    "name": "Eira Beatrice T. Rosales",
    "friendlyname": "Sis. Eira Beatrice Rosales",
@@ -33652,7 +33652,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Rosales, Emerson P.",
    "name": "Emerson P. Rosales",
    "friendlyname": "Bro. Emerson Rosales",
@@ -33702,7 +33702,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Rosales, Enzo Benedict T.",
    "name": "Enzo Benedict T. Rosales",
    "friendlyname": "Bro. Enzo Benedict Rosales",
@@ -33752,7 +33752,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Tecquin, Alma",
    "name": "Alma Tecquin",
    "friendlyname": "Sis. Alma Tecquin",
@@ -33802,7 +33802,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "66",
+   "group": "66",
    "fullname": "Tecquin, Eduardo",
    "name": "Eduardo Tecquin",
    "friendlyname": "Bro. Eduardo Tecquin",
@@ -33852,7 +33852,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Azuelo, Rolly",
    "name": "Rolly Azuelo",
    "friendlyname": "Bro. Rolly Azuelo",
@@ -33902,7 +33902,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Cariaso, Christian",
    "name": "Christian Cariaso",
    "friendlyname": "Bro. Christian Cariaso",
@@ -33952,7 +33952,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Cariaso, Danica",
    "name": "Danica Cariaso",
    "friendlyname": "Sis. Danica Cariaso",
@@ -34002,7 +34002,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Cruz, Rosario",
    "name": "Rosario Cruz",
    "friendlyname": "Sis. Rosario Cruz",
@@ -34052,7 +34052,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Etiroza, Marlen",
    "name": "Marlen Etiroza",
    "friendlyname": "Sis. Marlen Etiroza",
@@ -34102,7 +34102,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Lacaba, Wilson",
    "name": "Wilson Lacaba",
    "friendlyname": "Bro. Wilson Lacaba",
@@ -34152,7 +34152,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Morales, Marissa",
    "name": "Marissa Morales",
    "friendlyname": "Sis. Marissa Morales",
@@ -34202,7 +34202,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Munar, Roberto I.",
    "name": "Roberto I. Munar",
    "friendlyname": "Bro. Roberto Munar",
@@ -34252,7 +34252,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Quitoriano, Jerry C.",
    "name": "Jerry C. Quitoriano",
    "friendlyname": "Bro. Jerry Quitoriano",
@@ -34302,7 +34302,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "67",
+   "group": "67",
    "fullname": "Timagos, Arturo R.",
    "name": "Arturo R. Timagos",
    "friendlyname": "Bro. Arturo Timagos",
@@ -34352,7 +34352,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Almazon, Wilfredo",
    "name": "Wilfredo Almazon",
    "friendlyname": "Bro. Wilfredo Almazon",
@@ -34402,7 +34402,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Bagallon, Gary V.",
    "name": "Gary V. Bagallon",
    "friendlyname": "Bro. Gary Bagallon",
@@ -34452,7 +34452,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Bentuso, Danilo",
    "name": "Danilo Bentuso",
    "friendlyname": "Bro. Danilo Bentuso",
@@ -34502,7 +34502,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Fernandez, Bienvenida",
    "name": "Bienvenida Fernandez",
    "friendlyname": "Sis. Bienvenida Fernandez",
@@ -34552,7 +34552,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Ocampo, Gretchin",
    "name": "Gretchin Ocampo",
    "friendlyname": "Sis. Gretchin Ocampo",
@@ -34602,7 +34602,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Ocampo, Joy",
    "name": "Joy Ocampo",
    "friendlyname": "Sis. Joy Ocampo",
@@ -34652,7 +34652,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Rusia, Lujell",
    "name": "Lujell Rusia",
    "friendlyname": "Bro. Lujell Rusia",
@@ -34702,7 +34702,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Salmorin, Romy Boy",
    "name": "Romy Boy Salmorin",
    "friendlyname": "Bro. Romy Boy Salmorin",
@@ -34752,7 +34752,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Tubo, Delfin",
    "name": "Delfin Tubo",
    "friendlyname": "Bro. Delfin Tubo",
@@ -34802,7 +34802,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "68",
+   "group": "68",
    "fullname": "Zabala, Nash",
    "name": "Nash Zabala",
    "friendlyname": "Bro. Nash Zabala",
@@ -34852,7 +34852,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Gaspar, Joel",
    "name": "Joel Gaspar",
    "friendlyname": "Bro. Joel Gaspar",
@@ -34902,7 +34902,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Huab, Dennis",
    "name": "Dennis Huab",
    "friendlyname": "Bro. Dennis Huab",
@@ -34952,7 +34952,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Orencio, Gonzalo Jr.",
    "name": "Gonzalo Orencio Jr.",
    "friendlyname": "Bro. Gonzalo Orencio Jr.",
@@ -35002,7 +35002,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Palos, Alicia",
    "name": "Alicia Palos",
    "friendlyname": "Sis. Alicia Palos",
@@ -35052,7 +35052,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Pazon, Nathaniel K.",
    "name": "Nathaniel K. Pazon",
    "friendlyname": "Bro. Nathaniel Pazon",
@@ -35102,7 +35102,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Rosario, Ronald A.",
    "name": "Ronald A. Rosario",
    "friendlyname": "Bro. Ronald Rosario",
@@ -35152,7 +35152,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Silvestre, Edwin",
    "name": "Edwin Silvestre",
    "friendlyname": "Bro. Edwin Silvestre",
@@ -35202,7 +35202,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "69",
+   "group": "69",
    "fullname": "Villanueva, Rogelio",
    "name": "Rogelio Villanueva",
    "friendlyname": "Bro. Rogelio Villanueva",
@@ -35252,7 +35252,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Balico, Angelaine",
    "name": "Angelaine Balico",
    "friendlyname": "Sis. Angelaine Balico",
@@ -35302,7 +35302,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Camanso, Vhea",
    "name": "Vhea Camanso",
    "friendlyname": "Sis. Vhea Camanso",
@@ -35352,7 +35352,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Dayao, Sandra",
    "name": "Sandra Dayao",
    "friendlyname": "Sis. Sandra Dayao",
@@ -35402,7 +35402,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Dela Cruz, Resty",
    "name": "Resty Dela Cruz",
    "friendlyname": "Bro. Resty Dela Cruz",
@@ -35452,7 +35452,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Dionisio, Roxanne",
    "name": "Roxanne Dionisio",
    "friendlyname": "Sis. Roxanne Dionisio",
@@ -35502,7 +35502,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Gamorot, Anna M.",
    "name": "Anna M. Gamorot",
    "friendlyname": "Sis. Anna Gamorot",
@@ -35552,7 +35552,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Saldivar, Jethro",
    "name": "Jethro Saldivar",
    "friendlyname": "Bro. Jethro Saldivar",
@@ -35602,7 +35602,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Velez, Jozant",
    "name": "Jozant Velez",
    "friendlyname": "Bro. Jozant Velez",
@@ -35652,7 +35652,7 @@
  {
    "id": "",
    "cluster": 14,
-   "subgroup": "70",
+   "group": "70",
    "fullname": "Villalon, Virginia",
    "name": "Virginia Villalon",
    "friendlyname": "Sis. Virginia Villalon",
@@ -35702,7 +35702,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Calixtro, Rodelio",
    "name": "Rodelio Calixtro",
    "friendlyname": "Bro. Rodelio Calixtro",
@@ -35752,7 +35752,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Candido, Reynaldo",
    "name": "Reynaldo Candido",
    "friendlyname": "Bro. Reynaldo Candido",
@@ -35802,7 +35802,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Flores, Adelaida",
    "name": "Adelaida Flores",
    "friendlyname": "Sis. Adelaida Flores",
@@ -35852,7 +35852,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Garnudo, Babelyn",
    "name": "Babelyn Garnudo",
    "friendlyname": "Sis. Babelyn Garnudo",
@@ -35902,7 +35902,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Padang, Jay-arr",
    "name": "Jay-arr Padang",
    "friendlyname": "Bro. Jay-arr Padang",
@@ -35952,7 +35952,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Pesimo, Modesto",
    "name": "Modesto Pesimo",
    "friendlyname": "Bro. Modesto Pesimo",
@@ -36002,7 +36002,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Reyes, Marlyn",
    "name": "Marlyn Reyes",
    "friendlyname": "Sis. Marlyn Reyes",
@@ -36052,7 +36052,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Sanchez, Alejandro Jr.",
    "name": "Alejandro Sanchez Jr.",
    "friendlyname": "Bro. Alejandro Sanchez Jr.",
@@ -36102,7 +36102,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "71",
+   "group": "71",
    "fullname": "Velasco, Bernabe",
    "name": "Bernabe Velasco",
    "friendlyname": "Bro. Bernabe Velasco",
@@ -36152,7 +36152,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Baruyot, Zanban",
    "name": "Zanban Baruyot",
    "friendlyname": "Bro. Zanban Baruyot",
@@ -36202,7 +36202,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Dela Cruz, Dennis",
    "name": "Dennis Dela Cruz",
    "friendlyname": "Bro. Dennis Dela Cruz",
@@ -36252,7 +36252,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Delos Reyes, Jonathan",
    "name": "Jonathan Delos Reyes",
    "friendlyname": "Bro. Jonathan Delos Reyes",
@@ -36302,7 +36302,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Fernandez, Rhex",
    "name": "Rhex Fernandez",
    "friendlyname": "Bro. Rhex Fernandez",
@@ -36352,7 +36352,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Garnudo, Blackgold",
    "name": "Blackgold Garnudo",
    "friendlyname": "Bro. Blackgold Garnudo",
@@ -36402,7 +36402,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Jangit, Elmer",
    "name": "Elmer Jangit",
    "friendlyname": "Bro. Elmer Jangit",
@@ -36452,7 +36452,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Pecayo, Maricel",
    "name": "Maricel Pecayo",
    "friendlyname": "Sis. Maricel Pecayo",
@@ -36502,7 +36502,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Soledad, Ronilda",
    "name": "Ronilda Soledad",
    "friendlyname": "Sis. Ronilda Soledad",
@@ -36552,7 +36552,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Tabuna, Elenita",
    "name": "Elenita Tabuna",
    "friendlyname": "Sis. Elenita Tabuna",
@@ -36602,7 +36602,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "72",
+   "group": "72",
    "fullname": "Timbas, Miguelito",
    "name": "Miguelito Timbas",
    "friendlyname": "Bro. Miguelito Timbas",
@@ -36652,7 +36652,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Avelino, Art A.",
    "name": "Art A. Avelino",
    "friendlyname": "Bro. Art Avelino",
@@ -36702,7 +36702,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Caballero, Warren O.",
    "name": "Warren O. Caballero",
    "friendlyname": "Bro. Warren Caballero",
@@ -36752,7 +36752,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Candido, Berlita B.",
    "name": "Berlita B. Candido",
    "friendlyname": "Sis. Berlita Candido",
@@ -36802,7 +36802,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Duquez, Shiela D.",
    "name": "Shiela D. Duquez",
    "friendlyname": "Sis. Shiela Duquez",
@@ -36852,7 +36852,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Ibrahim, Meloujie C.",
    "name": "Meloujie C. Ibrahim",
    "friendlyname": "Sis. Meloujie Ibrahim",
@@ -36902,7 +36902,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Kagalingan, Sophia",
    "name": "Sophia Kagalingan",
    "friendlyname": "Sis. Sophia Kagalingan",
@@ -36952,7 +36952,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Navales, Aira Joy P.",
    "name": "Aira Joy P. Navales",
    "friendlyname": "Sis. Aira Joy Navales",
@@ -37002,7 +37002,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Plaza, Filomina",
    "name": "Filomina Plaza",
    "friendlyname": "Sis. Filomina Plaza",
@@ -37052,7 +37052,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "San Juan, Penn V.",
    "name": "Penn V. San Juan",
    "friendlyname": "Bro. Penn San Juan",
@@ -37102,7 +37102,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "73",
+   "group": "73",
    "fullname": "Tulio, Ma. Consuelo",
    "name": "Ma. Consuelo Tulio",
    "friendlyname": "Sis. Consuelo Tulio",
@@ -37152,7 +37152,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Andrino, Jeffrey",
    "name": "Jeffrey Andrino",
    "friendlyname": "Bro. Jeffrey Andrino",
@@ -37202,7 +37202,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Bobis, Iluminado",
    "name": "Iluminado Bobis",
    "friendlyname": "Bro. Iluminado Bobis",
@@ -37252,7 +37252,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Caballero, Bernabe",
    "name": "Bernabe Caballero",
    "friendlyname": "Bro. Bernabe Caballero",
@@ -37302,7 +37302,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Caguintuan, Paul John",
    "name": "Paul John Caguintuan",
    "friendlyname": "Bro. Paul John Caguintuan",
@@ -37352,7 +37352,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Licup, Romeo B.",
    "name": "Romeo B. Licup",
    "friendlyname": "Bro. Romeo Licup",
@@ -37402,7 +37402,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Luriz, Princess P.",
    "name": "Princess P. Luriz",
    "friendlyname": "Sis. Princess Luriz",
@@ -37452,7 +37452,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Padura, Jeric",
    "name": "Jeric Padura",
    "friendlyname": "Bro. Jeric Padura",
@@ -37502,7 +37502,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Pagasita, Danilo Jr. C.",
    "name": "Danilo C. Pagasita Jr.",
    "friendlyname": "Bro. Danilo Pagasita Jr.",
@@ -37552,7 +37552,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Ponge, Danilo S.",
    "name": "Danilo S. Ponge",
    "friendlyname": "Bro. Danilo Ponge",
@@ -37602,7 +37602,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Salas, Eugene",
    "name": "Eugene Salas",
    "friendlyname": "Bro. Eugene Salas",
@@ -37652,7 +37652,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "74",
+   "group": "74",
    "fullname": "Sarabosing, Eitan Miguel",
    "name": "Eitan Miguel Sarabosing",
    "friendlyname": "Bro. Eitan Miguel Sarabosing",
@@ -37702,7 +37702,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Bitoin, John Christian V.",
    "name": "John Christian V. Bitoin",
    "friendlyname": "Bro. John Christian Bitoin",
@@ -37752,7 +37752,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Dona, Jayson",
    "name": "Jayson Dona",
    "friendlyname": "Bro. Jayson Dona",
@@ -37802,7 +37802,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Entera, Rosilyn M.",
    "name": "Rosilyn M. Entera",
    "friendlyname": "Sis. Rosilyn Entera",
@@ -37852,7 +37852,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Gil, Rosemarie C.",
    "name": "Rosemarie C. Gil",
    "friendlyname": "Sis. Rosemarie Gil",
@@ -37902,7 +37902,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Lunday, Keith Matthew T.",
    "name": "Keith Matthew T. Lunday",
    "friendlyname": "Bro. Keith Matthew Lunday",
@@ -37952,7 +37952,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Magon, Syrell",
    "name": "Syrell Magon",
    "friendlyname": "Bro. Syrell Magon",
@@ -38002,7 +38002,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Mariano, Jhentricia A.",
    "name": "Jhentricia A. Mariano",
    "friendlyname": "Sis. Jhentricia Mariano",
@@ -38052,7 +38052,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Pedronia, Leticia",
    "name": "Leticia Pedronia",
    "friendlyname": "Sis. Leticia Pedronia",
@@ -38102,7 +38102,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Pingol, Ageo",
    "name": "Ageo Pingol",
    "friendlyname": "Bro. Ageo Pingol",
@@ -38152,7 +38152,7 @@
  {
    "id": "",
    "cluster": 15,
-   "subgroup": "75",
+   "group": "75",
    "fullname": "Rodil, Annika S.",
    "name": "Annika S. Rodil",
    "friendlyname": "Sis. Annika Rodil",
@@ -38202,7 +38202,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "76",
+   "group": "76",
    "fullname": "Acaba, Agnes",
    "name": "Agnes Acaba",
    "friendlyname": "Sis. Agnes Acaba",
@@ -38252,7 +38252,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "76",
+   "group": "76",
    "fullname": "Albarico, Christian",
    "name": "Christian Albarico",
    "friendlyname": "Bro. Christian Albarico",
@@ -38302,7 +38302,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "76",
+   "group": "76",
    "fullname": "Catalasan, Oliver",
    "name": "Oliver Catalasan",
    "friendlyname": "Bro. Oliver Catalasan",
@@ -38352,7 +38352,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "76",
+   "group": "76",
    "fullname": "Dionisio, Billy Joe",
    "name": "Billy Joe Dionisio",
    "friendlyname": "Bro. Billy Joe Dionisio",
@@ -38402,7 +38402,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "76",
+   "group": "76",
    "fullname": "Estonilo, Arnel G.",
    "name": "Arnel G. Estonilo",
    "friendlyname": "Bro. Arnel Estonilo",
@@ -38452,7 +38452,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "76",
+   "group": "76",
    "fullname": "Macaubos, Carl Andrae",
    "name": "Carl Andrae Macaubos",
    "friendlyname": "Bro. Carl Andrae Macaubos",
@@ -38502,7 +38502,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Babagay, Jobell",
    "name": "Jobell Babagay",
    "friendlyname": "Sis. Jobell Babagay",
@@ -38552,7 +38552,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Buenaventura, Leonila",
    "name": "Leonila Buenaventura",
    "friendlyname": "Sis. Leonila Buenaventura",
@@ -38602,7 +38602,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Bulacan, Ligaya",
    "name": "Ligaya Bulacan",
    "friendlyname": "Sis. Ligaya Bulacan",
@@ -38652,7 +38652,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Hernandez, Teodoro",
    "name": "Teodoro Hernandez",
    "friendlyname": "Bro. Teodoro Hernandez",
@@ -38702,7 +38702,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Labrador, Jose Jr.",
    "name": "Jose Labrador Jr.",
    "friendlyname": "Bro. Jose Labrador Jr.",
@@ -38752,7 +38752,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Orsaga, Jorge",
    "name": "Jorge Orsaga",
    "friendlyname": "Bro. Jorge Orsaga",
@@ -38802,7 +38802,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Ponpon, Nicole",
    "name": "Nicole Ponpon",
    "friendlyname": "Sis. Nicole Ponpon",
@@ -38852,7 +38852,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Sabado, Gloria",
    "name": "Gloria Sabado",
    "friendlyname": "Sis. Gloria Sabado",
@@ -38902,7 +38902,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "77",
+   "group": "77",
    "fullname": "Sabado, Jackielyn",
    "name": "Jackielyn Sabado",
    "friendlyname": "Sis. Jackielyn Sabado",
@@ -38952,7 +38952,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Auguis, Jomar",
    "name": "Jomar Auguis",
    "friendlyname": "Bro. Jomar Auguis",
@@ -39002,7 +39002,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Bangayan, Joana",
    "name": "Joana Bangayan",
    "friendlyname": "Sis. Joana Bangayan",
@@ -39052,7 +39052,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Borja, Khrisna",
    "name": "Khrisna Borja",
    "friendlyname": "Sis. Khrisna Borja",
@@ -39102,7 +39102,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Golosinda, Dodie",
    "name": "Dodie Golosinda",
    "friendlyname": "Bro. Dodie Golosinda",
@@ -39152,7 +39152,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Mayrina, Marelyn",
    "name": "Marelyn Mayrina",
    "friendlyname": "Sis. Marelyn Mayrina",
@@ -39202,7 +39202,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Mira, Rodel Jr.",
    "name": "Rodel Mira Jr.",
    "friendlyname": "Bro. Rodel Mira Jr.",
@@ -39252,7 +39252,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Ordiz, Joselito",
    "name": "Joselito Ordiz",
    "friendlyname": "Bro. Joselito Ordiz",
@@ -39302,7 +39302,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Puroc, Bernardo",
    "name": "Bernardo Puroc",
    "friendlyname": "Bro. Bernardo Puroc",
@@ -39352,7 +39352,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Salamat, Trinidad",
    "name": "Trinidad Salamat",
    "friendlyname": "Sis. Trinidad Salamat",
@@ -39402,7 +39402,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Talana, Leonardo",
    "name": "Leonardo Talana",
    "friendlyname": "Bro. Leonardo Talana",
@@ -39452,7 +39452,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Talana, Rosalyn",
    "name": "Rosalyn Talana",
    "friendlyname": "Sis. Rosalyn Talana",
@@ -39502,7 +39502,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Tolentino, Roland",
    "name": "Roland Tolentino",
    "friendlyname": "Bro. Roland Tolentino",
@@ -39552,7 +39552,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Torres, Barry",
    "name": "Barry Torres",
    "friendlyname": "Bro. Barry Torres",
@@ -39602,7 +39602,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "78",
+   "group": "78",
    "fullname": "Zaide, Armando",
    "name": "Armando Zaide",
    "friendlyname": "Bro. Armando Zaide",
@@ -39652,7 +39652,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Balasbas, Arnel",
    "name": "Arnel Balasbas",
    "friendlyname": "Bro. Arnel Balasbas",
@@ -39702,7 +39702,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Balbas, Mariella",
    "name": "Mariella Balbas",
    "friendlyname": "Sis. Mariella Balbas",
@@ -39752,7 +39752,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Ballesteros, Ronnie",
    "name": "Ronnie Ballesteros",
    "friendlyname": "Bro. Ronnie Ballesteros",
@@ -39802,7 +39802,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Cabrigas, Ashly",
    "name": "Ashly Cabrigas",
    "friendlyname": "Sis. Ashly Cabrigas",
@@ -39852,7 +39852,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Legaspi, Enrico",
    "name": "Enrico Legaspi",
    "friendlyname": "Bro. Enrico Legaspi",
@@ -39902,7 +39902,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Naval, Leoncia",
    "name": "Leoncia Naval",
    "friendlyname": "Sis. Leoncia Naval",
@@ -39952,7 +39952,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Perucho, Joey",
    "name": "Joey Perucho",
    "friendlyname": "Bro. Joey Perucho",
@@ -40002,7 +40002,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Pingol, Marife",
    "name": "Marife Pingol",
    "friendlyname": "Sis. Marife Pingol",
@@ -40052,7 +40052,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Reyes, Ernesto",
    "name": "Ernesto Reyes",
    "friendlyname": "Bro. Ernesto Reyes",
@@ -40102,7 +40102,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Rico, Antonieta",
    "name": "Antonieta Rico",
    "friendlyname": "Sis. Antonieta Rico",
@@ -40152,7 +40152,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Rico, Sammy",
    "name": "Sammy Rico",
    "friendlyname": "Bro. Sammy Rico",
@@ -40202,7 +40202,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Rubio, Rizaldy",
    "name": "Rizaldy Rubio",
    "friendlyname": "Bro. Rizaldy Rubio",
@@ -40252,7 +40252,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Sari, Roel",
    "name": "Roel Sari",
    "friendlyname": "Bro. Roel Sari",
@@ -40302,7 +40302,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Tubato, Vida",
    "name": "Vida Tubato",
    "friendlyname": "Sis. Vida Tubato",
@@ -40352,7 +40352,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Villanueva, Joan",
    "name": "Joan Villanueva",
    "friendlyname": "Sis. Joan Villanueva",
@@ -40402,7 +40402,7 @@
  {
    "id": "",
    "cluster": 16,
-   "subgroup": "79",
+   "group": "79",
    "fullname": "Villanueva, Joemarie",
    "name": "Joemarie Villanueva",
    "friendlyname": "Bro. Joemarie Villanueva",
@@ -40452,7 +40452,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Abiertas, Francis",
    "name": "Francis Abiertas",
    "friendlyname": "Bro. Francis Abiertas",
@@ -40502,7 +40502,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Alpar, Mylene",
    "name": "Mylene Alpar",
    "friendlyname": "Sis. Mylene Alpar",
@@ -40552,7 +40552,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Aquinde, Enrico",
    "name": "Enrico Aquinde",
    "friendlyname": "Bro. Enrico Aquinde",
@@ -40602,7 +40602,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Batuhan, Michael",
    "name": "Michael Batuhan",
    "friendlyname": "Bro. Michael Batuhan",
@@ -40652,7 +40652,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Bocal, Anacleto Jr.",
    "name": "Anacleto Bocal Jr.",
    "friendlyname": "Bro. Anacleto Bocal Jr.",
@@ -40702,7 +40702,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Buenaventura, Daniel",
    "name": "Daniel Buenaventura",
    "friendlyname": "Bro. Daniel Buenaventura",
@@ -40752,7 +40752,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Bustamante, Porferia",
    "name": "Porferia Bustamante",
    "friendlyname": "Sis. Porferia Bustamante",
@@ -40802,7 +40802,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Capistrano, Genie",
    "name": "Genie Capistrano",
    "friendlyname": "Sis. Genie Capistrano",
@@ -40852,7 +40852,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Cardente, Richard",
    "name": "Richard Cardente",
    "friendlyname": "Bro. Richard Cardente",
@@ -40902,7 +40902,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Constantino, Aida",
    "name": "Aida Constantino",
    "friendlyname": "Sis. Aida Constantino",
@@ -40952,7 +40952,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Cruz, Rogelio",
    "name": "Rogelio Cruz",
    "friendlyname": "Bro. Rogelio Cruz",
@@ -41002,7 +41002,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Dantes, Geraldine",
    "name": "Geraldine Dantes",
    "friendlyname": "Sis. Geraldine Dantes",
@@ -41052,7 +41052,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Defeo, Ronald C.",
    "name": "Ronald C. Defeo",
    "friendlyname": "Bro. Ronald Defeo",
@@ -41102,7 +41102,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Dela Cruz, Jose",
    "name": "Jose Dela Cruz",
    "friendlyname": "Bro. Jose Dela Cruz",
@@ -41152,7 +41152,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Dela Cruz, Ryan",
    "name": "Ryan Dela Cruz",
    "friendlyname": "Bro. Ryan Dela Cruz",
@@ -41202,7 +41202,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Episcope, Daniel",
    "name": "Daniel Episcope",
    "friendlyname": "Bro. Daniel Episcope",
@@ -41252,7 +41252,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Fariolen, Devenciana",
    "name": "Devenciana Fariolen",
    "friendlyname": "Sis. Devenciana Fariolen",
@@ -41302,7 +41302,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Gabas, Erick",
    "name": "Erick Gabas",
    "friendlyname": "Bro. Erick Gabas",
@@ -41352,7 +41352,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Golez, Rose",
    "name": "Rose Golez",
    "friendlyname": "Sis. Rose Golez",
@@ -41402,7 +41402,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Hermida, Myrna",
    "name": "Myrna Hermida",
    "friendlyname": "Sis. Myrna Hermida",
@@ -41452,7 +41452,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Lazarte, Teresita",
    "name": "Teresita Lazarte",
    "friendlyname": "Sis. Teresita Lazarte",
@@ -41502,7 +41502,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Lumabas, Mary Jean",
    "name": "Mary Jean Lumabas",
    "friendlyname": "Sis. Mary Jean Lumabas",
@@ -41552,7 +41552,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Luyang, Ronie",
    "name": "Ronie Luyang",
    "friendlyname": "Bro. Ronie Luyang",
@@ -41602,7 +41602,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Mabalay, Laidel",
    "name": "Laidel Mabalay",
    "friendlyname": "Sis. Laidel Mabalay",
@@ -41652,7 +41652,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Macabus, Virgilio",
    "name": "Virgilio Macabus",
    "friendlyname": "Bro. Virgilio Macabus",
@@ -41702,7 +41702,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Manapat, Arvin",
    "name": "Arvin Manapat",
    "friendlyname": "Bro. Arvin Manapat",
@@ -41752,7 +41752,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Miral, Lorna",
    "name": "Lorna Miral",
    "friendlyname": "Sis. Lorna Miral",
@@ -41802,7 +41802,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Montesino, Benjie",
    "name": "Benjie Montesino",
    "friendlyname": "Bro. Benjie Montesino",
@@ -41852,7 +41852,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Montesino, Richarlie",
    "name": "Richarlie Montesino",
    "friendlyname": "Bro. Richarlie Montesino",
@@ -41902,7 +41902,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Nolasco, Neil Victor",
    "name": "Neil Victor Nolasco",
    "friendlyname": "Bro. Neil Victor Nolasco",
@@ -41952,7 +41952,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Nuñez, Loreto",
    "name": "Loreto Nuñez",
    "friendlyname": "Bro. Loreto Nuñez",
@@ -42002,7 +42002,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Olita, Hazel",
    "name": "Hazel Olita",
    "friendlyname": "Sis. Hazel Olita",
@@ -42052,7 +42052,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Olita, Sonny",
    "name": "Sonny Olita",
    "friendlyname": "Bro. Sonny Olita",
@@ -42102,7 +42102,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Padul, Marlon",
    "name": "Marlon Padul",
    "friendlyname": "Bro. Marlon Padul",
@@ -42152,7 +42152,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Pelagio, Marciano Jr.",
    "name": "Marciano Pelagio Jr.",
    "friendlyname": "Bro. Marciano Pelagio Jr.",
@@ -42202,7 +42202,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Perez, Rhandy",
    "name": "Rhandy Perez",
    "friendlyname": "Bro. Rhandy Perez",
@@ -42252,7 +42252,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Ponce, Dennis",
    "name": "Dennis Ponce",
    "friendlyname": "Bro. Dennis Ponce",
@@ -42302,7 +42302,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Posa, Jeniel",
    "name": "Jeniel Posa",
    "friendlyname": "Bro. Jeniel Posa",
@@ -42352,7 +42352,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Santos, Ronnie",
    "name": "Ronnie Santos",
    "friendlyname": "Bro. Ronnie Santos",
@@ -42402,7 +42402,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Sarmiento, Lou",
    "name": "Lou Sarmiento",
    "friendlyname": "Bro. Lou Sarmiento",
@@ -42452,7 +42452,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Torion, Rey Genaldo",
    "name": "Rey Genaldo Torion",
    "friendlyname": "Bro. Rey Genaldo Torion",
@@ -42502,7 +42502,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Traballo, Romulo",
    "name": "Romulo Traballo",
    "friendlyname": "Bro. Romulo Traballo",
@@ -42552,7 +42552,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Tubig, Nestor",
    "name": "Nestor Tubig",
    "friendlyname": "Bro. Nestor Tubig",
@@ -42602,7 +42602,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Viaña, Niño",
    "name": "Niño Viaña",
    "friendlyname": "Bro. Niño Viaña",
@@ -42652,7 +42652,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Vidal, Van",
    "name": "Van Vidal",
    "friendlyname": "Bro. Van Vidal",
@@ -42702,7 +42702,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Warriner, Angielyn",
    "name": "Angielyn Warriner",
    "friendlyname": "Sis. Angielyn Warriner",
@@ -42752,7 +42752,7 @@
  {
    "id": "",
    "cluster": null,
-   "subgroup": "",
+   "group": "",
    "fullname": "Zabala, Pablito",
    "name": "Pablito Zabala",
    "friendlyname": "Bro. Pablito Zabala",
