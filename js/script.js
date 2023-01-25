@@ -60,21 +60,19 @@ function h(string) {
 function validate() {
     const moment = require('moment');
     var has_service_type = ($('#service-type').val().length > 0);
-    var has_datetime = (
-        dateTime = moment($('#datetime-attended').val().length > 0), "YYYY-MM-DD HH:mm:ss");
-        dateTime.isValid();
-        );
-    var has_date = ($('#date-attended').val().length > 0);
-    var has_time = ($('#time-attended').val().length > 0);
+    var dateTime = moment($('#datetime-attended').val().length > 0), 'YYYY-MM-DD HH:mm:ss');            
+    //var has_date = ($('#date-attended').val().length > 0);
+    //var has_time = ($('#time-attended').val().length > 0);
     var has_group = ($('#group').val().length > 0);
     var has_member = ($('#miembros').val().length > 0);
-    if (has_service_type && has_date && has_time && has_group && has_member) {
+    if (has_service_type && dateTime && has_group && has_member) {
         var d = new Date($('#datetime-attended').val());
         var current_year = 2023;
         if (d.getFullYear() < current_year) {
             alert('Please enter the correct date');
             return false;
         }
+        dateTime.isValid();
         return true;
     }
     alert('Please complete the information in the form.');
