@@ -81,7 +81,7 @@ const saveAttendanceRecords = function() {
         return;
     }
     disableForm();
-    const MACRO_SCRIPT_ID = '1gwqwVwN80BZniZltdby3aCzaExRO-w9faEj6CxpMMMI';
+    const MACRO_SCRIPT_ID = '1gwqwVwN80BZniZltdby3aCzaExRO-w9faEj6CxpMMMI';    
     const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec';
     const form = $('form[name=attendance-form]');
 
@@ -108,7 +108,12 @@ const saveAttendanceRecords = function() {
 
     fetch(googleMacroURL, {
         method: 'POST',
-        body: data
+        mode: "no-cors",
+        cache: "no-cache",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(data)
     })
     .then(response => response.json())
     .then(data => {
