@@ -120,9 +120,11 @@ const saveAttendanceRecords = function() {
     .then(response => response.json())
     .then(data => {
         successfulAttendanceRecord();
+        console.log(data);
     })
     .catch(error => function() {
         unsuccessfulAttendanceRecord();
+        console.log(error);
     });
 }
 
