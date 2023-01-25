@@ -6,7 +6,7 @@ const loadMiembros = function() {
         window.miembros = myObj;
         let text = "<option id='select-a-member' value=''>- Select Name -</option>";
         for (let x in myObj) {
-            text += "<option value='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-subgroup='" + myObj[x].subgroup + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
+            text += "<option value='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-group='" + myObj[x].group + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
         }
         document.getElementById("miembros").innerHTML = text;
     }
@@ -21,8 +21,8 @@ function loadSubgroupMembers(id) {
     let text = "<option id='select-a-member' value=''>- Select Name -</option>";
     var myObj = window.miembros;
     for (let x in myObj) {
-        if (myObj[x].subgroup == id) {
-            text += "<option value='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-subgroup='" + myObj[x].subgroup + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
+        if (myObj[x].group == id) {
+            text += "<option value='" + myObj[x].id + "' data-churchid='" + myObj[x].churchid + "' data-group='" + myObj[x].group + "' data-youth='" + myObj[x].youth + "'>" + myObj[x].friendlyname + "</option>";
         }
     }
     document.getElementById("miembros").innerHTML = text;
@@ -61,9 +61,9 @@ function validate() {
     var has_service_type = ($('#service-type').val().length > 0);
     var has_date = ($('#date-attended').val().length > 0);
     var has_time = ($('#time-attended').val().length > 0);
-    var has_subgroup = ($('#subgroup').val().length > 0);
+    var has_group = ($('#group').val().length > 0);
     var has_member = ($('#miembros').val().length > 0);
-    if (has_service_type && has_date && has_time && has_subgroup && has_member) {
+    if (has_service_type && has_date && has_time && has_group && has_member) {
         var d = new Date($('#date-attended').val());
         var current_year = 2023;
         if (d.getFullYear() < current_year) {
@@ -81,8 +81,6 @@ const saveAttendanceRecords = function() {
         return;
     }
     disableForm();
-    //const MACRO_SCRIPT_ID = '1gwqwVwN80BZniZltdby3aCzaExRO-w9faEj6CxpMMMI';    
-    //const googleMacroURL = 'https://script.google.com/macros/s/' + MACRO_SCRIPT_ID + '/exec';
     const sheetdb = 'https://sheetdb.io/api/v1/ywcdl0dl8fhb8';
     const form = $('form[name=attendance-form]');
 
@@ -90,7 +88,7 @@ const saveAttendanceRecords = function() {
     var church_id = $('#miembros option:selected').data('churchid');
     var service_type = $('#service-type').val();
     var member_friendlyname = $('#miembros option:selected').text();
-    var subgroup_id = $('#subgroup').val();
+    var group_id = $('#group').val();
     var date_attended = $('#date-attended').val();
     var time_attended = $('#time-attended').val();
     var platform = $('#platform').val();
@@ -101,7 +99,7 @@ const saveAttendanceRecords = function() {
     data.append('church_id', church_id);
     data.append('service_type', service_type);
     data.append('friendlyname', member_friendlyname);
-    data.append('subgroup', subgroup_id);
+    data.append('group', group_id);
     data.append('date_attended', date_attended);
     data.append('time_attended', time_attended);
     data.append('platform', platform);
@@ -109,13 +107,12 @@ const saveAttendanceRecords = function() {
 
     fetch(sheetdb, {
         method: 'POST',
-        body: data    
-        //mode: "no-cors",
-        //cache: "no-cache",
-        //headers: {
-        //    "Content-Type": "application/json"
-        //},
-        //body: JSON.stringify(data)
+        mode: "no-cors",
+        cache: "no-cache",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(data)
     })
     .then(response => response.json())
     .then(data => {
@@ -151,23 +148,23 @@ function haveInputs() {
     var has_service_type = ($('#service-type option:selected').val().length > 0);
     var has_date = ($('#date-attended').val().length > 0);
     var has_time = ($('#time-attended option:selected').val().length > 0);
-    var has_subgroup = ($('#subgroup option:selected').val().length > 0);
+    var has_group = ($('#group option:selected').val().length > 0);
     var has_member = ($('#miembros option:selected').val().length > 0);
-    if (has_subgroup) {
+    if (has_group) {
         $('#miembros').attr('disabled', false);
     } else {
         $('#miembros').attr('disabled', true);
     }
-    if (has_service_type && has_date && has_time && has_subgroup && has_member) {
+    if (has_service_type && has_date && has_time && has_group && has_member) {
         $('#submit-attendance-button').attr('disabled', false);
     } else {
         $('#submit-attendance-button').attr('disabled', true);
     }
 }
 
-function sortMembers(subgroup_id) {
+function sortMembers(group_id) {
 
-    var options = $('#miembros option[data-subgroup=' + subgroup_id + ']');
+    var options = $('#miembros option[data-group=' + group_id + ']');
     options.sort(function(a,b) {
         if(a.text.toUpperCase() > b.text.toUpperCase()) {
             return 1;
@@ -276,10 +273,10 @@ function autoSelectTime(service_type) {
 loadMiembros();
 setCurrentDate();
 
-$('#subgroup').on('change', function() {
-    var selected_subgroup = $(this).val();
-    loadSubgroupMembers(selected_subgroup);
-    sortMembers(selected_subgroup);
+$('#group').on('change', function() {
+    var selected_group = $(this).val();
+    loadSubgroupMembers(selected_group);
+    sortMembers(selected_group);
     haveInputs();
 });
 
